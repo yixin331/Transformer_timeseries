@@ -1,0 +1,74 @@
+{
+   "title": "Total United States vehicles entering in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total Number of United States vehicles entering Canada in each of the months during 2021 . ",
+      "The maximum Number of vehicles entering in a Month has been recorded for August . ",
+      "From February to August , this Number has been continuing to grow ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {
+         "1": "1",
+         "3": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "134295.0"
+      },
+      {
+         "Month": "February",
+         "Number": "124675.0"
+      },
+      {
+         "Month": "March",
+         "Number": "157034.0"
+      },
+      {
+         "Month": "April",
+         "Number": "144599.0"
+      },
+      {
+         "Month": "May",
+         "Number": "155025.0"
+      },
+      {
+         "Month": "June",
+         "Number": "167293.0"
+      },
+      {
+         "Month": "July",
+         "Number": "185685.0"
+      },
+      {
+         "Month": "August",
+         "Number": "317578.0"
+      },
+      {
+         "Month": "September",
+         "Number": "310582.0"
+      },
+      {
+         "Month": "October",
+         "Number": "298495.0"
+      },
+      {
+         "Month": "November",
+         "Number": "263147.0"
+      },
+      {
+         "Month": "December",
+         "Number": "281608.0"
+      }
+   ],
+   "gold": "This line chart reflects the Total United States vehicles entering Canada during 2021 . From January until July a steady increase of up to approximately 187000 can be observed . There is a rapid increase in the number of vehicles entering Canada from the United States between July and August , reaching its highest number , and then followed by a steady decrease .\n"
+}

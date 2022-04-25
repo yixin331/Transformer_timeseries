@@ -1,0 +1,1 @@
+This line chart describes the supply of creamery butter in Canada over the year of 2020. The supply constantly fluctuates each month, but there is a general downward trend over the entire year. The supply starts at around 40500 tonnes at the start of the year, peaks at around 42500 tonnes in April, but then declines down to 36000 tonnes by December.

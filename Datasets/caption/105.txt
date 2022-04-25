@@ -1,0 +1,1 @@
+This is a line graph showing the average retail price for orange juice in Canada in the year 2020 . The units used are Dollars per Litre . There are 3 main spikes . One in March , one in May where it reaches it 's highest point , and finally one in August . It reaches it 's lowest price in October , before climbing again until December .

@@ -1,0 +1,1 @@
+This graph represents the average Canadian retail price for apples  during the year 2019. It was steadily increasing until June, where it reached a peak of 5 dollars/kilogram. After October, it head a steep drop where it reached a low of just under 4.2 dollars/kilogram in November.

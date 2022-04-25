@@ -1,0 +1,72 @@
+{
+   "title": "Commercial software prince index in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "ID 197",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Commercial software prince index Canada in 2017 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 197": "1173.0"
+      },
+      {
+         "Month": "February",
+         "ID 197": "1175.0"
+      },
+      {
+         "Month": "March",
+         "ID 197": "1183.0"
+      },
+      {
+         "Month": "April",
+         "ID 197": "1175.0"
+      },
+      {
+         "Month": "May",
+         "ID 197": "1176.0"
+      },
+      {
+         "Month": "June",
+         "ID 197": "1156.0"
+      },
+      {
+         "Month": "July",
+         "ID 197": "1134.0"
+      },
+      {
+         "Month": "August",
+         "ID 197": "1139.0"
+      },
+      {
+         "Month": "September",
+         "ID 197": "1115.0"
+      },
+      {
+         "Month": "October",
+         "ID 197": "1126.0"
+      },
+      {
+         "Month": "November",
+         "ID 197": "1137.0"
+      },
+      {
+         "Month": "December",
+         "ID 197": "1140.0"
+      }
+   ],
+   "gold": "The commercial software price index was slightly increasing during the three first months of the year 2017 , then slightly decline for a month . Afterwards it stayed constant for a month until a massive drop for 2 months , to grow again for a month and then decrease again . The 3 last months of the year the index surges again .\n"
+}

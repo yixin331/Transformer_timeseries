@@ -1,0 +1,71 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total Canadian vehicles returning to the country begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "1520514.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1374721.0"
+      },
+      {
+         "Month": "March",
+         "Number": "1692134.0"
+      },
+      {
+         "Month": "April",
+         "Number": "1787166.0"
+      },
+      {
+         "Month": "May",
+         "Number": "1831843.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1855073.0"
+      },
+      {
+         "Month": "July",
+         "Number": "2119074.0"
+      },
+      {
+         "Month": "August",
+         "Number": "2329640.0"
+      },
+      {
+         "Month": "September",
+         "Number": "1981937.0"
+      },
+      {
+         "Month": "October",
+         "Number": "1900570.0"
+      },
+      {
+         "Month": "November",
+         "Number": "1767828.0"
+      },
+      {
+         "Month": "December",
+         "Number": "1690725.0"
+      }
+   ],
+   "gold": "The number of canadian vehicles returning to the country during 2017 registered the highest values during the summer months . In particular , the maximum number was recorded during August 2017 . At the same time , the lowest value of the year was during the month of February .\n"
+}

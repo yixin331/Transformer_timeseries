@@ -1,0 +1,77 @@
+{
+   "title": "New trucks sales in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Thousand dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New trucks sales begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April . ",
+      "Then it raises steeply to 6 from April to June . ",
+      "During June to September , it continues the climb but with a steady speed ."
+   ],
+   "trends": [
+      {
+         "22": "3"
+      },
+      {
+         "7": "3",
+         "9": "5"
+      },
+      {
+         "1": "5",
+         "3": "8"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand dollars": "3786001.0"
+      },
+      {
+         "Month": "February",
+         "Thousand dollars": "4667614.0"
+      },
+      {
+         "Month": "March",
+         "Thousand dollars": "6737907.0"
+      },
+      {
+         "Month": "April",
+         "Thousand dollars": "6546562.0"
+      },
+      {
+         "Month": "May",
+         "Thousand dollars": "5734443.0"
+      },
+      {
+         "Month": "June",
+         "Thousand dollars": "6343026.0"
+      },
+      {
+         "Month": "July",
+         "Thousand dollars": "6039348.0"
+      },
+      {
+         "Month": "August",
+         "Thousand dollars": "5631170.0"
+      },
+      {
+         "Month": "September",
+         "Thousand dollars": "5468500.0"
+      },
+      {
+         "Month": "October",
+         "Thousand dollars": "5290228.0"
+      },
+      {
+         "Month": "November",
+         "Thousand dollars": "5048396.0"
+      },
+      {
+         "Month": "December",
+         "Thousand dollars": "4764808.0"
+      }
+   ],
+   "gold": "Extremely sharp increase from Jan to March , then a general , slower downtrend from Mar to Dec. A little spike from May to Jun but otherwise a downtrend month to month .\n"
+}

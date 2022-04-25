@@ -1,0 +1,72 @@
+{
+   "title": "Land price index in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Index 347",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the values of Canada price Index in Canada during 2018 . ",
+      "It 's clearly possible to see how it rapidly grew over the year , with really few and light fluctuations . ",
+      "The minimum value has been recorded during January and the maximum one during December ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "7": "0",
+         "13": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Index 347": "1037.0"
+      },
+      {
+         "Month": "February",
+         "Index 347": "1038.0"
+      },
+      {
+         "Month": "March",
+         "Index 347": "1037.0"
+      },
+      {
+         "Month": "April",
+         "Index 347": "1037.0"
+      },
+      {
+         "Month": "May",
+         "Index 347": "1038.0"
+      },
+      {
+         "Month": "June",
+         "Index 347": "1039.0"
+      },
+      {
+         "Month": "July",
+         "Index 347": "1039.0"
+      },
+      {
+         "Month": "August",
+         "Index 347": "1039.0"
+      },
+      {
+         "Month": "September",
+         "Index 347": "1040.0"
+      },
+      {
+         "Month": "October",
+         "Index 347": "1040.0"
+      },
+      {
+         "Month": "November",
+         "Index 347": "1041.0"
+      },
+      {
+         "Month": "December",
+         "Index 347": "1041.0"
+      }
+   ],
+   "gold": "This figure represents the land price index in Canada in 2018 . Overall the price index increases throughout the year . During January a value of 1037 can be observed , after which it rises up to 1038 during February .\n"
+}

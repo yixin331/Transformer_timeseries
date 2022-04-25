@@ -1,0 +1,71 @@
+{
+   "title": "Production of creamery butter in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of creamery in Canada the year 2018 . ",
+      "The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Production decreased again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "12767.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "10805.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "11435.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "12642.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "10079.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "9240.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "7685.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "7497.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "7249.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "9442.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "7952.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "9351.0"
+      }
+   ],
+   "gold": "The production of creamy butter reached its highest point in January of 2018 . Thereafter , production declined in February and then recovered in May . In the months following production steadily decreased until September .\n"
+}

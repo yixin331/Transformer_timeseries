@@ -1,0 +1,1 @@
+This graph represents the production of new motor vehicles in Canada during 2016 . Production starts very low in January and undergoes a sharp increase until it reaches its peak of over 200000 motor vehicles in April . The following months production decreases , being almost steady at 175000 from July until September . Production gradually decreases until December .

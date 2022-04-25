@@ -1,0 +1,75 @@
+{
+   "title": "Production of creamery butter in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of creamery butter Canada in Tonnes Canada during 2020 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Production amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "12297.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "10058.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "10404.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "11959.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "9150.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "9008.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "9293.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "8348.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "8172.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "9428.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "8977.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "11141.0"
+      }
+   ],
+   "gold": "We can see the line chart shows the production of creamery butter in Canada in 2020 . The production oscillates within the whole year . It drops dramatically from January to February and then rises till April .\n"
+}

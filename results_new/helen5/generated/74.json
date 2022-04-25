@@ -1,0 +1,71 @@
+{
+   "title": "International imports in all services in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International imports in all services in Canada of the year 2019 are shown in the line chart . ",
+      "The imports start from over 15000 million dollars and rapidly decrease till May . ",
+      "Then it maintains at the same level during rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "14382.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "13645.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "15617.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "15167.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "14123.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "13022.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "13573.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "13993.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "13225.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "13474.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "13466.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "13926.0"
+      }
+   ],
+   "gold": "The following line chart is about the International Imports in all services in Canada during 2019 . The values are reported using Millions of dollars as a unit of measure . It is clearly possible to see a peak in March .\n"
+}

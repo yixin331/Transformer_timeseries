@@ -1,0 +1,1 @@
+This line graph illustrates the total number of Canadian vehicles that returned to the country in 2018. The x-axis shows the different months of the year, whereas the y-axis shows the number of vehicles. There is a rise in the first months of the year, reaching a high in August (2300000). Numbers decrease over the last months of the year.

@@ -1,0 +1,1 @@
+This line graph displays the production of fresh potatoes in Canada for 2018 using the farm product price index . A slow but steady increase is observed from January to June , where a steep increase is seen from June to August . A steep decrease follows from August to October , where the value again rises steadily from October to December .

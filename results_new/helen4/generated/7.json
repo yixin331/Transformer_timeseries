@@ -1,0 +1,72 @@
+{
+   "title": "Average retail price for eggs in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/dozen",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for eggs in Canada 2020 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/dozen": "3.48"
+      },
+      {
+         "Month": "February",
+         "Dollars/dozen": "3.48"
+      },
+      {
+         "Month": "March",
+         "Dollars/dozen": "3.41"
+      },
+      {
+         "Month": "April",
+         "Dollars/dozen": "3.6"
+      },
+      {
+         "Month": "May",
+         "Dollars/dozen": "3.59"
+      },
+      {
+         "Month": "June",
+         "Dollars/dozen": "3.59"
+      },
+      {
+         "Month": "July",
+         "Dollars/dozen": "3.62"
+      },
+      {
+         "Month": "August",
+         "Dollars/dozen": "3.67"
+      },
+      {
+         "Month": "September",
+         "Dollars/dozen": "3.7"
+      },
+      {
+         "Month": "October",
+         "Dollars/dozen": "3.61"
+      },
+      {
+         "Month": "November",
+         "Dollars/dozen": "3.65"
+      },
+      {
+         "Month": "December",
+         "Dollars/dozen": "3.66"
+      }
+   ],
+   "gold": "Egg prices increase throughout the year with low values in January , February and March of $ 3.40- $ 3.50/dozen . Prices rise steadily to $ 3.70/dozen in September before a slight dip during the remaining months of the year .\n"
+}

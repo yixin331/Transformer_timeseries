@@ -1,0 +1,75 @@
+{
+   "title": "Supply of creamery butter in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of creamery butter Canada in Tonnes Canada during 2016 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Supply amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "20923.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "24112.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "23785.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "26052.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "27751.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "27923.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "28901.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "25902.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "23059.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "23140.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "25511.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "24383.0"
+      }
+   ],
+   "gold": "In the following graph is described the monthly supply of creamery butter in tonnes about Canada during 2016 . The minimum value has been registered during the month of January and maximum during July . Furthermore , it 's possible to see how the supply of creamery butter is generally higher during spring and summer .\n"
+}

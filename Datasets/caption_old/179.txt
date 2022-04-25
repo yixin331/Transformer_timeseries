@@ -1,0 +1,1 @@
+This graph shows the average retail price for regular gasoline at self-service stations in Canada during 2021. The price remains stably increasing throughout the year, peaking during the month October. The highest average price is 146 cents/litre while the lowest average price is 111 cents/litre. .

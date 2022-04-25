@@ -1,0 +1,1 @@
+The graph shows the units of new trucks sales in Canada for each month in 2020 . The sales reach a peak in Feburary at about 100000 units , and then decrease to a minimum point of 40000 in April , then continuously increasing from May to September . The sales reaches the maximum at September at 140000 , and then decrease again until December .

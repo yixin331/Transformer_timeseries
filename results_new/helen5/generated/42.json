@@ -1,0 +1,77 @@
+{
+   "title": "New passenger cars sales in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Thousand dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New passenger cars begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April . ",
+      "Then it raises steeply to 6 from April to June . ",
+      "During June to September , it continues the climb but with a steady speed ."
+   ],
+   "trends": [
+      {
+         "22": "3"
+      },
+      {
+         "7": "3",
+         "9": "5"
+      },
+      {
+         "1": "5",
+         "3": "8"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand dollars": "691048.0"
+      },
+      {
+         "Month": "February",
+         "Thousand dollars": "846222.0"
+      },
+      {
+         "Month": "March",
+         "Thousand dollars": "1433541.0"
+      },
+      {
+         "Month": "April",
+         "Thousand dollars": "1344113.0"
+      },
+      {
+         "Month": "May",
+         "Thousand dollars": "1152300.0"
+      },
+      {
+         "Month": "June",
+         "Thousand dollars": "1554215.0"
+      },
+      {
+         "Month": "July",
+         "Thousand dollars": "1275104.0"
+      },
+      {
+         "Month": "August",
+         "Thousand dollars": "1323240.0"
+      },
+      {
+         "Month": "September",
+         "Thousand dollars": "1333291.0"
+      },
+      {
+         "Month": "October",
+         "Thousand dollars": "1005114.0"
+      },
+      {
+         "Month": "November",
+         "Thousand dollars": "1036864.0"
+      },
+      {
+         "Month": "December",
+         "Thousand dollars": "883134.0"
+      }
+   ],
+   "gold": "A line chart about new passenger cars sales in Canada in 2021 . The sales increase dramatically during January and March , then oscillate between March and July . Between July and September , the sales remain stable .\n"
+}

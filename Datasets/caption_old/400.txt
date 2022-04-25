@@ -1,0 +1,1 @@
+The graph showes the price index of servers in 2016. It starts with the maximum value in January and falls massive till to the minimum in March. Afterwards it increases till June while dropping a little bit in May. In June it drops again and increase afterwards slowly till october. It fall again rapidly in November and stays constant in December.

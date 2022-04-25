@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for apples in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for apples Canada in Dollars/kilogram Canada during 2021 . ",
+      "The trend shows the price rising over time with minor oscillations . ",
+      "The price reached a low of 22.5 in February and a high of 4.97 in October ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "8": "1",
+         "13": "7",
+         "15": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "4.53"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "4.49"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "4.57"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "4.55"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "4.64"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "4.66"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "4.79"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "4.97"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "4.9"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "4.61"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "4.44"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "4.76"
+      }
+   ],
+   "gold": "This line chart shows the average retail price for apples in Canada in 2021 . The average price in January is at $ 4.53/kg and steadily increases to $ 4.97/kg in August . The average price then drops to $ 4.45/kg between August and November .\n"
+}

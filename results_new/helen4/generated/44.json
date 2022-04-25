@@ -1,0 +1,77 @@
+{
+   "title": "Production of Fresh vegetables in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Fresh in vegetables Canada in the year of 2016 . ",
+      "As the graph rises from January to February , it drops sharply until July , before reaching a minimum of 1375.0",
+      "Subsequently , the value rises continuously until the end of the year , reaching a maximum of 1343.0 in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "1",
+         "13": "6",
+         "20": "5"
+      },
+      {
+         "17": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1401.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1400.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1391.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1369.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1359.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1375.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1349.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1343.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1345.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1343.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1361.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1410.0"
+      }
+   ],
+   "gold": "The given graph shows the monthly development of the production of fresh vegetables in Farm product price index in 2016 in Canada . After starting out at 1402 in January it immediately starts falling to 1360 in May , rising again to 1375 in June and then falling to 1343 in August . After staying pretty flat until October it starts skyrocketing to its highest point of 1410 in December .\n"
+}

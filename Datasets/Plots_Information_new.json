@@ -1,0 +1,702 @@
+{
+  "101": {
+    "title": "Total international travellers entering the country",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "102": {
+    "title": "Total international travellers entering the country",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "103": {
+    "title": "Total international travellers entering the country",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "104": {
+    "title": "Total non-resident travellers entering the country",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "105": {
+    "title": "Total non-resident travellers entering the country",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "106": {
+    "title": "Total non-resident travellers entering the country",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "107": {
+    "title": "Total Canadian residents entering the country",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "108": {
+    "title": "Total Canadian residents entering the country",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "109": {
+    "title": "Total Canadian residents entering the country",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Persons",
+    "scale": "units"
+  },
+  "110": {
+    "title": "Production of creamery butter",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "111": {
+    "title": "Value of shipments of salt",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "units"
+  },
+  "112": {
+    "title": "Value of shipments of copper",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "units"
+  },
+  "113": {
+    "title": "Value of shipments of silver",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "units"
+  },
+  "114": {
+    "title": "Value of shipments of lime",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "units"
+  },
+  "115": {
+    "title": " Supply of creamery butter",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "116": {
+    "title": " Supply of creamery butter",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "117": {
+    "title": " Supply of creamery butter",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "118": {
+    "title": "Production of creamery butter",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "119": {
+    "title": "Production of creamery butter",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units"
+  },
+  "120": {
+    "title": " Supply of skim milk powder",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "121": {
+    "title": " Supply of skim milk powder",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "122": {
+    "title": " Supply of skim milk powder",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "123": {
+    "title": "Production of skim milk powder",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "124": {
+    "title": "Production of skim milk powder",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "125": {
+    "title": "Production of skim milk powder",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "126": {
+    "title": "Import of skim milk powder",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "127": {
+    "title": "Import of skim milk powder",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "128": {
+    "title": "Import of skim milk powder",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "129": {
+    "title": "Total solar electricity generation",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Megawatt hours",
+    "scale": "units "
+  },
+  "130": {
+    "title": "Total solar electricity generation",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Megawatt hours",
+    "scale": "units "
+  },
+  "131": {
+    "title": "Total hardwood production",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "132": {
+    "title": "Total hardwood production",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "133": {
+    "title": "Total hardwood production",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "134": {
+    "title": "Total softwood production",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "135": {
+    "title": "Total softwood production",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "136": {
+    "title": "Total softwood production",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Cubic metres",
+    "scale": "thousands"
+  },
+  "137": {
+    "title": "New passenger cars sales",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "138": {
+    "title": "New passenger cars sales",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "139": {
+    "title": "New passenger cars sales",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "140": {
+    "title": "New trucks sales",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "141": {
+    "title": "New trucks sales",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "142": {
+    "title": "New trucks sales",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Units",
+    "scale": "units "
+  },
+  "143": {
+    "title": "New passenger cars sales",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "144": {
+    "title": "New passenger cars sales",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "145": {
+    "title": "New passenger cars sales",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "146": {
+    "title": "New trucks sales",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "147": {
+    "title": "New trucks sales",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "148": {
+    "title": "New trucks sales",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "thousands"
+  },
+  "149": {
+    "title": "Average retail price for regular gasoline at self-service stations",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Cents/litre",
+    "scale": "units "
+  },
+  "150": {
+    "title": "Average retail price for regular gasoline at self-service stations",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Cents/litre",
+    "scale": "units "
+  },
+  "151": {
+    "title": "Average retail price for regular gasoline at self-service stations",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Cents/litre",
+    "scale": "units "
+  },
+  "152": {
+    "title": "Average retail price for pork chops",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "153": {
+    "title": "Average retail price for pork chops",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "154": {
+    "title": "Average retail price for pork chops",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "155": {
+    "title": "Average retail price for eggs",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/dozen",
+    "scale": "units "
+  },
+  "156": {
+    "title": "Average retail price for eggs",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/dozen",
+    "scale": "units "
+  },
+  "157": {
+    "title": "Average retail price for eggs",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/dozen",
+    "scale": "units "
+  },
+  "158": {
+    "title": "Average retail price for orange juice",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "159": {
+    "title": "Average retail price for orange juice",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "160": {
+    "title": "Average retail price for orange juice",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "161": {
+    "title": "Average retail price for cigarettes",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "units "
+  },
+  "162": {
+    "title": "International exports in all services",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "163": {
+    "title": "International exports in all services",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "164": {
+    "title": "International exports in all services",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "165": {
+    "title": "Average retail price for sirloin steak",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "166": {
+    "title": "Average retail price for apples",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "167": {
+    "title": "Average retail price for ketchup",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "168": {
+    "title": "Average retail price for sirloin steak",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "169": {
+    "title": "Average retail price for apples",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "170": {
+    "title": "Average retail price for ketchup",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "171": {
+    "title": "Average retail price for sirloin steak",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "172": {
+    "title": "Average retail price for apples",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/kilogram",
+    "scale": "units "
+  },
+  "173": {
+    "title": "Average retail price for ketchup",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars/litre",
+    "scale": "units "
+  },
+  "174": {
+    "title": "International imports in all services",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "175": {
+    "title": "International imports in all services",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "176": {
+    "title": "International imports in all services",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Dollars",
+    "scale": "millions"
+  },
+  "177": {
+    "title": "Total Canadian vehicles returning to the country",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "178": {
+    "title": "Total Canadian vehicles returning to the country",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "179": {
+    "title": "Total Canadian vehicles returning to the country",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "180": {
+    "title": "Total United States vehicles entering",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "181": {
+    "title": "Total United States vehicles entering",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "182": {
+    "title": "Total United States vehicles entering",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "183": {
+    "title": "Total vehicles entering Canada",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "184": {
+    "title": "Total vehicles entering Canada",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "185": {
+    "title": "Total vehicles entering Canada",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Number",
+    "scale": "units "
+  },
+  "186": {
+    "title": "Production of Oats",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "187": {
+    "title": "Production of Rye",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "188": {
+    "title": "Production of Canola",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "189": {
+    "title": "Production of Wheat flour",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Metric tonnes",
+    "scale": "thousands"
+  },
+  "190": {
+    "title": "Import of creamery butter",
+    "year": "2021",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "191": {
+    "title": "Production of Oats",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "192": {
+    "title": "Production of Rye",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "193": {
+    "title": "Production of Canola",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "194": {
+    "title": "Production of Wheat flour",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Metric tonnes",
+    "scale": "thousands"
+  },
+  "195": {
+    "title": "Import of creamery butter",
+    "year": "2020",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "196": {
+    "title": "Production of Oats",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "197": {
+    "title": "Production of Rye",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "198": {
+    "title": "Production of Canola",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  },
+  "199": {
+    "title": "Production of Wheat flour",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Metric tonnes",
+    "scale": "thousands"
+  },
+  "200": {
+    "title": "Import of creamery butter",
+    "year": "2019",
+    "geo": "Canada",
+    "unit_of_measure": "Tonnes",
+    "scale": "units "
+  }
+}

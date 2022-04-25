@@ -1,0 +1,1 @@
+This line graph displays the land price index in Canada for 2016.  The index is unchanged from January to April, where it rises steadily until August.  From August to November there is a steep increase, with the value remaining unchanged in December.

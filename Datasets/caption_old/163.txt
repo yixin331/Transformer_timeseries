@@ -1,0 +1,1 @@
+Chart showing the average retail price for orange juice in Canada in the year 2021. This chart shows a lot of variability with large spikes over the different months, especially in the summer months. However there is a general trend over the year in increasing prices for dollars per litre of orange juice.

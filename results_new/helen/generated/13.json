@@ -1,0 +1,76 @@
+{
+   "title": "House price index in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Index 347",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph represents the House price Index of House in 2016 . ",
+      "A minimum of 982 can be observed throughout the months of January until April . ",
+      "A slow , but constant increase takes place from April until August , reaching a value of almost 990.0 ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "3"
+      },
+      {
+         "9": "3",
+         "11": "7",
+         "18": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Index 347": "967.0"
+      },
+      {
+         "Month": "February",
+         "Index 347": "970.0"
+      },
+      {
+         "Month": "March",
+         "Index 347": "972.0"
+      },
+      {
+         "Month": "April",
+         "Index 347": "976.0"
+      },
+      {
+         "Month": "May",
+         "Index 347": "985.0"
+      },
+      {
+         "Month": "June",
+         "Index 347": "985.0"
+      },
+      {
+         "Month": "July",
+         "Index 347": "990.0"
+      },
+      {
+         "Month": "August",
+         "Index 347": "993.0"
+      },
+      {
+         "Month": "September",
+         "Index 347": "993.0"
+      },
+      {
+         "Month": "October",
+         "Index 347": "998.0"
+      },
+      {
+         "Month": "November",
+         "Index 347": "999.0"
+      },
+      {
+         "Month": "December",
+         "Index 347": "1000.0"
+      }
+   ],
+   "gold": "The graph shows the house price index increasing over the year . It stayed the same for the mon of May and September but was increasing continuously throughout the year otherwise .\n"
+}

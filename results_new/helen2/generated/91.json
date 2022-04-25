@@ -1,0 +1,70 @@
+{
+   "title": "New trucks sales in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New trucks sales Canada in of the year 2020 are shown in the time-series line charts . ",
+      "The number rapidly grows from January to May and then drastically shrinks till the end of the year , reaching its minimum at around 25000 Units ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "4"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "90049.0"
+      },
+      {
+         "Month": "February",
+         "Units": "101037.0"
+      },
+      {
+         "Month": "March",
+         "Units": "75132.0"
+      },
+      {
+         "Month": "April",
+         "Units": "38880.0"
+      },
+      {
+         "Month": "May",
+         "Units": "90892.0"
+      },
+      {
+         "Month": "June",
+         "Units": "126404.0"
+      },
+      {
+         "Month": "July",
+         "Units": "132047.0"
+      },
+      {
+         "Month": "August",
+         "Units": "136908.0"
+      },
+      {
+         "Month": "September",
+         "Units": "140749.0"
+      },
+      {
+         "Month": "October",
+         "Units": "130589.0"
+      },
+      {
+         "Month": "November",
+         "Units": "108264.0"
+      },
+      {
+         "Month": "December",
+         "Units": "90873.0"
+      }
+   ],
+   "gold": "The graph depicts an overview of new trucks sales in Canada in 2020 . Starting from around 90000 units , the number increases in the first month and then reduces in the next two months , reaching its minimum at around 40000 units . The sales then dramatically increase till September and undergo a slip till the end of the year .\n"
+}

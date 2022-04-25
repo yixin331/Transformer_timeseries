@@ -1,0 +1,72 @@
+{
+   "title": "Production of Rye in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Rye Canada in Tonnes Canada during 2017 . ",
+      "The Production values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "6184.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "5550.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "7324.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "7477.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "8312.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "15186.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "14454.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "15607.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "19767.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "19996.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "7227.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "8394.0"
+      }
+   ],
+   "gold": "The graph illustrates the production of rye in canada in the year 2017 . The production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 tonnes . Then the production decrease again for the remaining months of the year .\n"
+}

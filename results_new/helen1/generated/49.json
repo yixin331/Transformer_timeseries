@@ -1,0 +1,69 @@
+{
+   "title": "International imports in all services in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows International imports in all services ( million of dollars ) to Canada during 2020 , each Month . ",
+      "There is a general upward trend . ",
+      "The graph was at its lowest in Feb and highest in Dec ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "15115.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "14360.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "14247.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "9972.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "9261.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "9587.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "9355.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "9442.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "10056.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "10028.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "10004.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "9911.0"
+      }
+   ],
+   "gold": "A line chart about international imports in all services in Canada in 2020 . The imports drop slightly from 15000 million dollars to 14000 million dollars from January to March . Then the imports fall dramatically to 10000 million dollars in April , then maintain the same level for the rest of the year .\n"
+}

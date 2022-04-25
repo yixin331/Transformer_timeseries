@@ -1,0 +1,71 @@
+{
+   "title": "Total United States vehicles entering in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph illustrates the Total United States States vehicles to the entering in 2020 . ",
+      "The Number of cars entering is about 1510198.09 at the start of the year . ",
+      "It increases towards fall There is a peak at 2339189.19 in August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "591133.0"
+      },
+      {
+         "Month": "February",
+         "Number": "609390.0"
+      },
+      {
+         "Month": "March",
+         "Number": "369752.0"
+      },
+      {
+         "Month": "April",
+         "Number": "98516.0"
+      },
+      {
+         "Month": "May",
+         "Number": "117618.0"
+      },
+      {
+         "Month": "June",
+         "Number": "150427.0"
+      },
+      {
+         "Month": "July",
+         "Number": "155165.0"
+      },
+      {
+         "Month": "August",
+         "Number": "160755.0"
+      },
+      {
+         "Month": "September",
+         "Number": "160081.0"
+      },
+      {
+         "Month": "October",
+         "Number": "159443.0"
+      },
+      {
+         "Month": "November",
+         "Number": "140860.0"
+      },
+      {
+         "Month": "December",
+         "Number": "146368.0"
+      }
+   ],
+   "gold": "The graph shows total United States vehicles entering Canada in 2020 every month . The maximum vehicles recorded entering were in the month of Feb . There was a sharp decline in the number of vehicles entering from Feb to Apr .\n"
+}

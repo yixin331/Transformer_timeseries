@@ -1,0 +1,74 @@
+{
+   "title": "Import of skim milk powder in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Import of skim in Canada 2021 . ",
+      "The Import generally falls from January to July . ",
+      "It then climbs rapidly to the peak at over 400000 Tonnes in October ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "6"
+      },
+      {
+         "12": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "217.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "293.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "223.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "206.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "162.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "302.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "358.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "145.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "272.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "185.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "263.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "134.0"
+      }
+   ],
+   "gold": "A line chart about the import of skim milk powder in Canada in the year 2021 . The import of skim milk powder was volatile throughout the year 2021 , with hug swings in July , but a large decline come the end of the year , reaching the lows of below 150 tonnes imported .\n"
+}

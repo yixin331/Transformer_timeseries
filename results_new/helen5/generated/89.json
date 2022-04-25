@@ -1,0 +1,69 @@
+{
+   "title": "Production of skim milk powder in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A line chart of Canada 's Production of skim milk powder in 2021 . ",
+      "It trends downward during the year but rapidly oscillates . ",
+      "In the last Month it rises up to 8000 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "9075.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "8278.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "7536.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "8543.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "7106.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "7061.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "8017.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "6561.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "6205.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "7185.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "6050.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "7964.0"
+      }
+   ],
+   "gold": "A line chart about skim milk powder production in 2021 in Canada . Milk powder production grows and drops alternatively and has an overall trend of decreasing . Most milk powder is produced in January , with a number of over 9000 tonnes .\n"
+}

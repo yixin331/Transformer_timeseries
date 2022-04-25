@@ -1,0 +1,74 @@
+{
+   "title": "Price index : Desktop and similar computers in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "ID 372",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Desktop similar computers in ID Canada during 2017 . ",
+      "The highest value recorded is about 10800 ID in January . ",
+      "The Price shows an overall decline with a few surges from January to July ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0"
+      },
+      {
+         "11": "0",
+         "13": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 372": "1004.0"
+      },
+      {
+         "Month": "February",
+         "ID 372": "996.0"
+      },
+      {
+         "Month": "March",
+         "ID 372": "991.0"
+      },
+      {
+         "Month": "April",
+         "ID 372": "990.0"
+      },
+      {
+         "Month": "May",
+         "ID 372": "989.0"
+      },
+      {
+         "Month": "June",
+         "ID 372": "973.0"
+      },
+      {
+         "Month": "July",
+         "ID 372": "972.0"
+      },
+      {
+         "Month": "August",
+         "ID 372": "973.0"
+      },
+      {
+         "Month": "September",
+         "ID 372": "968.0"
+      },
+      {
+         "Month": "October",
+         "ID 372": "970.0"
+      },
+      {
+         "Month": "November",
+         "ID 372": "968.0"
+      },
+      {
+         "Month": "December",
+         "ID 372": "965.0"
+      }
+   ],
+   "gold": "The price index of desktop and similar computers in Canada in 2017 is illustrated by this graph . Whereas the maximum of 1004 can be observed during January , a slow drop can be seen until May . The graph depicts a sharp drop between May and June , reaching 973 .\n"
+}

@@ -1,0 +1,1 @@
+Line chart showing the evolution of the Farm product price index in Canada in 2016.

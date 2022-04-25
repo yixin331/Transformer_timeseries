@@ -1,0 +1,1 @@
+This line chart shows the number of total vehicles entering Canada per month in 2020. Numbers are shown in millions of vehicles. Although over 2 million vehicles entered Canada in January and February 2020, there was a precipitous decrease between February and April. The number of cars then stayed steadily low (under 0.75 million) for the rest of the year.

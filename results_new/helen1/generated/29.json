@@ -1,0 +1,69 @@
+{
+   "title": "Price index : Desktop and similar computers in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 384",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Desktop similar computers in Canada during 2018 . ",
+      "The values are described using the ID 384 ( FPPI ) . ",
+      "The similar 384 shown several fluctuations ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 384": "962.0"
+      },
+      {
+         "Month": "February",
+         "ID 384": "962.0"
+      },
+      {
+         "Month": "March",
+         "ID 384": "958.0"
+      },
+      {
+         "Month": "April",
+         "ID 384": "959.0"
+      },
+      {
+         "Month": "May",
+         "ID 384": "959.0"
+      },
+      {
+         "Month": "June",
+         "ID 384": "956.0"
+      },
+      {
+         "Month": "July",
+         "ID 384": "956.0"
+      },
+      {
+         "Month": "August",
+         "ID 384": "953.0"
+      },
+      {
+         "Month": "September",
+         "ID 384": "954.0"
+      },
+      {
+         "Month": "October",
+         "ID 384": "953.0"
+      },
+      {
+         "Month": "November",
+         "ID 384": "956.0"
+      },
+      {
+         "Month": "December",
+         "ID 384": "957.0"
+      }
+   ],
+   "gold": "As it can be seen from the graph , the price index about desktop and similar computer in Canada during 2018 slowly decreased over the year with several fluctuations . During January and February the values remain stable , without any changes . The minimum values have been recorded during August and October .\n"
+}

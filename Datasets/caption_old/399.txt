@@ -1,0 +1,1 @@
+The given graph shows the house and land price index development in Canada in the year 2018, devided by month. The index started out at 1033 january and then decreased to 1031 in february and staying constant until may, giving way to a rise back to 1033 between may and july, again staying at 1033 dollars till the end of the year.

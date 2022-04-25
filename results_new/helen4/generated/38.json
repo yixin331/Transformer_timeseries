@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for apples in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A graph plotting the Average retail price for a kilogram of apples Canada in for every Month in the year 2019 . ",
+      "Starting a low below $ 4.43 , the price soars to nearly $ 5.03 by June before plunging to $ 4.69 by August and remains stable for the rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "13": "5",
+         "15": "5",
+         "20": "3",
+         "22": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "4.43"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "4.58"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "4.71"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "4.69"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "4.86"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "5.03"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "4.83"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "4.98"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "4.95"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "4.41"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "4.18"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "4.35"
+      }
+   ],
+   "gold": "Increased from Jan to Jun then dropped sharply from Sep to Nov . Stayed at relatively the same price between May and Sep .\n"
+}

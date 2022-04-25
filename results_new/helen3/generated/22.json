@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for sirloin steak in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2020 . ",
+      "The trend shows the price rising over time with minor oscillations . ",
+      "The price reached a low of 22.5 in February and a high of 26.68 in October ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "8": "1",
+         "13": "5",
+         "15": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "21.81"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "21.67"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "21.88"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "22.51"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "23.77"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "26.68"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "24.45"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "22.49"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "22.6"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "23.29"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "22.54"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "22.65"
+      }
+   ],
+   "gold": "The average retail price for sirloin steak grows exponentially from January to June and reaches the peak in June . Then decreases rapidly in August . Then it remains steady until December .\n"
+}

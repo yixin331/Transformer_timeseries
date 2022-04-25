@@ -1,0 +1,1 @@
+The provided graph depicts the development of the price index for tablet computers in Canada in 2016 , divided by month . After a slow decline from 943 in January to 938 in February it crashes , reaching a low point of 897 in March . Afterwards it rises to 924 in April and then slowly but constantly declines to 876 in December .

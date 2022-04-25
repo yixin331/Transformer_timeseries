@@ -1,0 +1,72 @@
+{
+   "title": "Total hardwood production in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the production of hardwood in Canada over the year of 2021 . ",
+      "The data is presented in cubic meters . ",
+      "According to the graph production of hardwood is the highest in March and the lowest in December ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "12": "2",
+         "17": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "70.5"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "81.6"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "85.6"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "83.6"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "71.1"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "77.7"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "50.1"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "67.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "75.9"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "69.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "75.3"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "66.1"
+      }
+   ],
+   "gold": "This is a connected scatterplot of hardwood production in Canada for the year 2021 . It shows the amount of hardwood sold in cubic metres per month for the whole year . July had the lowest sales while March had the highest sales .\n"
+}

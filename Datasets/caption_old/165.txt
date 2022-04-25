@@ -1,0 +1,1 @@
+Chart showing solar electricity generation in Canada in the year 2020. Axis show megawatt hours per month. With a gradual increase to the summer months peaking at July, then a corresponding decline to in the winter months. This makes intuitive sense based on the nature of the sun and the different seasons.

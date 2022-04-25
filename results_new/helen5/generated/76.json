@@ -1,0 +1,72 @@
+{
+   "title": "Supply of creamery butter in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Supply of creamery in Canada during 2017 showed several fluctuations during the year . ",
+      "The Supply values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "24190.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "25196.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "32096.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "36441.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "38676.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "38519.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "39128.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "37050.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "36575.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "34193.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "33978.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "33122.0"
+      }
+   ],
+   "gold": "From the graph is clear that the supply of creamery butter had a significant jump from the month of February to April . The values in the graph are described using tonnes as unit of measurement . From July over the values started to slowly decrease until the end of the year .\n"
+}

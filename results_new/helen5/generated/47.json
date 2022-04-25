@@ -1,0 +1,78 @@
+{
+   "title": "Total hardwood , production in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Total hardwood production in Canada 2018 in cubic meters . ",
+      "The values range from roughly 57000 in March to 46000 in December . ",
+      "January to March there is an increase in production , March to July production decreased and reached 50000 in July ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2",
+         "11": "11"
+      },
+      {
+         "0": "0",
+         "2": "2",
+         "10": "2",
+         "12": "6",
+         "19": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "1058.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "1004.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "1185.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "1103.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "1231.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "1191.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "745.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "878.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "1098.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "1127.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "1031.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "858.0"
+      }
+   ],
+   "gold": "The shown line chart illustrates the production values about total hardwood in Canada during 2018 . The production is described using cubic metres as unit of measure . The values have been significantly oscillating over the year .\n"
+}

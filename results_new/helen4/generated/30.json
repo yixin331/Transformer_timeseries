@@ -1,0 +1,69 @@
+{
+   "title": "Total non-resident travellers entering the country in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Total non-resident travelers entering Canada during the year 2019 , each Month . ",
+      "The graph was mostly stable from Jan to Apr , after which there is a general upward trend . ",
+      "Although , there was a declining trend from Aug to Nov ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "1492214.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "1494480.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "1803565.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "2071471.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "2808944.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "3887483.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "4713420.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "4612427.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "3144439.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "2422569.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "1786974.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "2191785.0"
+      }
+   ],
+   "gold": "This graph represents the total non-resident travellers entering Canada in 2019 . The graph starts out in January , where the number of Persons is 1.5e6 . It reaches a peak of 4.5e6 in July .\n"
+}

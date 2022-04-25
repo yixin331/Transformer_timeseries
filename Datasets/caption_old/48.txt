@@ -1,0 +1,1 @@
+A graph showing the value of shipments of copper in Canada for the year of 2020. The value fluctuates greatly between months, oscillating around a general trend of decreasing for the first half of the year and then increasing for the latter half. The period of oscillation appears to be around 4 months.

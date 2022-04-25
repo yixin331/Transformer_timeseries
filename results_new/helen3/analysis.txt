@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Value of shipments of lime in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['13066750.0', '12378648.0', '12748345.0', '12895339.0', '13448918.0', '14117480.0', '13976996.0', '11209042.0', '11759401.0', '13119607.0', '13965691.0', '11576791.0']
+
+gold: This line chart shows the monthly value of lime shipments into Canada in tens of millions of dollars for the period from January 2020 to December 2020 . This value fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp decline . These declines happened between July and August and again between November and December .
+gold_template: This line chart shows the monthly templateTitle[0] of templateTitle[2] templateTitle[1] into templateTitleSubject[0] in tens of templateScale of templateYLabel[0] for the period from templateXValue[0] templateTitleDate[0] to templateXValue[last] templateTitleDate[0] . This templateTitle[0] fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp templateNegativeTrend . These declines happened between templateXValue[6] and templateXValue[7] and again between templateXValue[10] and templateXValue[last] .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Value of shipment lime in Canada the Year 2020 .  We have a chart depicting dollar Value on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 49:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total hardwood production in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['82.0', '126.0', '107.8', '71.6', '71.8', '68.5', '73.6', '85.3', '83.2', '84.2', '67.5', '75.7']
+
+gold: The graph shows total hardwood production ( thousand cubic metres ) in Canada in 2020 , each month . The graph peaks in February , while it is at its lowest in November . There was a sharp decline in hardwood production between February and April , while there was a sharp increase from January to February .
+gold_template: The graph shows templateTitle[0] templateTitle[1] templateTitle[2] ( thousand templateYLabel[1] templateYLabel[2] ) in templateTitleSubject[0] in templateTitleDate[0] , each templateXLabel[0] . The graph peaks in templateXValue[1] , while it is at its lowest in templateXValue[10] . There was a sharp templateNegativeTrend in templateTitle[1] templateTitle[2] between templateXValue[1] and templateXValue[3] , while there was a sharp templatePositiveTrend from templateXValue[0] to templateXValue[1] .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: hardwood production was highest in March , producing approximately 5350000 m^3 continuing with high production through April and May .  production falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 52:
+titleEntities: {'Subject': ['sirloin steak', 'Canada'], 'Date': ['2019']}
+title: Average retail price for sirloin steak in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['22.39', '22.34', '23.06', '22.96', '22.65', '23.38', '22.17', '22.17', '22.42', '22.17', '22.43', '22.12']
+
+gold: A graph plotting the average retail price per kilogram of sirloin steak in Canada for every month in 2019 . The price increases from January to March before dropping by May only to peak in June before dropping to a new low in July and remaining at a similar price level for the rest of the year .
+gold_template: A graph plotting the templateTitle[0] templateTitle[1] templateTitle[2] per kilogram of templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[3] every templateXLabel[0] in templateTitleDate[0] . The templateTitle[2] increases from templateXValue[0] to templateXValue[2] before templateNegativeTrend by templateXValue[4] only to peak in templateXValue[5] before templateNegativeTrend to a new low in templateXValue[6] and remaining at a similar templateTitle[2] level templateTitle[3] the rest of the year .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2019 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 23.38 in October .
+

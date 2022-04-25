@@ -1,0 +1,72 @@
+{
+   "title": "Price index : Tablet computers in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 600",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Tablet computers Canada in Tablet 2018 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 600": "821.0"
+      },
+      {
+         "Month": "February",
+         "ID 600": "820.0"
+      },
+      {
+         "Month": "March",
+         "ID 600": "810.0"
+      },
+      {
+         "Month": "April",
+         "ID 600": "798.0"
+      },
+      {
+         "Month": "May",
+         "ID 600": "790.0"
+      },
+      {
+         "Month": "June",
+         "ID 600": "793.0"
+      },
+      {
+         "Month": "July",
+         "ID 600": "799.0"
+      },
+      {
+         "Month": "August",
+         "ID 600": "793.0"
+      },
+      {
+         "Month": "September",
+         "ID 600": "787.0"
+      },
+      {
+         "Month": "October",
+         "ID 600": "791.0"
+      },
+      {
+         "Month": "November",
+         "ID 600": "754.0"
+      },
+      {
+         "Month": "December",
+         "ID 600": "765.0"
+      }
+   ],
+   "gold": "The line graph depicts the price index of tablet computers in Canada for every month of 2018 . The overall trend for this year is a decrease . January recorded a high of 820 , whereas November had a low of 755 .\n"
+}

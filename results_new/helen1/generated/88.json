@@ -1,0 +1,72 @@
+{
+   "title": "Average retail price for regular gasoline at self-service stations in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Cents/litre",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for regular gasoline in Canada 2019 . ",
+      "The lowest Average is in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Cents/litre": "103.1"
+      },
+      {
+         "Month": "February",
+         "Cents/litre": "105.1"
+      },
+      {
+         "Month": "March",
+         "Cents/litre": "117.7"
+      },
+      {
+         "Month": "April",
+         "Cents/litre": "129.5"
+      },
+      {
+         "Month": "May",
+         "Cents/litre": "130.7"
+      },
+      {
+         "Month": "June",
+         "Cents/litre": "119.9"
+      },
+      {
+         "Month": "July",
+         "Cents/litre": "124.4"
+      },
+      {
+         "Month": "August",
+         "Cents/litre": "117.9"
+      },
+      {
+         "Month": "September",
+         "Cents/litre": "116.9"
+      },
+      {
+         "Month": "October",
+         "Cents/litre": "117.2"
+      },
+      {
+         "Month": "November",
+         "Cents/litre": "115.0"
+      },
+      {
+         "Month": "December",
+         "Cents/litre": "114.5"
+      }
+   ],
+   "gold": "A line graph about the average retail price for regular gasoline at self-service stations . The price gradually rises from the beginning of the year to May . Then we see a drop of cost in June and a rise again in July .\n"
+}

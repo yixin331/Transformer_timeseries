@@ -1,0 +1,1 @@
+Graph that describes the production of unprocessed milk in Canada in 2017. The production in October and February is the highest, while there is a significant drop the following two months of each. The production slightly rises in May but it then plunges until July, where the lowest value can be seen. After that month, there is a steady increase until October.

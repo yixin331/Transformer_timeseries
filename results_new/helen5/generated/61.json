@@ -1,0 +1,71 @@
+{
+   "title": "International exports in all services in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International exports in all services in Canada of the year 2020 are shown in the line chart . ",
+      "The exports start from over 15000 million dollars and rapidly decrease till May . ",
+      "Then it maintains at the same level during rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "12126.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "12485.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "11945.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "10907.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "8945.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "8988.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "8795.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "8982.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "10554.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "10662.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "10681.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "10731.0"
+      }
+   ],
+   "gold": "This line graph shows international exports in all services in Canada in the year 2020 , per month . The units used are millions of dollars . There is one prominent peak in February , with a decline until June to July .\n"
+}

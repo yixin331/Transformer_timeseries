@@ -1,0 +1,72 @@
+{
+   "title": "Production of Canola in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Canola Canada in Tonnes Canada during 2016 . ",
+      "The Production values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "770329.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "931493.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1037937.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "914127.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "957908.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "760314.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "849781.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "567226.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "693997.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "909620.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "994617.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "1129894.0"
+      }
+   ],
+   "gold": "The production of canola in tonnes in Canada during 2016 is shown in this line chart . Production sharply increases from January until March . During the following months production fluctuates in an overall decreasing manner until it reaches its minimum in August .\n"
+}

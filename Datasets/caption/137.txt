@@ -1,0 +1,1 @@
+This line graph shows the units of passenger cars sold in Canada in 2019 . The number of units sold jumps from 27000 to 59000 between January and May . Then the number of units uniformly declines to 25000 after May . .

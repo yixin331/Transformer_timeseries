@@ -1,0 +1,70 @@
+{
+   "title": "New passenger cars sales in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Thousand dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line graph shows the amount of sales , in thousands of dollars , of passenger cars in Canada the year 2020 . ",
+      "There was a drastic spike in sales amount , peaking in the Month of May , and then declining until the Month of December ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "4",
+         "23": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand dollars": "784089.0"
+      },
+      {
+         "Month": "February",
+         "Thousand dollars": "903832.0"
+      },
+      {
+         "Month": "March",
+         "Thousand dollars": "832237.0"
+      },
+      {
+         "Month": "April",
+         "Thousand dollars": "325259.0"
+      },
+      {
+         "Month": "May",
+         "Thousand dollars": "873563.0"
+      },
+      {
+         "Month": "June",
+         "Thousand dollars": "1347948.0"
+      },
+      {
+         "Month": "July",
+         "Thousand dollars": "1262426.0"
+      },
+      {
+         "Month": "August",
+         "Thousand dollars": "1244422.0"
+      },
+      {
+         "Month": "September",
+         "Thousand dollars": "1375065.0"
+      },
+      {
+         "Month": "October",
+         "Thousand dollars": "1014794.0"
+      },
+      {
+         "Month": "November",
+         "Thousand dollars": "939807.0"
+      },
+      {
+         "Month": "December",
+         "Thousand dollars": "923874.0"
+      }
+   ],
+   "gold": "This graph illustrates the monthly passenger cars sales in thousands of dollars in Canada in 2020 . There was a steep decline in the month of April , but in May the sale 's jumped back up to a value slightly higher than the recorded value for the month of march . In June there was another significant increase in sales , but in October it began to fall again .\n"
+}

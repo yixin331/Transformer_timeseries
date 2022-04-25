@@ -1,0 +1,73 @@
+{
+   "title": "Production of Oats in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Oats Canada ( in Tonnes ) in Canada the year 2017 . ",
+      "Production is very different over the year . ",
+      "While a significant decline in Production can be observed from January to February , Production continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "153304.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "116239.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "149358.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "94233.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "64724.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "83657.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "96108.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "102535.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "205171.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "190212.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "144854.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "128722.0"
+      }
+   ],
+   "gold": "This graph depicts the production of oats in tonnes in Canada during 2017 . Production shows peaks in January and March , whereas it significantly drops after March , reaching its minimum of approximately 65000 in May . For the following months production slightly increases until August .\n"
+}

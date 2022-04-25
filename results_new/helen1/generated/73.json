@@ -1,0 +1,74 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total Number of Canada vehicles in each of the months during 2021 . ",
+      "The maximum Number of Canada in a Month has been recorded for August . ",
+      "From February to August , this Number has been continuing to grow ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {
+         "1": "1",
+         "3": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "627461.0"
+      },
+      {
+         "Month": "February",
+         "Number": "602644.0"
+      },
+      {
+         "Month": "March",
+         "Number": "741486.0"
+      },
+      {
+         "Month": "April",
+         "Number": "705394.0"
+      },
+      {
+         "Month": "May",
+         "Number": "717527.0"
+      },
+      {
+         "Month": "June",
+         "Number": "758579.0"
+      },
+      {
+         "Month": "July",
+         "Number": "761648.0"
+      },
+      {
+         "Month": "August",
+         "Number": "916247.0"
+      },
+      {
+         "Month": "September",
+         "Number": "906156.0"
+      },
+      {
+         "Month": "October",
+         "Number": "910553.0"
+      },
+      {
+         "Month": "November",
+         "Number": "950382.0"
+      },
+      {
+         "Month": "December",
+         "Number": "1119062.0"
+      }
+   ],
+   "gold": "This graph illustrates the trend in total vehicles entering Canada in 2021 . The months of March , August and December had a dramatic increase in the number of vehicles compared to the previous months , followed by a slight decline in the following month . .\n"
+}

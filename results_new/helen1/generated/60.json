@@ -1,0 +1,76 @@
+{
+   "title": "Total hardwood production in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line graph shows the Total hardwood production in cubic metres of Canada in 2019 . ",
+      "production starts at approximately 1370 cubic metres during January , after which a moderate increase can be observed until reaching about 1580 in March . ",
+      "production remains steady at 1450 during April and May , after which the maximum production is achieved in June with 1600 cubic metres ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "23": "2"
+      },
+      {
+         "6": "3",
+         "8": "4",
+         "18": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "87.2"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "97.8"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "107.6"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "100.6"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "104.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "82.4"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "71.7"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "73.1"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "67.2"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "90.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "86.5"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "64.0"
+      }
+   ],
+   "gold": "A Line graph , depicting Canada 's total hardwood production in the Year 2019 . With production on the y-axis and date showing month over month trend of said production . The peak is at March , and seems to stay consistent in the spring months , with a steep decline in the summer and a slight pickup from September to October with a yearly low at December .\n"
+}

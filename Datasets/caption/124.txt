@@ -1,0 +1,1 @@
+A Line graph , depicting Canada 's total hardwood production in the Year 2019 . With production on the y-axis and date showing month over month trend of said production . The peak is at March , and seems to stay consistent in the spring months , with a steep decline in the summer and a slight pickup from September to October with a yearly low at December . .

@@ -1,0 +1,1 @@
+The graph depicts an overview of new trucks sales in Canada in 2020 . Starting from around 90000 units , the number increases in the first month and then reduces in the next two months , reaching its minimum at around 40000 units . The sales then dramatically increase till September and undergo a slip till the end of the year .

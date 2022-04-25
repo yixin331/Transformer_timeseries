@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: New trucks sales in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'dollars']: ['4280559.0', '4779641.0', '3741871.0', '1980113.0', '4320513.0', '6014451.0', '6157428.0', '6366315.0', '6548840.0', '6103107.0', '5212653.0', '4562136.0']
+
+gold: This graph represents the rate of New trucks sales in Canada during 2020 . It shows that it starts out at around 4.3 billion dollars in January . It reaches a low of 2 billion dollars in April .
+gold_template: This graph represents the rate of templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] . It shows that it starts out at around templateYValue[0] templateScale templateYLabel[1] in templateXValue[0] . It reaches a low of templateYValue[min] templateScale templateYLabel[1] in templateXValue[3] .
+
+generated_template: This line graph shows the amount of templateTitle[3] , in thousands of templateYLabel[1] , of templateTitle[1] templateTitle[2] in templateTitleSubject[0] in the year templateTitleDate[0] . There was a drastic spike in templateTitle[3] amount , peaking in the templateXLabel[0] of templateXValue[4] , and then declining until the templateXLabel[0] of templateXValue[last] .
+generated: This line graph shows the amount of Canada , in thousands of dollars , of trucks sales in Canada the year 2020 .  There was a drastic spike in Canada amount , peaking in the Month of May , and then declining until the Month of December .
+
+Example 49:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: International imports in all services in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Million', 'dollars']: ['15115.0', '14360.0', '14247.0', '9972.0', '9261.0', '9587.0', '9355.0', '9442.0', '10056.0', '10028.0', '10004.0', '9911.0']
+
+gold: A line chart about international imports in all services in Canada in 2020 . The imports drop slightly from 15000 million dollars to 14000 million dollars from January to March . Then the imports fall dramatically to 10000 million dollars in April , then maintain the same level for the rest of the year .
+gold_template: A line chart about templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] in templateTitleSubject[0] in templateTitleDate[0] . The templateTitle[1] drop slightly from 15000 templateScale templateYLabel[1] to 14000 templateScale templateYLabel[1] from templateXValue[0] to templateXValue[2] . Then the templateTitle[1] fall dramatically to 10000 templateScale templateYLabel[1] in templateXValue[3] , then maintain the same level for the rest of the year .
+
+generated_template: This graph shows templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] ( templateScale of templateYLabel[1] ) to templateTitleSubject[0] during templateTitleDate[0] , each templateXLabel[0] . There is a general upward trend . The graph was at its lowest in Feb and highest in Dec .
+generated: This graph shows International imports in all services ( million of dollars ) to Canada during 2020 , each Month .  There is a general upward trend .  The graph was at its lowest in Feb and highest in Dec .
+
+Example 52:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Rye in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['5668.0', '6021.0', '9395.0', '5286.0', '4529.0', '6642.0', '8785.0', '21393.0', '24551.0', '13563.0', '12029.0', '6175.0']
+
+gold: The graph illustrates the productioin of Rye in tonnes in 2016 . The first few montes till May the graph stays quite constant at a low level of about 5000 tonnes , besides a small peak in March up to nearly 10000 tonnes . The graph starts to increase continusly from May to July .
+gold_template: The graph illustrates the productioin of templateTitle[1] in templateYLabel[0] in templateTitleDate[0] . The first few montes till templateXValue[4] the graph stays quite constant at a low level of about 5000 templateYLabel[0] , besides a small peak in templateXValue[2] up to nearly 10000 templateYLabel[0] . The graph starts to templatePositiveTrend continusly from templateXValue[4] to templateXValue[6] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] ( in templateYLabel[0] ) in templateTitleSubject[0] in the year templateTitleDate[0] . templateTitle[0] is very different over the year . While a significant templateNegativeTrend in templateTitle[0] can be observed from templateXValue[0] to templateXValue[1] , templateTitle[0] continues to rise until templateXValue[3] , reaching its annual maximum of more than 42000 templateYLabel[0] .
+generated: The graph shows the Production of Rye Canada ( in Tonnes ) in Canada the year 2016 .  Production is very different over the year .  While a significant decline in Production can be observed from January to February , Production continues to rise until April , reaching its annual maximum of more than 42000 Tonnes .
+

@@ -1,0 +1,74 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total Number of Canadian vehicles country Canada in each of the months during 2016 . ",
+      "The maximum Number of returning country in a Month has been recorded for August . ",
+      "From February to August , this Number has been continuing to grow ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {
+         "1": "1",
+         "3": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "1497757.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1344153.0"
+      },
+      {
+         "Month": "March",
+         "Number": "1694252.0"
+      },
+      {
+         "Month": "April",
+         "Number": "1741371.0"
+      },
+      {
+         "Month": "May",
+         "Number": "1892391.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1852863.0"
+      },
+      {
+         "Month": "July",
+         "Number": "2092883.0"
+      },
+      {
+         "Month": "August",
+         "Number": "2225043.0"
+      },
+      {
+         "Month": "September",
+         "Number": "1893942.0"
+      },
+      {
+         "Month": "October",
+         "Number": "1805330.0"
+      },
+      {
+         "Month": "November",
+         "Number": "1634032.0"
+      },
+      {
+         "Month": "December",
+         "Number": "1567357.0"
+      }
+   ],
+   "gold": "This line chart represent the number of total Canadian vehicles returning in 2016 . A slow , but steady increase is taking place from March until it reaches its peak in August with a total number of 2200000 . After August the total number of Canadian vehicles returning starts decreasing until reaching its minimum value below 1400000 in February .\n"
+}

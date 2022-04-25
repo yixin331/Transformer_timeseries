@@ -1,0 +1,1 @@
+The provided graph displays the number of Canadian vehicles returning to Canada over the year 2016 divided by month. It starts out at around 150000 vehicles in January, falls to 135000 in February and rises continuously to over 220000 in August. The following month show a steady decrease to its second lowest point of just under 160000 in December.

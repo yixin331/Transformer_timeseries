@@ -1,0 +1,71 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "2132795.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1985152.0"
+      },
+      {
+         "Month": "March",
+         "Number": "2413193.0"
+      },
+      {
+         "Month": "April",
+         "Number": "2481273.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2765665.0"
+      },
+      {
+         "Month": "June",
+         "Number": "2881952.0"
+      },
+      {
+         "Month": "July",
+         "Number": "3334402.0"
+      },
+      {
+         "Month": "August",
+         "Number": "3399740.0"
+      },
+      {
+         "Month": "September",
+         "Number": "2861710.0"
+      },
+      {
+         "Month": "October",
+         "Number": "2638655.0"
+      },
+      {
+         "Month": "November",
+         "Number": "2341600.0"
+      },
+      {
+         "Month": "December",
+         "Number": "2285715.0"
+      }
+   ],
+   "gold": "As it 's shown in the graph , the number of vehicles entering Canada during 2016 has been much higher during the summer compared with the other months of the year . In particular , the maximum number of vehicles entering Canada in 2016 has been registered during August . At the same time , the minimum value during February .\n"
+}

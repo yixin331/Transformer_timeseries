@@ -1,0 +1,74 @@
+{
+   "title": "Total softwood and hardwood , production in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "softwood hardwood was highest in March , producing approximately 5350000 m^3 continuing with high hardwood through April and May . ",
+      "hardwood falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December ."
+   ],
+   "trends": [
+      {
+         "5": "2",
+         "16": "3",
+         "18": "4"
+      },
+      {
+         "11": "9",
+         "22": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "55263.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "53292.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "60626.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "56294.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "59545.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "56280.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "51537.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "54276.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "55110.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "58038.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "57879.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "48037.0"
+      }
+   ],
+   "gold": "The graphs shows the total softwood and hardwood production in Canada in the year 2017 . As can be seen in the graph , the production changes very much over the year . Initially , the value falls to February before rising in March and reaching a maximum of over 60000 cubic meters .\n"
+}

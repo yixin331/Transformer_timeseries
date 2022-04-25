@@ -1,0 +1,73 @@
+{
+   "title": "Import of creamery butter in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Import of creamery butter ( in Tonnes ) in Canada the year 2021 . ",
+      "Import is very different over the year . ",
+      "While a significant decrease in Import can be observed from January to February , Import continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1811.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1478.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1861.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "2081.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "2464.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1796.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "1823.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "2061.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "1844.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "2272.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "1616.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "1900.0"
+      }
+   ],
+   "gold": "The chart is showing the amount of import of creamery butter in tonnes in Canada over the course of 12 consecutive months of the year 2021 . Multiple peaks are visible , with two priminant ones in May and October . Most prominent dip occurs in February .\n"
+}

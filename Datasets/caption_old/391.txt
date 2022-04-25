@@ -1,0 +1,1 @@
+The graph showes the anual price index of tablet computers in the year 2017. The price in the first thre month is very high, especially in March. The following month ist drops and increase again in June and stays constant till July. Afterwards it decrease continusliy till December. Over the whole year there is a decreasing trend.

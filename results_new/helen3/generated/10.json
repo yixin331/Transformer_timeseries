@@ -1,0 +1,69 @@
+{
+   "title": "Price index : Servers in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "ID 684",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A line chart about the Price index Servers Canada 2016 in Canada the year 2016 . ",
+      "Values are analyzed in the different months of the year . ",
+      "With index values ranging from less than 45000 to more than 60000 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 684": "1063.0"
+      },
+      {
+         "Month": "February",
+         "ID 684": "1041.0"
+      },
+      {
+         "Month": "March",
+         "ID 684": "1030.0"
+      },
+      {
+         "Month": "April",
+         "ID 684": "1038.0"
+      },
+      {
+         "Month": "May",
+         "ID 684": "1037.0"
+      },
+      {
+         "Month": "June",
+         "ID 684": "1054.0"
+      },
+      {
+         "Month": "July",
+         "ID 684": "1046.0"
+      },
+      {
+         "Month": "August",
+         "ID 684": "1049.0"
+      },
+      {
+         "Month": "September",
+         "ID 684": "1050.0"
+      },
+      {
+         "Month": "October",
+         "ID 684": "1050.0"
+      },
+      {
+         "Month": "November",
+         "ID 684": "1033.0"
+      },
+      {
+         "Month": "December",
+         "ID 684": "1033.0"
+      }
+   ],
+   "gold": "The price index for servers in 2018 rapidly fell from a high in January , to its lowest point in March of 2016 . After that the price index saw some fluctuation in the coming months until November , where it dropped again and did not change in December .\n"
+}

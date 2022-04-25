@@ -1,0 +1,71 @@
+{
+   "title": "Average retail price for ketchup in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/litre",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph illustrates the monthly Average retail price for ketchup Canada in Dollars per litre . ",
+      "Based on the graph , the retail price fluctuated a lot throughout the year , with it being the highest in June and November , and the lowest in July ."
+   ],
+   "trends": [
+      {},
+      {
+         "21": "5",
+         "23": "10",
+         "29": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/litre": "3.75"
+      },
+      {
+         "Month": "February",
+         "Dollars/litre": "3.84"
+      },
+      {
+         "Month": "March",
+         "Dollars/litre": "3.9"
+      },
+      {
+         "Month": "April",
+         "Dollars/litre": "3.69"
+      },
+      {
+         "Month": "May",
+         "Dollars/litre": "3.71"
+      },
+      {
+         "Month": "June",
+         "Dollars/litre": "3.76"
+      },
+      {
+         "Month": "July",
+         "Dollars/litre": "3.53"
+      },
+      {
+         "Month": "August",
+         "Dollars/litre": "3.56"
+      },
+      {
+         "Month": "September",
+         "Dollars/litre": "3.87"
+      },
+      {
+         "Month": "October",
+         "Dollars/litre": "4.04"
+      },
+      {
+         "Month": "November",
+         "Dollars/litre": "4.16"
+      },
+      {
+         "Month": "December",
+         "Dollars/litre": "4.39"
+      }
+   ],
+   "gold": "The graph shows the monthly average retail price for ketchup in dollars/litre in Canada during 2021 . The price oscilates from January to August with prices ranging between 3.9 and 3.55 . The price increases from August to December going from 3.55 to 4.4 .\n"
+}

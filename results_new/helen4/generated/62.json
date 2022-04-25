@@ -1,0 +1,72 @@
+{
+   "title": "Total softwood and hardwood , production in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the hardwood of softwood in Canada over the year of 2018 . ",
+      "The data is presented in cubic meters . ",
+      "According to the graph hardwood of softwood is the highest in March and the lowest in December ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "12": "2",
+         "17": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "57335.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "52372.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "58356.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "58598.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "59623.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "55352.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "52192.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "54988.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "53596.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "57538.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "53099.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "43244.0"
+      }
+   ],
+   "gold": "The following line chart is about the production of softwood and hardwood in Canada during 2018 . The described values are in cubic metres . It 's clearly possible to see how the production fluctuated over the year , with several peaks and dips .\n"
+}

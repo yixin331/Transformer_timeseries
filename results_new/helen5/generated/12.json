@@ -1,0 +1,69 @@
+{
+   "title": "New passenger cars sales in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New of passenger cars vehicle in Canada 2020 climbed from 120000 to 220000 from Jan to May . ",
+      "Then it fell until Jul , was stable until Sep. with a final further falling to 130000 at the end of the year ."
+   ],
+   "trends": [
+      {
+         "18": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "23301.0"
+      },
+      {
+         "Month": "February",
+         "Units": "26492.0"
+      },
+      {
+         "Month": "March",
+         "Units": "22887.0"
+      },
+      {
+         "Month": "April",
+         "Units": "8628.0"
+      },
+      {
+         "Month": "May",
+         "Units": "25210.0"
+      },
+      {
+         "Month": "June",
+         "Units": "37460.0"
+      },
+      {
+         "Month": "July",
+         "Units": "35553.0"
+      },
+      {
+         "Month": "August",
+         "Units": "35739.0"
+      },
+      {
+         "Month": "September",
+         "Units": "37308.0"
+      },
+      {
+         "Month": "October",
+         "Units": "29435.0"
+      },
+      {
+         "Month": "November",
+         "Units": "25469.0"
+      },
+      {
+         "Month": "December",
+         "Units": "22813.0"
+      }
+   ],
+   "gold": "This line chart shows monthly rates of new passenger car sales in Canada throughout 2020 . The graph shows that car sales were lowest in April and then jumped in May and June . Sales stayed high throughout the summer before beginning to drop again in October .\n"
+}

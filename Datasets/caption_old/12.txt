@@ -1,0 +1,1 @@
+The chart shows average retail price for pork chops in Canada in each month in 2021. The data range from around 11.5 dollars/kg to 12.8 dollars/kg. The trend oscillated but in general there was a downwards trend from January to May and an upwards trend from May to December with a peak in August and December.

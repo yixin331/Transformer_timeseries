@@ -1,0 +1,1 @@
+This line chart depicts the house price index of houses in Canada in 2017. It is broken down into the months of the year. Values are ranging from 998 to 1033. The graph's overall trend is a continuous increase over the months. The lowest value was found for January (998), whereas the highest value was recorded for November and December (1033).

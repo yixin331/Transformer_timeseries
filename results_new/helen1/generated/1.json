@@ -1,0 +1,73 @@
+{
+   "title": "Import of creamery butter in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Import of creamery butter ( in Tonnes ) in Canada the year 2016 . ",
+      "Import is very different over the year . ",
+      "While a significant decrease in Import can be observed from January to February , Import continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "896.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1964.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1365.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1699.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1739.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1715.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "1327.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "1192.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "1704.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "2880.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "3057.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "2706.0"
+      }
+   ],
+   "gold": "The graph shows the import of creamery butter ( month vs. tonnes ) in Canada in 2016 . First the rapid growth is observed in January , followed by a sharp decline in February . The import then raises slightly in March , remaining constant from April to June .\n"
+}

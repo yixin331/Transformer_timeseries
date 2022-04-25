@@ -1,0 +1,1 @@
+It shows the supply of creamery butter in Canada during 2018. The values are described using Tonnes as UOM. It rapidly increase from January for the first half of the year. It reach its maximum value during the month of June. After that, it starts to decline til September. The supply of creamery butter fluctuated over the last few months of 2018.

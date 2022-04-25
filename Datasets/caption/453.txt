@@ -1,0 +1,1 @@
+This is a line graph showing the 2017 house price index in Canada . There is a stable increase from the graph 's bottom at under 1000 in January , and peaking at over 1030 in December .

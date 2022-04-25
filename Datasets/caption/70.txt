@@ -1,0 +1,1 @@
+This graph shows the production of creamery butter by the ton per month . The monthly output weight ranges from 8000 to 13000 tonnes on the y axis . The best production month was January while the worst was September . However , production was consistently low from June through September .

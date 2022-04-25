@@ -1,0 +1,69 @@
+{
+   "title": "Total non-resident travellers entering the country in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Total non-resident travelers entering Canada during the year 2020 , each Month . ",
+      "The graph was mostly stable from Jan to Apr , after which there is a general upward trend . ",
+      "Although , there was a declining trend from Aug to Nov ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "1567317.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "1595707.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "760252.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "67654.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "86362.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "121524.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "141772.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "158664.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "147777.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "139916.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "127159.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "154246.0"
+      }
+   ],
+   "gold": "This line chart plots the total number of foreign travelers entering Canada over the year of 2020 . The number of travelers starts at around 1 million in January , but then between February and April , the number plummets down to less than 1 million . Then , until December , the number remains steady , only rising slightly past 1 million by the end of the year .\n"
+}

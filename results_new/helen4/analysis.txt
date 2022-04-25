@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['Tablet', 'Canada'], 'Date': ['2016']}
+title: Price index : Tablet computers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '576']: ['943.0', '939.0', '897.0', '924.0', '927.0', '914.0', '916.0', '913.0', '896.0', '904.0', '902.0', '877.0']
+
+gold: Tablet computer price index in Canada for 2016 . The price index slowly trended downwards throughout the year but experienced three significant drops : in March , in September ( possibly coinciding with back-to-school sales ) , and in December ( possibly due to Boxing Day and Boxing Week sales ) .
+gold_template: templateTitle[2] computer templateTitle[0] templateTitle[1] in templateTitleSubject[0] for templateTitleDate[0] . The templateTitle[0] templateTitle[1] slowly trended downwards throughout the year but experienced three significant drops : in templateXValue[2] , in templateXValue[8] ( possibly coinciding with back-to-school sales ) , and in templateXValue[last] ( possibly due to Boxing Day and Boxing Week sales ) .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in templateTitleDate[0] . The graph offers a templatePositiveTrend trend with the templateXLabel[0] going from templateXValue[0] to templateXValue[last] . The graph templatePositiveTrend from Jan to Feb but experience a drop from Feb to Mar .
+generated: The graph shows the Price index Tablet computers Canada in Tablet 2016 .  The graph offers a growing trend with the Month going from January to December .  The graph increase from Jan to Feb but experience a drop from Feb to Mar .
+
+Example 49:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: New trucks sales in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'dollars']: ['3969749.0', '4358523.0', '6533171.0', '6399367.0', '6940637.0', '6558038.0', '6044981.0', '6577816.0', '6199103.0', '5834554.0', '5416768.0', '4520254.0']
+
+gold: This graph represents the rate of new trucks sales in Canada during the 2019 year . It starts at 4 million dollars in January , and has a sharp increase to 6.5 million dollars in March . It continues to increase until it 's just under 7 million in May .
+gold_template: This graph represents the rate of templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] during the templateTitleDate[0] year . It starts at 4 templateScale templateYLabel[1] in templateXValue[0] , and has a sharp templatePositiveTrend to 6.5 templateScale templateYLabel[1] in templateXValue[2] . It continues to templatePositiveTrend until it 's just under 7 templateScale in templateXValue[4] .
+
+generated_template: The templateTitle[0] templateTitle[1] templateTitle[2] begin at around 4 thousands templateYLabel[1] , followed by a rapid templateNegativeTrend to reach the lowest point in templateXValue[3] . Then it raises steeply to 6 from templateXValue[3] to templateXValue[5] . During templateXValue[5] to templateXValue[8] , it continues the templatePositiveTrend but with a steady speed .
+generated: The New trucks sales begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April .  Then it raises steeply to 6 from April to June .  During June to September , it continues the climb but with a steady speed .
+
+Example 52:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Total livestock and animal products in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1369.0', '1400.0', '1437.0', '1426.0', '1483.0', '1493.0', '1449.0', '1411.0', '1337.0', '1348.0', '1382.0', '1364.0']
+
+gold: This graph represents the total livestock and animal products of Canada in 2017 . The number of products experiences a sharp increase from January until reaching the maximum during June , whereas a small decline is observed in the month of April . From June until September the total livestock and animal products rapidly decline and reach a minimum of under 1340 in September .
+gold_template: This graph represents the templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] of templateTitleSubject[0] in templateTitleDate[0] . The number of templateTitle[3] experiences a sharp templatePositiveTrend from templateXValue[0] until reaching the maximum during templateXValue[5] , whereas a small templateNegativeTrend is observed in the templateXLabel[0] of templateXValue[3] . From templateXValue[5] until templateXValue[8] the templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] rapidly templateNegativeTrend and reach a minimum of under 1340 in templateXValue[8] .
+
+generated_template: The shown data values are about the templateTitle[0] of templateTitle[1] in templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] . They are described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . The values slightly templatePositiveTrend from templateXValue[0] to templateXValue[1] .
+generated: The shown data values are about the Total of livestock in animal Canada during 2017 .  They are described using the Farm product price index ( FPPI ) .  The values slightly increase from January to February .
+

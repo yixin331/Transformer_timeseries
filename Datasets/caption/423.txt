@@ -1,0 +1,1 @@
+It shows the data about supply of creamery butter in Canada during 2016 . The displayed values are in tones . It 's possible to see how the value rapidly increase from January over , reaching its peaks during the month of July with approximately 29000 tonnes . After that , the values decrease until September and then rise up again during last 3 months of the year .

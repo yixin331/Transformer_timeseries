@@ -1,0 +1,1 @@
+This graph is showing the solar electricity generated in Canada for each month of the year 2019 . The unit of solar electricity generated is in megawatt-hours , and the month July generated the most solar electricity . .

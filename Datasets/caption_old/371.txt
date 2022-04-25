@@ -1,0 +1,1 @@
+A chart showing the number of vehicles from the United States entering Canada sorted by month and showing the significant peak in the summer months.

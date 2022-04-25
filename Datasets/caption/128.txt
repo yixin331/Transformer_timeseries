@@ -1,0 +1,1 @@
+Chart shows the Value of shipments of lime in Canada in the year 2020 . Depicting the dollar value on a month over month basis , where we see a gradual increase from the starting months to the peak in June then a steep drop in Dollar value in August but a rapid climb back up close to the yearly high in November with another steep decline in December .

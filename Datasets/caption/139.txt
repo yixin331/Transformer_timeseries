@@ -1,0 +1,1 @@
+This line chart shows the average retail price for apples in Canada in 2021 . The average price in January is at $ 4.53/kg and steadily increases to $ 4.97/kg in August . The average price then drops to $ 4.45/kg between August and November . The average price increased to $ 4.77/kg in December .

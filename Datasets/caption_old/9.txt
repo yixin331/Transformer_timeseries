@@ -1,0 +1,1 @@
+The international exports in all severices graph demonstrates the export value trend in Canada for each month in 2021. The y-axis unit are measured in millions dollar, and x-axis units are measured in month. The overall trend start rising slowly from Jan to Mar, and quickly declined from Mar to May, and finally the trend grows from May to Dec. .

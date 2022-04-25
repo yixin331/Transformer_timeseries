@@ -1,0 +1,1 @@
+A line chart about skim milk powder supply in Canada in 2021. The supply remains stable between January and March, then increases dramatically in April. Then, the supply decreases slightly in May and remains steady until July. In August, the supply drops dramatically. After August, the supply increases substantially until December, only with a slight drop in November.

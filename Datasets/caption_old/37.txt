@@ -1,0 +1,1 @@
+This line chart shows the average retail price for apples in Canada in the unit of Dollars per Kilogram for the year 2021. The price is steadily increasing from January to June, and then it starts to increase steeply until August when the price is the highest of the year. It then dropped dramatically and reaches the lowest point in November, and becomes better in December.

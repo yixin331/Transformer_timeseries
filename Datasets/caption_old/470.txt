@@ -1,0 +1,1 @@
+The following graph shows the total farm production index value in Canada during 2017, and the values are described using the farm product price index (FPPI) as UOM. It's possible to see how the production value considerably increased from January until July. After that, it dropped between July and September.

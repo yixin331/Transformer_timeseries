@@ -1,0 +1,72 @@
+{
+   "title": "Land price index in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Index 347",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph indicates the Canada price Index in Canada the year 2016 . ",
+      "As shown the Index increases during the hole year until he reaches the maximum of 1000.0 in December . ",
+      "Unfortunately , you can not say more about this graph ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "10",
+         "17": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Index 347": "981.0"
+      },
+      {
+         "Month": "February",
+         "Index 347": "981.0"
+      },
+      {
+         "Month": "March",
+         "Index 347": "981.0"
+      },
+      {
+         "Month": "April",
+         "Index 347": "981.0"
+      },
+      {
+         "Month": "May",
+         "Index 347": "985.0"
+      },
+      {
+         "Month": "June",
+         "Index 347": "986.0"
+      },
+      {
+         "Month": "July",
+         "Index 347": "987.0"
+      },
+      {
+         "Month": "August",
+         "Index 347": "987.0"
+      },
+      {
+         "Month": "September",
+         "Index 347": "990.0"
+      },
+      {
+         "Month": "October",
+         "Index 347": "995.0"
+      },
+      {
+         "Month": "November",
+         "Index 347": "1000.0"
+      },
+      {
+         "Month": "December",
+         "Index 347": "1000.0"
+      }
+   ],
+   "gold": "This chart illustrates the land price index of Canada in 2016 . A minimum of 982 can be observed throughout the months of January until April . A slow , but constant increase takes place from April until August , reaching a value of almost 987 .\n"
+}

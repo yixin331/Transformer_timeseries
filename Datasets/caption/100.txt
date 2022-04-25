@@ -1,0 +1,1 @@
+This line chart shows the monthly value of lime shipments into Canada in tens of millions of dollars for the period from January 2020 to December 2020 . This value fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp decline . These declines happened between July and August and again between November and December .

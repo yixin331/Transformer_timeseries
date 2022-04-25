@@ -1,0 +1,1 @@
+A graph plotting the average retail price for a kilogram of sirloin steak in Canada for every month in the year 2020 . Starting a low below $ 22 , the price soars to nearly $ 27 by June before plunging to $ 22.5 by August and remains stable for the rest of the year .

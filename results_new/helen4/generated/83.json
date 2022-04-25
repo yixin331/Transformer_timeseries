@@ -1,0 +1,75 @@
+{
+   "title": "Production of Malt in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Malt Canada 2017 in Tonnes Canada during 2017 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Production amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "51871.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "54545.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "55085.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "56364.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "59852.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "52769.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "62103.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "55390.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "53698.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "50048.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "48398.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "39192.0"
+      }
+   ],
+   "gold": "A graph showing the Canadian production of malt in tonnes over the course of the year 2017 . The production was highest in August and then steadily decreased .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Production of Oats in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Oats in Canada during 2021 showed several fluctuations during the year . ",
+      "The Production values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "263004.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "217095.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "272459.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "238990.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "136823.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "234520.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "166094.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "266277.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "325510.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "244218.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "199072.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "223633.0"
+      }
+   ],
+   "gold": "The production of oats in Canada 2021 fluctuated throughout the year . It reached its minimum in May and had a boost in September .\n"
+}

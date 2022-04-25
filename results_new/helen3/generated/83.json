@@ -1,0 +1,71 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "2151134.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1985971.0"
+      },
+      {
+         "Month": "March",
+         "Number": "2376086.0"
+      },
+      {
+         "Month": "April",
+         "Number": "2524673.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2661197.0"
+      },
+      {
+         "Month": "June",
+         "Number": "2859996.0"
+      },
+      {
+         "Month": "July",
+         "Number": "3302694.0"
+      },
+      {
+         "Month": "August",
+         "Number": "3483738.0"
+      },
+      {
+         "Month": "September",
+         "Number": "2890900.0"
+      },
+      {
+         "Month": "October",
+         "Number": "2675920.0"
+      },
+      {
+         "Month": "November",
+         "Number": "2428578.0"
+      },
+      {
+         "Month": "December",
+         "Number": "2376122.0"
+      }
+   ],
+   "gold": "The graph showes the total vehicles entering canada in 2017 . The graph decreases in February . From february till August it starts to increase continously and reaches the maximum of over 3400000 .\n"
+}

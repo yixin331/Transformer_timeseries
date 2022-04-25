@@ -1,0 +1,76 @@
+{
+   "title": "Production of new motor vehicles in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Units of Production new motor in Canada for each Month in 2016 . ",
+      "The motor reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September . ",
+      "The motor reaches the maximum at September 140000 , and then decreasing again until December ."
+   ],
+   "trends": [
+      {},
+      {
+         "22": "3",
+         "28": "4",
+         "30": "8"
+      },
+      {
+         "6": "8",
+         "15": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "110686.0"
+      },
+      {
+         "Month": "February",
+         "Units": "121933.0"
+      },
+      {
+         "Month": "March",
+         "Units": "178227.0"
+      },
+      {
+         "Month": "April",
+         "Units": "203557.0"
+      },
+      {
+         "Month": "May",
+         "Units": "198425.0"
+      },
+      {
+         "Month": "June",
+         "Units": "193818.0"
+      },
+      {
+         "Month": "July",
+         "Units": "175846.0"
+      },
+      {
+         "Month": "August",
+         "Units": "174976.0"
+      },
+      {
+         "Month": "September",
+         "Units": "177191.0"
+      },
+      {
+         "Month": "October",
+         "Units": "157414.0"
+      },
+      {
+         "Month": "November",
+         "Units": "163320.0"
+      },
+      {
+         "Month": "December",
+         "Units": "128352.0"
+      }
+   ],
+   "gold": "This graph represents the production of new motor vehicles in Canada during 2016 . Production starts very low in January and undergoes a sharp increase until it reaches its peak of over 200000 motor vehicles in April . The following months production decreases , being almost steady at 175000 from July until September .\n"
+}

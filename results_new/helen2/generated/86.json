@@ -1,0 +1,69 @@
+{
+   "title": "Production of Fresh fruit in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Fresh fruit over the course of a year . ",
+      "It follow a `` U '' shape with a local rising in the Month of June ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1120.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1148.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1119.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1147.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1134.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1098.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1068.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "954.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1026.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1061.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1114.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1112.0"
+      }
+   ],
+   "gold": "The FPPI of Canadian fresh fruit in 2016 fluctuates steadily between January and April . Then the FPPI start to decline , with its downwards slope increasing slightly after May . The FPPI drops dramatically in July , and reaches its lowest point in August .\n"
+}

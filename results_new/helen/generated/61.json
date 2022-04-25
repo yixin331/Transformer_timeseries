@@ -1,0 +1,72 @@
+{
+   "title": "Average retail price for pork chops in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Average retail price for pork chops in Canada 2021 . ",
+      "In general , the price rises from around 22.75 Dollars/kilogram and reaches its peak at 12.75 Dollars/kilogram in October . ",
+      "It then slightly drops in the rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "11",
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "12.07"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "11.55"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "11.48"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "11.8"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "11.6"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "12.09"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "12.22"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "12.53"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "12.42"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "12.43"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "11.97"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "12.75"
+      }
+   ],
+   "gold": "The line chart illustrates the average retail price for pork chops in Canada for the year 2021 . The price fluctuates throughout the year . Overall , it declines from January to May and grows from May to December , reaching its peak at 12.8 dollars/kilogram .\n"
+}

@@ -1,0 +1,71 @@
+{
+   "title": "Import of creamery butter in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Import of creamery in Canada the year 2020 . ",
+      "The Import is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Import reduced again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1446.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1566.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1851.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1080.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1110.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1004.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "1558.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "1487.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "1418.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "1752.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "1513.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "2135.0"
+      }
+   ],
+   "gold": "A line chart about the import of creamery butter in Canada in the year 2020 . The import of creamery butter showed huge decline during late Spring and early Summer of 2020 . However we observed a massive surge of creamery butter import come December , reaching over 2000 tonnes of butter imported .\n"
+}

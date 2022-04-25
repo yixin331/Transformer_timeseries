@@ -1,0 +1,1 @@
+This is a scatter plot showing the production of oats in Canada 2021. Overall the production is fluctuating around 230000 tonnes, with it reaching a maximum of around 325000 tonnes in September and a lowest of near 135000 tons in May. .

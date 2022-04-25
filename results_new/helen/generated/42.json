@@ -1,0 +1,77 @@
+{
+   "title": "Average retail price for pork chops in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Average retail price for pork chops grows exponentially from January to June and reaches the peak in June . ",
+      "Then decreases rapidly in August . ",
+      "Then it remains steady until December ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "5",
+         "18": "5"
+      },
+      {
+         "4": "7"
+      },
+      {
+         "5": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "11.72"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "12.07"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "11.54"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "12.15"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "11.98"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "12.58"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "12.39"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "12.04"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "11.96"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "11.65"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "12.03"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "11.71"
+      }
+   ],
+   "gold": "This graph shows the average retail price ( Dollars/kilogram ) for pork chops in Canada during 2020 . The maximum average price occured in June , at about 12.6 . In general , the prices were higher during the spring and summer months .\n"
+}

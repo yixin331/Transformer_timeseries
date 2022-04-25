@@ -1,0 +1,73 @@
+{
+   "title": "Price index : Servers in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 708",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Servers Canada 2018 in ID Canada during 2018 . ",
+      "The trend shows the Servers increasing over time with minor oscillations . ",
+      "The Servers reached a low of 22.5 in February and a high of 1013.0 in August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "8": "1",
+         "13": "6",
+         "15": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 708": "1010.0"
+      },
+      {
+         "Month": "February",
+         "ID 708": "1003.0"
+      },
+      {
+         "Month": "March",
+         "ID 708": "1001.0"
+      },
+      {
+         "Month": "April",
+         "ID 708": "997.0"
+      },
+      {
+         "Month": "May",
+         "ID 708": "998.0"
+      },
+      {
+         "Month": "June",
+         "ID 708": "1010.0"
+      },
+      {
+         "Month": "July",
+         "ID 708": "1013.0"
+      },
+      {
+         "Month": "August",
+         "ID 708": "1011.0"
+      },
+      {
+         "Month": "September",
+         "ID 708": "1008.0"
+      },
+      {
+         "Month": "October",
+         "ID 708": "1006.0"
+      },
+      {
+         "Month": "November",
+         "ID 708": "1008.0"
+      },
+      {
+         "Month": "December",
+         "ID 708": "1008.0"
+      }
+   ],
+   "gold": "The graph depicts a price index of servers in Canada . Data was taken from 2018 . One can observe a decline in the price index within the first months of the year , reaching a low of 997 in April .\n"
+}

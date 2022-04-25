@@ -1,0 +1,1260 @@
+Example 1:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total farm production index in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1297.0', '1300.0', '1306.0', '1296.0', '1312.0', '1329.0', '1337.0', '1301.0', '1279.0', '1294.0', '1285.0', '1277.0']
+
+gold: This graph illustrates values about the total farm production index in Canada during 2018 . Those values are described using the farm product price index ( FPPI ) . It 's clearly possible to see how the maximum values of production are registered during the summer months .
+gold_template: This graph illustrates values about the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] during templateTitleDate[0] . Those values are described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . It 's clearly possible to see how the maximum values of templateTitle[2] are registered during the summer months .
+
+generated_template: The shown data are about the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] during templateTitleDate[0] . The maximum value was recorded during the templateXLabel[0] of templateXValue[5] . After that , a big drop has been registered between templateXValue[5] and templateXValue[8] .
+generated: The shown data are about the Total Farm production index in Canada during 2018 .  The maximum value was recorded during the Month of June .  After that , a big drop has been registered between June and September .
+
+Example 2:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Total livestock and animal products in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1449.0', '1456.0', '1471.0', '1432.0', '1459.0', '1462.0', '1428.0', '1385.0', '1321.0', '1267.0', '1272.0', '1348.0']
+
+gold: The accompanying shows the monthly development of total livestock and animal products production in the year 2016 in Canada , measured in FPPI . It starts out at 1450 in January , increases slightly to just shy of 1475 in March , falls to 1430 in April and increases again to 1460 in June . After that it constantly decreases until reaching its lowest point of 1260 in October .
+gold_template: The accompanying shows the monthly development of templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] production in the year templateTitleDate[0] in templateTitleSubject[0] , measured in FPPI . It starts out at 1450 in templateXValue[0] , increases slightly to just shy of 1475 in templateXValue[2] , falls to 1430 in templateXValue[3] and increases again to 1460 in templateXValue[5] . After that it constantly decreases until reaching its lowest point of 1260 in templateXValue[9] .
+
+generated_template: The graph shows the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Total Farm animal index in Canada for the year 2016 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 3:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Import of skim milk powder in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['130.0', '396.0', '287.0', '320.0', '315.0', '335.0', '314.0', '209.0', '366.0', '375.0', '228.0', '117.0']
+
+gold: A graph showing the amount of skim milk powder imported in Canada in the year 2019 by every month , weighed in tonnes . Starting at less than 150 tonnes , the amount soars to 400 by February and plummets again before staying constant until July , diving in August , increasing again by September only to plunge by November and reach a new low by December .
+gold_template: A graph showing the amount of templateTitle[1] templateTitle[2] templateTitle[3] imported in templateTitleSubject[0] in the year templateTitleDate[0] by every templateXLabel[0] , weighed in templateYLabel[0] . Starting at less than 150 templateYLabel[0] , the amount soars to 400 by templateXValue[1] and plummets again before staying constant until templateXValue[6] , diving in templateXValue[7] , templatePositiveTrend again by templateXValue[8] only to templateNegativeTrend by templateXValue[10] and reach a new low by templateXValue[last] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Import of skim milk in Tonnes Canada during 2019 .  The Import values are in Jannuary .  From February till July the graph oscillate .
+
+Example 4:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Laptop computers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '468']: ['1001.0', '1010.0', '1005.0', '1009.0', '1010.0', '1006.0', '1004.0', '995.0', '996.0', '1005.0', '1005.0', '997.0']
+
+gold: It describes the price index of laptop computer in Canada during 2016 . It 's clearly possible to see how the values are strongly fluctuating over the year . The maximum values have been recorded during the may of February and May .
+gold_template: It describes the templateTitle[0] templateTitle[1] of templateTitle[2] computer in templateTitleSubject[0] during templateTitleDate[0] . It 's clearly possible to see how the values are strongly fluctuating over the year . The maximum values have been recorded during the templateXValue[4] of templateXValue[1] and templateXValue[4] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in templateTitleDate[0] . The graph offers a templatePositiveTrend trend with the templateXLabel[0] going from templateXValue[0] to templateXValue[last] . The graph templatePositiveTrend from Jan to Feb but experience a drop from Feb to Mar .
+generated: The graph shows the Price index Laptop computers Canada in 2016 .  The graph offers a growing trend with the Month going from January to December .  The graph increase from Jan to Feb but experience a drop from Feb to Mar .
+
+Example 5:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Total non-resident travellers entering the country in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['120921.0', '101655.0', '123583.0', '130634.0', '140287.0', '162940.0', '258469.0', '600982.0', '671662.0', '649352.0', '560271.0', '761360.0']
+
+gold: This graph shows the total non-resident travelers entering Canada during the year 2021 , each month . The graph was mostly stable from Jan to Apr , after which there is a general upward trend . Although , there was a declining trend from Aug to Nov .
+gold_template: This graph shows the templateTitle[0] templateTitle[1] travelers templateTitle[3] templateTitleSubject[0] during the year templateTitleDate[0] , each templateXLabel[0] . The graph was mostly stable from Jan to Apr , after which there is a general upward trend . Although , there was a declining trend from Aug to Nov .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canada over the year of 2021 .  The number of travelers starts at around 123583.0 million in January , but then between February and April , the number plummets down to less than 123583.0 % .  Then , until December , the number remains steady , only rising slightly past 123583.0 million by the end of the year .
+
+Example 6:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Unprocessed milk in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1045.0', '1048.0', '1067.0', '1046.0', '1060.0', '1045.0', '1011.0', '1047.0', '1084.0', '1110.0', '1111.0', '1112.0']
+
+gold: The provided graph depicts the changes in the production of unprocessed milk in Canada in 2016 . The first value sits at 1045 in January , giving way to a slight increase to 1068 that is followed by a decline back to 1046 in April . A short rise follows in may but its crashing to 1010 in July .
+gold_template: The provided graph depicts the changes in the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] in templateTitleDate[0] . The first value sits at templateYValue[0] in templateXValue[0] , giving way to a slight templatePositiveTrend to 1068 that is followed by a templateNegativeTrend back to templateYValue[3] in templateXValue[3] . A short rise follows in templateXValue[4] but its crashing to 1010 in templateXValue[6] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Unprocessed milk in Canada during 2016 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 7:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Average retail price for orange juice in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/litre']: ['4.4', '4.46', '4.41', '4.33', '4.34', '4.51', '4.28', '4.36', '4.47', '4.35', '4.57', '4.53']
+
+gold: Chart showing the average retail price for orange juice in Canada in the year 2021 . This chart shows a lot of variability with large spikes over the different months , especially in the summer months . However there is a general trend over the year in increasing prices for dollars per litre of orange juice .
+gold_template: Chart showing the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateTitleSubject[0] in the year templateTitleDate[0] . This chart shows a lot of variability with large spikes over the different months , especially in the summer months . However there is a general trend over the year in templatePositiveTrend prices templateTitle[3] dollars per litre of templateTitle[4] templateTitle[5] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[2] oscilates from templateXValue[0] to templateXValue[7] with prices ranging between templateYValue[2] and 3.55 . The templateTitle[2] increases from templateXValue[7] to templateXValue[last] going from 3.55 to templateYValue[max] .
+generated: The graph shows the Average retail price for orange juice in Dollars/litre Canada during 2021 .  The price oscilates from January to August with prices ranging between 4.41 and 3.55 .  The price increases from August to December going from 3.55 to 4.57 .
+
+Example 8:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Supply of skim milk powder in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['39402.0', '38127.0', '38224.0', '38143.0', '36461.0', '37127.0', '37847.0', '35541.0', '35538.0', '35632.0', '34538.0', '35544.0']
+
+gold: This graph illustrates the monthly supply of skim milk powder in tonnes in the year of 2020 . Overall , there was a fairly steady decrease in supply throughout the year , with the exception of a surge in the months of June and July , and then again in December . The supply was highest in January and lowest in November .
+gold_template: This graph illustrates the monthly templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateYLabel[0] in the year of templateTitleDate[0] . Overall , there was a fairly steady templateNegativeTrend in templateTitle[0] throughout the year , with the exception of a surge in the months of templateXValue[5] and templateXValue[6] , and then again in templateXValue[last] . The templateTitle[0] was highest in templateXValue[0] and lowest in templateXValue[10] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Supply of skim milk in Tonnes Canada during 2020 .  The Supply values are in Jannuary .  From February till July the graph oscillate .
+
+Example 9:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Servers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '684']: ['1063.0', '1041.0', '1030.0', '1038.0', '1037.0', '1054.0', '1046.0', '1049.0', '1050.0', '1050.0', '1033.0', '1033.0']
+
+gold: The graph showes the price index of servers in 2016 . It starts with the maximum value in January and falls massive till to the minimum in March . Afterwards it increases till June while dropping a little bit in May .
+gold_template: The graph showes the templateTitle[0] templateTitle[1] of templateTitle[2] in templateTitleDate[0] . It starts with the maximum value in templateXValue[0] and falls massive till to the minimum in templateXValue[2] . Afterwards it increases till templateXValue[5] while templateNegativeTrend a little bit in templateXValue[4] .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Servers Canada 2016 in Canada the year 2016 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 10:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Servers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '684']: ['1063.0', '1041.0', '1030.0', '1038.0', '1037.0', '1054.0', '1046.0', '1049.0', '1050.0', '1050.0', '1033.0', '1033.0']
+
+gold: The price index for servers in 2018 rapidly fell from a high in January , to its lowest point in March of 2016 . After that the price index saw some fluctuation in the coming months until November , where it dropped again and did not change in December .
+gold_template: The templateTitle[0] templateTitle[1] for templateTitle[2] in 2018 rapidly templateNegativeTrend from a high in templateXValue[0] , to its lowest point in templateXValue[2] of templateTitleDate[0] . After that the templateTitle[0] templateTitle[1] saw some fluctuation in the coming months until templateXValue[10] , where it templateNegativeTrend again and did not change in templateXValue[last] .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Servers Canada 2016 in Canada the year 2016 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 11:
+titleEntities: {'Subject': ['sirloin steak', 'Canada'], 'Date': ['2019']}
+title: Average retail price for sirloin steak in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['22.39', '22.34', '23.06', '22.96', '22.65', '23.38', '22.17', '22.17', '22.42', '22.17', '22.43', '22.12']
+
+gold: The graph shows the Average retail price for sirloin steak in Canada during 2019 . Generally , the production recorded its highest values in June reaching a peak of around 23.4 dollars per kilogram . Then , it follows by a sudden drop after Jun and remains to fluctuate around the low point .
+gold_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateTitleSubject[0] during templateTitleDate[0] . Generally , the production recorded its highest values in templateXValue[5] reaching a peak of around templateYValue[max] dollars per kilogram . Then , it follows by a sudden drop after Jun and remains to fluctuate around the low point .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2019 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 23.38 in October .
+
+Example 12:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Total livestock and animal products in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1449.0', '1456.0', '1471.0', '1432.0', '1459.0', '1462.0', '1428.0', '1385.0', '1321.0', '1267.0', '1272.0', '1348.0']
+
+gold: The chart shows the farm product price index ( FPPI ) about total livestock and animal products in Canada during 2016 . The index has been quite steady during the first few months of the year , with a maximum value in March , but then it rapidly decreased from June over , reaching the minimum value during October which was around 1270 . The index started to slowly grow again during the months of November and December .
+gold_template: The chart shows the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) about templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleSubject[0] during templateTitleDate[0] . The templateYLabel[3] has been quite steady during the first few months of the year , with a maximum value in templateXValue[2] , but then it rapidly templateNegativeTrend from templateXValue[5] over , reaching the minimum value during templateXValue[9] which was around 1270 . The templateYLabel[3] started to slowly grow again during the months of templateXValue[10] and templateXValue[last] .
+
+generated_template: The graph shows the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Total Farm animal index in Canada for the year 2016 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 13:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Value of shipments of lime in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['13066750.0', '12378648.0', '12748345.0', '12895339.0', '13448918.0', '14117480.0', '13976996.0', '11209042.0', '11759401.0', '13119607.0', '13965691.0', '11576791.0']
+
+gold: This line chart shows the monthly value of lime shipments into Canada in tens of millions of dollars for the period from January 2020 to December 2020 . This value fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp decline . These declines happened between July and August and again between November and December .
+gold_template: This line chart shows the monthly templateTitle[0] of templateTitle[2] templateTitle[1] into templateTitleSubject[0] in tens of templateScale of templateYLabel[0] for the period from templateXValue[0] templateTitleDate[0] to templateXValue[last] templateTitleDate[0] . This templateTitle[0] fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp templateNegativeTrend . These declines happened between templateXValue[6] and templateXValue[7] and again between templateXValue[10] and templateXValue[last] .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Value of shipment lime in Canada the Year 2020 .  We have a chart depicting dollar Value on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 14:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2016']}
+title: Total vehicles entering Canada in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2132795.0', '1985152.0', '2413193.0', '2481273.0', '2765665.0', '2881952.0', '3334402.0', '3399740.0', '2861710.0', '2638655.0', '2341600.0', '2285715.0']
+
+gold: The number of total vehicles entering Canada in 2016 is depicted in this graph . During January approximately 2100000 vehicles enter . These numbers slightly decrease to 2000000 in February , the lowest value of the year .
+gold_template: The templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] templateTitleSubject[0] in templateTitleDate[0] is depicted in this graph . During templateXValue[0] approximately 2100000 templateTitle[1] enter . These numbers slightly templateNegativeTrend to 2000000 in templateXValue[1] , the lowest value of the year .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 15:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: New passenger cars sales in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'dollars']: ['886456.0', '1002458.0', '1639135.0', '1726633.0', '1997920.0', '1842063.0', '1545191.0', '1488682.0', '1474443.0', '1281934.0', '1105698.0', '926212.0']
+
+gold: This chart shows new passenger car sales in Canada in the Year 2019 . With the x-axis in thousands of dollars we see a steep increase from the starting months peaking in May then a corresponding gradual decline all the way to the end of the year .
+gold_template: This chart shows templateTitle[0] templateTitle[1] car templateTitle[3] in templateTitleSubject[0] in the Year templateTitleDate[0] . With the x-axis in thousands of templateYLabel[1] we see a steep templatePositiveTrend from the starting months peaking in templateXValue[4] then a corresponding gradual templateNegativeTrend all the way to the end of the year .
+
+generated_template: The templateTitle[0] templateTitle[1] templateTitle[2] begin at around 4 thousands templateYLabel[1] , followed by a rapid templateNegativeTrend to reach the lowest point in templateXValue[3] . Then it raises steeply to 6 from templateXValue[3] to templateXValue[5] . During templateXValue[5] to templateXValue[8] , it continues the templatePositiveTrend but with a steady speed .
+generated: The New passenger cars begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April .  Then it raises steeply to 6 from April to June .  During June to September , it continues the climb but with a steady speed .
+
+Example 16:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Total international travellers entering the country in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['1047375.0', '875292.0', '1002245.0', '999014.0', '1027393.0', '1096313.0', '1339476.0', '2008418.0', '2026491.0', '2102016.0', '2296178.0', '2966051.0']
+
+gold: The line chart shows the number of total international travellers entering Canada in 2021 . In general , the number of international travellers increases from around 1000000 to 3000000 persons from January to December . .
+gold_template: The line chart shows the number of templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitleSubject[0] in templateTitleDate[0] . In general , the number of templateTitle[1] templateTitle[2] increases from around 1000000 to 3000000 templateYLabel[0] from templateXValue[0] to templateXValue[last] .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canada over the year of 2021 .  The number of travelers starts at around 1002245.0 percent in January , but then between February and April , the number plummets down to less than 1002245.0 % .  Then , until December , the number remains steady , only rising slightly past 1002245.0 million by the end of the year .
+
+Example 17:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Total softwood and hardwood , production in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['55263.0', '53292.0', '60626.0', '56294.0', '59545.0', '56280.0', '51537.0', '54276.0', '55110.0', '58038.0', '57879.0', '48037.0']
+
+gold: The graphs shows the total softwood and hardwood production in Canada in the year 2017 . As can be seen in the graph , the production changes very much over the year . Initially , the value falls to February before rising in March and reaching a maximum of over 60000 cubic meters .
+gold_template: The graphs shows the templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleSubject[0] in the year templateTitleDate[0] . As can be seen in the graph , the templateTitle[3] changes very much over the year . Initially , the value falls to templateXValue[1] before templatePositiveTrend in templateXValue[2] and reaching a maximum of over 60000 templateYLabel[1] meters .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: softwood hardwood was highest in March , producing approximately 5350000 m^3 continuing with high hardwood through April and May .  hardwood falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 18:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total farm production index in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1297.0', '1300.0', '1306.0', '1296.0', '1312.0', '1329.0', '1337.0', '1301.0', '1279.0', '1294.0', '1285.0', '1277.0']
+
+gold: This chart shows how the Canadian total farm production index varies by month throughout 2018 . We see a distinctive season pattern . Production starts at a middling level in the first three months of the year , before a rapid increase from April to July , where it reaches a peak .
+gold_template: This chart shows how the Canadian templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] varies by templateXLabel[0] throughout templateTitleDate[0] . We see a distinctive season pattern . templateTitle[2] starts at a middling level in the first three months of the year , before a rapid templatePositiveTrend from templateXValue[3] to templateXValue[6] , where it reaches a peak .
+
+generated_template: The shown data are about the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] during templateTitleDate[0] . The maximum value was recorded during the templateXLabel[0] of templateXValue[5] . After that , a big drop has been registered between templateXValue[5] and templateXValue[8] .
+generated: The shown data are about the Total Farm production index in Canada during 2018 .  The maximum value was recorded during the Month of June .  After that , a big drop has been registered between June and September .
+
+Example 19:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Production of creamery butter in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['11576.0', '10112.0', '10117.0', '11034.0', '9461.0', '7818.0', '7985.0', '7016.0', '7912.0', '9850.0', '9251.0', '10242.0']
+
+gold: The line chart provides an overview of the production of creamery butter in Canada in 2019 . The production generally drops from January to August except for a gentle rise in April and reaches its minimum in August at around 7000 tonnes . It then grows from August to December .
+gold_template: The line chart provides an overview of the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] in templateTitleDate[0] . The templateTitle[0] generally drops from templateXValue[0] to templateXValue[7] except for a gentle rise in templateXValue[3] and reaches its minimum in templateXValue[7] at around 7000 templateYLabel[0] . It then grows from templateXValue[7] to templateXValue[last] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of creamery butter in Tonnes Canada during 2019 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 20:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Price index : Laptop computers in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '480']: ['992.0', '994.0', '991.0', '986.0', '984.0', '976.0', '981.0', '976.0', '980.0', '983.0', '973.0', '970.0']
+
+gold: The following graph shows information about the laptop computer price index in Canada during 2017 . The overall trend is descending . It 's clearly possible to see several fluctuations over the year , mainly during the summer months .
+gold_template: The following graph shows information about the templateTitle[2] computer templateTitle[0] templateTitle[1] in templateTitleSubject[0] during templateTitleDate[0] . The overall trend is descending . It 's clearly possible to see several fluctuations over the year , mainly during the summer months .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Laptop computers Canada in the year 2017 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 21:
+titleEntities: {'Subject': ['sirloin steak', 'Canada'], 'Date': ['2020']}
+title: Average retail price for sirloin steak in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['21.81', '21.67', '21.88', '22.51', '23.77', '26.68', '24.45', '22.49', '22.6', '23.29', '22.54', '22.65']
+
+gold: A graph plotting the average retail price for a kilogram of sirloin steak in Canada for every month in the year 2020 . Starting a low below $ 22 , the price soars to nearly $ 27 by June before plunging to $ 22.5 by August and remains stable for the rest of the year .
+gold_template: A graph plotting the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] a kilogram of templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[3] every templateXLabel[0] in the year templateTitleDate[0] . Starting a low below $ templateYValue[0] , the templateTitle[2] soars to nearly $ templateYValue[max] by templateXValue[5] before plunging to $ templateYValue[3] by templateXValue[7] and remains stable templateTitle[3] the rest of the year .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2020 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 26.68 in October .
+
+Example 22:
+titleEntities: {'Subject': ['sirloin steak', 'Canada'], 'Date': ['2020']}
+title: Average retail price for sirloin steak in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['21.81', '21.67', '21.88', '22.51', '23.77', '26.68', '24.45', '22.49', '22.6', '23.29', '22.54', '22.65']
+
+gold: The average retail price for sirloin steak grows exponentially from January to June and reaches the peak in June . Then decreases rapidly in August . Then it remains steady until December .
+gold_template: The templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] grows exponentially from templateXValue[0] to templateXValue[5] and reaches the peak in templateXValue[5] . Then decreases rapidly in templateXValue[7] . Then it remains steady until templateXValue[last] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2020 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 26.68 in October .
+
+Example 23:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total hardwood production in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['82.0', '126.0', '107.8', '71.6', '71.8', '68.5', '73.6', '85.3', '83.2', '84.2', '67.5', '75.7']
+
+gold: Hardwood production is drastically higher in February than any other month , with the exception of March , having almost 1.5 times more production than any other month . Production is lowest in the months of April , May , June , July , and November .
+gold_template: templateTitle[1] templateTitle[2] is drastically higher in templateXValue[1] than any other templateXLabel[0] , with the exception of templateXValue[2] , having almost 1.5 times more templateTitle[2] than any other templateXLabel[0] . templateTitle[2] is lowest in the months of templateXValue[3] , templateXValue[4] , templateXValue[5] , templateXValue[6] , and templateXValue[10] .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: hardwood production was highest in March , producing approximately 5350000 m^3 continuing with high production through April and May .  production falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 24:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Production of skim milk powder in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['10792.0', '8885.0', '8789.0', '9705.0', '7864.0', '6917.0', '8171.0', '6297.0', '6332.0', '8346.0', '6149.0', '8838.0']
+
+gold: The graph shows the production of skim milk powder in tonnes in Canada during 2019 . The highest value recorded is about 10800 tonnes in January . The production shows an overall decline with a few surges from January to August .
+gold_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The highest value recorded is about 10800 templateYLabel[0] in templateXValue[0] . The templateTitle[0] shows an overall templateNegativeTrend with a few surges from templateXValue[0] to templateXValue[7] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of skim milk in Tonnes Canada during 2019 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 25:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Production of Canola in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['1711508.0', '1692786.0', '1988587.0', '1580155.0', '1011647.0', '1412200.0', '757155.0', '457500.0', '2897763.0', '1717210.0', '1564509.0', '1259311.0']
+
+gold: Chart depicts the production of Canola in Canada in the year 2021 , showing tonnes on a month over month basis . We see a gradual decline from January all the way to August , until September comes where a massive spike and the yearly high is made the a steep decline to October with again a gradual decline to the end of the year .
+gold_template: Chart depicts the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] in the year templateTitleDate[0] , showing templateYLabel[0] on a templateXLabel[0] over templateXLabel[0] basis . We see a gradual templateNegativeTrend from templateXValue[0] all the way to templateXValue[7] , until templateXValue[8] comes where a massive spike and the yearly high is made the a steep templateNegativeTrend to templateXValue[9] with again a gradual templateNegativeTrend to the end of the year .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Canola Canada in Tonnes Canada during 2021 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 26:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1180.0', '1173.0', '1176.0', '1193.0', '1217.0', '1232.0', '1255.0', '1267.0', '1244.0', '1244.0', '1236.0', '1237.0']
+
+gold: The graph describes the production of chickens , turkeys , chicks and poults in Canada during 2018 . The production value is described using the farm product price index ( FPPI ) . As it can be seen from the graph , the production rapidly increased from January until August .
+gold_template: The graph describes the templateTitle[0] of templateTitle[1] , templateTitle[2] , templateTitle[3] and templateTitle[4] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] value is described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . As it can be seen from the graph , the templateTitle[0] rapidly templatePositiveTrend from templateXValue[0] until templateXValue[7] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2018 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 27:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: New passenger cars sales in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'dollars']: ['886456.0', '1002458.0', '1639135.0', '1726633.0', '1997920.0', '1842063.0', '1545191.0', '1488682.0', '1474443.0', '1281934.0', '1105698.0', '926212.0']
+
+gold: This line graph shows the amount of sales , in thousands of dollars , of passenger cars in Canada in the year 2019 . There was a drastic spike in sales amount , peaking in the month of May , and then declining until the month of December .
+gold_template: This line graph shows the amount of templateTitle[3] , in thousands of templateYLabel[1] , of templateTitle[1] templateTitle[2] in templateTitleSubject[0] in the year templateTitleDate[0] . There was a drastic spike in templateTitle[3] amount , peaking in the templateXLabel[0] of templateXValue[4] , and then declining until the templateXLabel[0] of templateXValue[last] .
+
+generated_template: The templateTitle[0] templateTitle[1] templateTitle[2] begin at around 4 thousands templateYLabel[1] , followed by a rapid templateNegativeTrend to reach the lowest point in templateXValue[3] . Then it raises steeply to 6 from templateXValue[3] to templateXValue[5] . During templateXValue[5] to templateXValue[8] , it continues the templatePositiveTrend but with a steady speed .
+generated: The New passenger cars begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April .  Then it raises steeply to 6 from April to June .  During June to September , it continues the climb but with a steady speed .
+
+Example 28:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Grains in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1080.0', '1072.0', '1093.0', '1096.0', '1100.0', '1107.0', '1092.0', '1135.0', '1112.0', '1097.0', '1094.0', '1105.0']
+
+gold: Graph elucidates the grain production in the year 2018 . Production experienced a general increase over the year , with a sharp spike in August and dips in the months of February , July and November .
+gold_template: Graph elucidates the grain templateTitle[0] in the year templateTitleDate[0] . templateTitle[0] experienced a general templatePositiveTrend over the year , with a sharp spike in templateXValue[7] and dips in the months of templateXValue[1] , templateXValue[6] and templateXValue[10] .
+
+generated_template: It 's clearly possible to see from the graph that the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] reached its maximum values during the summer months . In particular , the most significant peak of the values was registered during templateXValue[7] templateTitleDate[0] . Despite of that , during the rest of the year the templateTitle[0] value remained quite stable with few and not significant fluctuations .
+generated: It 's clearly possible to see from the graph that the Production of Grains Canada in during 2018 reached its maximum values during the summer months .  In particular , the most significant peak of the values was registered during August 2018 .  Despite of that , during the rest of the year Production value remained quite stable with few and not significant fluctuations .
+
+Example 29:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Canola in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['770329.0', '931493.0', '1037937.0', '914127.0', '957908.0', '760314.0', '849781.0', '567226.0', '693997.0', '909620.0', '994617.0', '1129894.0']
+
+gold: This is a canola production graph , showing the amount produced in tonnes for the year 2016 . Production stayed within the range of 600000 to about 1125000 tonnes during the year . Production started just under 800000 tonnes in January and rose to above 1000000 tonnes in March .
+gold_template: This is a templateTitle[1] templateTitle[0] graph , showing the amount produced in templateYLabel[0] for the year templateTitleDate[0] . templateTitle[0] stayed within the range of 600000 to about 1125000 templateYLabel[0] during the year . templateTitle[0] started just under 800000 templateYLabel[0] in templateXValue[0] and templatePositiveTrend to above 1000000 templateYLabel[0] in templateXValue[2] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Canola Canada in Tonnes Canada during 2016 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 30:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Grains in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1080.0', '1072.0', '1093.0', '1096.0', '1100.0', '1107.0', '1092.0', '1135.0', '1112.0', '1097.0', '1094.0', '1105.0']
+
+gold: The line chart is describing the values about production of grains in Canada during 2018 . The production amout is described using the farm product price index ( FPPI ) . The minimum recorded value is during February .
+gold_template: The line chart is describing the values about templateTitle[0] of templateTitle[1] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] amout is described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . The minimum recorded value is during templateXValue[1] .
+
+generated_template: It 's clearly possible to see from the graph that the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] reached its maximum values during the summer months . In particular , the most significant peak of the values was registered during templateXValue[7] templateTitleDate[0] . Despite of that , during the rest of the year the templateTitle[0] value remained quite stable with few and not significant fluctuations .
+generated: It 's clearly possible to see from the graph that the Production of Grains Canada in during 2018 reached its maximum values during the summer months .  In particular , the most significant peak of the values was registered during August 2018 .  Despite of that , during the rest of the year Production value remained quite stable with few and not significant fluctuations .
+
+Example 31:
+titleEntities: {'Subject': ['United States', 'Canada'], 'Date': ['2016']}
+title: Total United States vehicles entering in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['635038.0', '640999.0', '718941.0', '739902.0', '873274.0', '1029089.0', '1241519.0', '1174697.0', '967768.0', '833325.0', '707568.0', '718358.0']
+
+gold: This graph depicts the total number of United States vehicles entering in Canada during 2016 . The lowest number of vehicles is observed in January , at approximately 640000 . During the following months numbers of entering vehicles steadily increase until reaching the maximum number the year 2016 in July with approximately 1250000 .
+gold_template: This graph depicts the templateTitle[0] templateYLabel[0] of templateTitleSubject[0] vehicles templateTitle[4] in templateTitleSubject[1] during templateTitleDate[0] . The lowest templateYLabel[0] of templateTitle[3] is observed in templateXValue[0] , at approximately 640000 . During the following months numbers of templateTitle[4] templateTitle[3] steadily templatePositiveTrend until reaching the maximum templateYLabel[0] the year templateTitleDate[0] in templateXValue[6] with approximately 1250000 .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total United States States vehicles to the entering begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 32:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of new motor vehicles in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Units']: ['112996.0', '125284.0', '190744.0', '200291.0', '220436.0', '207008.0', '184809.0', '187208.0', '190640.0', '167892.0', '161903.0', '127734.0']
+
+gold: The production of new motor vehicle in Canada in 2017 climbed from 120000 to 220000 from Jan to May . Then it dropped until Jul , was stable until Sep. with a final further decline to 130000 at the end of the year .
+gold_template: The templateTitle[0] of templateTitle[1] templateTitle[2] vehicle in templateTitleSubject[0] in templateTitleDate[0] climbed from 120000 to 220000 from Jan to templateXValue[4] . Then it templateNegativeTrend until Jul , was stable until Sep. with a final further templateNegativeTrend to 130000 at the end of the year .
+
+generated_template: The graph shows the templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] for each templateXLabel[0] in templateTitleDate[0] . The templateTitle[2] reach a peak in Feburary at about 100000 templateYLabel[0] , and then templateNegativeTrend to a minimum point of 40000 in templateXValue[3] , then continuously templatePositiveTrend from templateXValue[4] to templateXValue[8] . The templateTitle[2] reaches the maximum at templateXValue[8] at 140000 , and then templateNegativeTrend again until templateXValue[last] .
+generated: The graph shows the Units of Production new motor in Canada for each Month in 2017 .  The motor reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September .  The motor reaches the maximum at September 140000 , and then decreasing again until December .
+
+Example 33:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Average retail price for orange juice in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/litre']: ['4.4', '4.46', '4.41', '4.33', '4.34', '4.51', '4.28', '4.36', '4.47', '4.35', '4.57', '4.53']
+
+gold: The dollar per litre average retail price of orange juice in Canada for each month of the year 2021 .
+gold_template: The dollar per litre templateTitle[0] templateTitle[1] templateTitle[2] of templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[3] each templateXLabel[0] of the year templateTitleDate[0] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[2] oscilates from templateXValue[0] to templateXValue[7] with prices ranging between templateYValue[2] and 3.55 . The templateTitle[2] increases from templateXValue[7] to templateXValue[last] going from 3.55 to templateYValue[max] .
+generated: The graph shows the Average retail price for orange juice in Dollars/litre Canada during 2021 .  The price oscilates from January to August with prices ranging between 4.41 and 3.55 .  The price increases from August to December going from 3.55 to 4.57 .
+
+Example 34:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Production of Oats in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['198701.0', '175757.0', '206322.0', '375629.0', '108484.0', '222923.0', '173147.0', '290864.0', '553796.0', '332483.0', '288980.0', '246116.0']
+
+gold: The production of oats in Canada 2020 fluctuates throughout the year with a plunge in May and a soar during the fall season .
+gold_template: The templateTitle[0] of templateTitle[1] in templateTitleSubject[0] templateTitleDate[0] fluctuates throughout the year with a templateNegativeTrend in templateXValue[4] and a soar during the fall season .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Oats Canada in Tonnes Canada during 2020 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 35:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Rye in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['6184.0', '5550.0', '7324.0', '7477.0', '8312.0', '15186.0', '14454.0', '15607.0', '19767.0', '19996.0', '7227.0', '8394.0']
+
+gold: The following graph is about the production of rye in Canada during 2017 ; the values are in tonnes . It shows a clearly growth from January over , reaching its maximum value during October . Then it 's possible to see a significant drop from October to November .
+gold_template: The following graph is about the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] during templateTitleDate[0] ; the values are in templateYLabel[0] . It shows a clearly growth from templateXValue[0] over , reaching its maximum value during templateXValue[9] . Then it 's possible to see a significant drop from templateXValue[9] to templateXValue[10] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Rye Canada in Tonnes Canada during 2017 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 36:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Average retail price for orange juice in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/litre']: ['4.4', '4.46', '4.41', '4.33', '4.34', '4.51', '4.28', '4.36', '4.47', '4.35', '4.57', '4.53']
+
+gold: This graph illustrates the monthly average retail price for orange juice in Dollars per litre . Based on the graph , the retail price fluctuated a lot throughout the year , with it being the highest in June and November , and the lowest in July . .
+gold_template: This graph illustrates the monthly templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in Dollars per litre . Based on the graph , the templateTitle[1] templateTitle[2] fluctuated a lot throughout the year , with it being the highest in templateXValue[5] and templateXValue[10] , and the lowest in templateXValue[6] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[2] oscilates from templateXValue[0] to templateXValue[7] with prices ranging between templateYValue[2] and 3.55 . The templateTitle[2] increases from templateXValue[7] to templateXValue[last] going from 3.55 to templateYValue[max] .
+generated: The graph shows the Average retail price for orange juice in Dollars/litre Canada during 2021 .  The price oscilates from January to August with prices ranging between 4.41 and 3.55 .  The price increases from August to December going from 3.55 to 4.57 .
+
+Example 37:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: New passenger cars sales in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'dollars']: ['886456.0', '1002458.0', '1639135.0', '1726633.0', '1997920.0', '1842063.0', '1545191.0', '1488682.0', '1474443.0', '1281934.0', '1105698.0', '926212.0']
+
+gold: The new passenger car sales chart illustrate the amount of sales in Canada which were sold in every month in 2019 . X-axis unit are measured in month , and y-axis is measured in thousand dollars . Overall , the trend of new passenger car sales increases from Jan to May , decreases signifcantly from May to Aug , and then decreases gradually from Aug to Dec. .
+gold_template: The templateTitle[0] templateTitle[1] car templateTitle[3] chart illustrate the amount of templateTitle[3] in templateTitleSubject[0] which were sold in every templateXLabel[0] in templateTitleDate[0] . X-axis unit are measured in templateXLabel[0] , and y-axis is measured in thousand templateYLabel[1] . Overall , the trend of templateTitle[0] templateTitle[1] car templateTitle[3] increases from Jan to templateXValue[4] , decreases signifcantly from templateXValue[4] to Aug , and then decreases gradually from Aug to Dec. .
+
+generated_template: The templateTitle[0] templateTitle[1] templateTitle[2] begin at around 4 thousands templateYLabel[1] , followed by a rapid templateNegativeTrend to reach the lowest point in templateXValue[3] . Then it raises steeply to 6 from templateXValue[3] to templateXValue[5] . During templateXValue[5] to templateXValue[8] , it continues the templatePositiveTrend but with a steady speed .
+generated: The New passenger cars begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April .  Then it raises steeply to 6 from April to June .  During June to September , it continues the climb but with a steady speed .
+
+Example 38:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Unprocessed milk in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1045.0', '1048.0', '1067.0', '1046.0', '1060.0', '1045.0', '1011.0', '1047.0', '1084.0', '1110.0', '1111.0', '1112.0']
+
+gold: A graph showing the farm product price index over the course of the year 2016 in Canada . It shows a significant price drop in July followed by a steady increase of the FPPPI until October .
+gold_template: A graph showing the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] over the course of the year templateTitleDate[0] in templateTitleSubject[0] . It shows a significant templateYLabel[2] drop in templateXValue[6] followed by a steady templatePositiveTrend of the FPPPI until templateXValue[9] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Unprocessed milk in Canada during 2016 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 39:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1194.0', '1189.0', '1194.0', '1207.0', '1215.0', '1207.0', '1201.0', '1205.0', '1205.0', '1205.0', '1206.0', '1197.0']
+
+gold: Production of poultry including chickens , turkeys , chicks and poults reaches its maximum during the month of May with a number of 1215 in Canada . The biggest increase in production of poultry can be observed from February until May , while a drop from May to July takes place . From August until November the production remains quite stable at approximately 1205 and starts decreasing until it reaches its minimum in February below 1190 .
+gold_template: templateTitle[0] of poultry including templateTitle[1] , templateTitle[2] , templateTitle[3] and templateTitle[4] reaches its maximum during the templateXLabel[0] of templateXValue[4] with a number of templateYValue[max] in templateTitleSubject[0] . The biggest templatePositiveTrend in templateTitle[0] of poultry can be observed from templateXValue[1] until templateXValue[4] , while a drop from templateXValue[4] to templateXValue[6] takes place . From templateXValue[7] until templateXValue[10] the templateTitle[0] remains quite stable at approximately templateYValue[7] and starts templateNegativeTrend until it reaches its minimum in templateXValue[1] below 1190 .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2017 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 40:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of new motor vehicles in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['4295419.0', '4728596.0', '6745037.0', '7570371.0', '7379863.0', '7258509.0', '6654406.0', '6691685.0', '6942118.0', '6121957.0', '6467708.0', '5268834.0']
+
+gold: A Graph showing the production of new motor vehicles by Canada in 2016 . As you can see the production had a big climbing in Q1 2016 . It stayed stable in Q2 and Q3 , while fell down in Q4 .
+gold_template: A Graph showing the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] by templateTitleSubject[0] in templateTitleDate[0] . As you can see the templateTitle[0] had a big templatePositiveTrend in Q1 templateTitleDate[0] . It stayed stable in Q2 and Q3 , while templateNegativeTrend down in Q4 .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Production of shipment motor in Canada the Year 2016 .  We have a chart depicting dollar Production on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 41:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2017']}
+title: Total vehicles entering Canada in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2151134.0', '1985971.0', '2376086.0', '2524673.0', '2661197.0', '2859996.0', '3302694.0', '3483738.0', '2890900.0', '2675920.0', '2428578.0', '2376122.0']
+
+gold: the total vehicle entering Canada in 2017 were about 2000000 in Jan and Feb. then , they increased linearly until Aug , reaching 3400000 . The they decreased considerably to 2400000 , almost back to where they started from .
+gold_template: the templateTitle[0] vehicle templateTitle[2] templateTitleSubject[0] in templateTitleDate[0] were about 2000000 in Jan and Feb. then , they templatePositiveTrend linearly until Aug , reaching 3400000 . The they templateNegativeTrend considerably to 2400000 , almost back to where they started from .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 42:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2017']}
+title: Total Canadian vehicles returning to the country in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['1520514.0', '1374721.0', '1692134.0', '1787166.0', '1831843.0', '1855073.0', '2119074.0', '2329640.0', '1981937.0', '1900570.0', '1767828.0', '1690725.0']
+
+gold: The graph shows the trend of the total number of Canadian vehicles returning to Canada during the year 2017 . The number drops between january and february and shows the minimum value in february . From february on it increases and shows the maximum value in august .
+gold_template: The graph shows the trend of the templateTitle[0] templateYLabel[0] of templateTitleSubject[0] templateTitle[2] templateTitle[3] to templateTitleSubject[1] during the year templateTitleDate[0] . The templateYLabel[0] drops between templateXValue[0] and templateXValue[1] and shows the minimum value in templateXValue[1] . From templateXValue[1] on it increases and shows the maximum value in templateXValue[7] .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canadian vehicles returning to the country begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 43:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: International imports in all services in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Million', 'dollars']: ['10565.0', '10115.0', '10544.0', '10429.0', '10213.0', '10370.0', '10612.0', '11195.0', '11784.0', '11824.0', '12048.0', '12309.0']
+
+gold: This graph shows international imports in all services ( millions of dollars ) to Canada during 2021 , each month . There is a general upward trend . The graph was at its lowest in Feb and highest in Dec .
+gold_template: This graph shows templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] ( templateScale of templateYLabel[1] ) to templateTitleSubject[0] during templateTitleDate[0] , each templateXLabel[0] . There is a general upward trend . The graph was at its lowest in Feb and highest in Dec .
+
+generated_template: The templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] in templateTitleSubject[0] of the year templateTitleDate[0] are shown in the line chart . The templateTitle[1] start from over 15000 templateScale templateYLabel[1] and rapidly templateNegativeTrend till templateXValue[4] . Then it maintains at the same level during rest of the year .
+generated: The International imports in all services in Canada of the year 2021 are shown in the line chart .  The imports start from over 15000 million dollars and rapidly decrease till May .  Then it maintains at the same level during rest of the year .
+
+Example 44:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1194.0', '1189.0', '1194.0', '1207.0', '1215.0', '1207.0', '1201.0', '1205.0', '1205.0', '1205.0', '1206.0', '1197.0']
+
+gold: 2017 : Production of chickens , turkeys , chicks , poults in Canada , with a peak in may and the lowest production in february .
+gold_template: templateTitleDate[0] : templateTitle[0] of templateTitle[1] , templateTitle[2] , templateTitle[3] , templateTitle[4] in templateTitleSubject[0] , with a peak in templateXValue[4] and the lowest templateTitle[0] in templateXValue[1] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2017 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 45:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Import of skim milk powder in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['217.0', '293.0', '223.0', '206.0', '162.0', '302.0', '358.0', '145.0', '272.0', '185.0', '263.0', '134.0']
+
+gold: The graph illustrates the import of skim milk powder in Canada 2021 . The there was an increase from January to February . Then from February to May there was a decrease in imports .
+gold_template: The graph illustrates the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] templateTitleDate[0] . The there was an templatePositiveTrend from templateXValue[0] to templateXValue[1] . Then from templateXValue[1] to templateXValue[4] there was a templateNegativeTrend in imports .
+
+generated_template: The graph illustrates the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] in templateTitleDate[0] . The templateTitle[0] generally falls from templateXValue[0] to templateXValue[6] . It then climbs rapidly to the peak at over 400000 templateYLabel[0] in templateXValue[9] .
+generated: The graph illustrates the Import of skim in Canada 2021 .  The Import generally falls from January to July .  It then climbs rapidly to the peak at over 400000 Tonnes in October .
+
+Example 46:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of new motor vehicles in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Units']: ['112996.0', '125284.0', '190744.0', '200291.0', '220436.0', '207008.0', '184809.0', '187208.0', '190640.0', '167892.0', '161903.0', '127734.0']
+
+gold: The provided graph displays the number of Canadian vehicles returning to Canada over the year 2016 divided by month . It starts out at around 150000 vehicles in January , falls to 135000 in February and rises continuously to over 220000 in August . The following month show a steady decrease to its second lowest point of just under 160000 in December .
+gold_template: The provided graph displays the number of Canadian templateTitle[3] returning to templateTitleSubject[0] over the year 2016 divided by templateXLabel[0] . It starts out at around 150000 templateTitle[3] in templateXValue[0] , falls to 135000 in templateXValue[1] and rises continuously to over 220000 in templateXValue[7] . The following templateXLabel[0] show a steady templateNegativeTrend to its second lowest point of just under 160000 in templateXValue[last] .
+
+generated_template: The graph shows the templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] for each templateXLabel[0] in templateTitleDate[0] . The templateTitle[2] reach a peak in Feburary at about 100000 templateYLabel[0] , and then templateNegativeTrend to a minimum point of 40000 in templateXValue[3] , then continuously templatePositiveTrend from templateXValue[4] to templateXValue[8] . The templateTitle[2] reaches the maximum at templateXValue[8] at 140000 , and then templateNegativeTrend again until templateXValue[last] .
+generated: The graph shows the Units of Production new motor in Canada for each Month in 2017 .  The motor reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September .  The motor reaches the maximum at September 140000 , and then decreasing again until December .
+
+Example 47:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2017']}
+title: Total Canadian vehicles returning to the country in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['1520514.0', '1374721.0', '1692134.0', '1787166.0', '1831843.0', '1855073.0', '2119074.0', '2329640.0', '1981937.0', '1900570.0', '1767828.0', '1690725.0']
+
+gold: This graph indicates the number of total Canadian vehicles returning to the country in 2017 . The lowest number of approximately 1400000 can be observed during the month of February . Over the following 4 months a steady increase takes place .
+gold_template: This graph indicates the templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] in templateTitleDate[0] . The lowest templateYLabel[0] of approximately 1400000 can be observed during the templateXLabel[0] of templateXValue[1] . Over the following 4 months a steady templatePositiveTrend takes place .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canadian vehicles returning to the country begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 48:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Grains in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1080.0', '1072.0', '1093.0', '1096.0', '1100.0', '1107.0', '1092.0', '1135.0', '1112.0', '1097.0', '1094.0', '1105.0']
+
+gold: The production of grains in Canada during 2018 reported several fluctations . Even that , it shows a significant peak during the month of August . The minimum value has been registered during the month of February .
+gold_template: The templateTitle[0] of templateTitle[1] in templateTitleSubject[0] during templateTitleDate[0] reported several fluctations . Even that , it shows a significant peak during the templateXLabel[0] of templateXValue[7] . The minimum value has been registered during the templateXLabel[0] of templateXValue[1] .
+
+generated_template: It 's clearly possible to see from the graph that the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] reached its maximum values during the summer months . In particular , the most significant peak of the values was registered during templateXValue[7] templateTitleDate[0] . Despite of that , during the rest of the year the templateTitle[0] value remained quite stable with few and not significant fluctuations .
+generated: It 's clearly possible to see from the graph that the Production of Grains Canada in during 2018 reached its maximum values during the summer months .  In particular , the most significant peak of the values was registered during August 2018 .  Despite of that , during the rest of the year Production value remained quite stable with few and not significant fluctuations .
+
+Example 49:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total hardwood production in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['82.0', '126.0', '107.8', '71.6', '71.8', '68.5', '73.6', '85.3', '83.2', '84.2', '67.5', '75.7']
+
+gold: The graph shows total hardwood production ( thousand cubic metres ) in Canada in 2020 , each month . The graph peaks in February , while it is at its lowest in November . There was a sharp decline in hardwood production between February and April , while there was a sharp increase from January to February .
+gold_template: The graph shows templateTitle[0] templateTitle[1] templateTitle[2] ( thousand templateYLabel[1] templateYLabel[2] ) in templateTitleSubject[0] in templateTitleDate[0] , each templateXLabel[0] . The graph peaks in templateXValue[1] , while it is at its lowest in templateXValue[10] . There was a sharp templateNegativeTrend in templateTitle[1] templateTitle[2] between templateXValue[1] and templateXValue[3] , while there was a sharp templatePositiveTrend from templateXValue[0] to templateXValue[1] .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: hardwood production was highest in March , producing approximately 5350000 m^3 continuing with high production through April and May .  production falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 50:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2019']}
+title: Total vehicles entering Canada in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2073129.0', '1943864.0', '2539024.0', '2617243.0', '2853380.0', '2950339.0', '3388415.0', '3534811.0', '2791764.0', '2645404.0', '2349224.0', '2380353.0']
+
+gold: The line chart shows the number of vehicles entering Canada during 2019 . The chart indicates a major growth in the numbers from beginning of 2019 to August and a sharp drop afterwards . The highest and lowest numbers are about 3.55 millions in August and 1.95 millions in February respectively .
+gold_template: The line chart shows the templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] during templateTitleDate[0] . The chart indicates a major growth in the numbers from beginning of templateTitleDate[0] to templateXValue[7] and a sharp drop afterwards . The highest and lowest numbers are about 3.55 templateScale in templateXValue[7] and 1.95 templateScale in templateXValue[1] respectively .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 51:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Price index : Laptop computers in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '480']: ['992.0', '994.0', '991.0', '986.0', '984.0', '976.0', '981.0', '976.0', '980.0', '983.0', '973.0', '970.0']
+
+gold: The given graph shows the average retail price developement of laptop computers in Canada in the year 2017 split into the different months . In january the price started out at 992 dollars , increased slightly and then plummeted to 976 dollars average in June . A short incline happend in July just for it falling back onto the June price in august .
+gold_template: The given graph shows the average retail templateTitle[0] developement of templateTitle[2] templateTitle[3] in templateTitleSubject[0] in the year templateTitleDate[0] split into the different months . In templateXValue[0] the templateTitle[0] started out at templateYValue[0] dollars , templatePositiveTrend slightly and then plummeted to templateYValue[5] dollars average in templateXValue[5] . A short incline happend in templateXValue[6] just for it templateNegativeTrend back onto the templateXValue[5] templateTitle[0] in templateXValue[7] .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Laptop computers Canada in the year 2017 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 52:
+titleEntities: {'Subject': ['sirloin steak', 'Canada'], 'Date': ['2019']}
+title: Average retail price for sirloin steak in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['22.39', '22.34', '23.06', '22.96', '22.65', '23.38', '22.17', '22.17', '22.42', '22.17', '22.43', '22.12']
+
+gold: A graph plotting the average retail price per kilogram of sirloin steak in Canada for every month in 2019 . The price increases from January to March before dropping by May only to peak in June before dropping to a new low in July and remaining at a similar price level for the rest of the year .
+gold_template: A graph plotting the templateTitle[0] templateTitle[1] templateTitle[2] per kilogram of templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[3] every templateXLabel[0] in templateTitleDate[0] . The templateTitle[2] increases from templateXValue[0] to templateXValue[2] before templateNegativeTrend by templateXValue[4] only to peak in templateXValue[5] before templateNegativeTrend to a new low in templateXValue[6] and remaining at a similar templateTitle[2] level templateTitle[3] the rest of the year .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2019 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 23.38 in October .
+
+Example 53:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Rye in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['6184.0', '5550.0', '7324.0', '7477.0', '8312.0', '15186.0', '14454.0', '15607.0', '19767.0', '19996.0', '7227.0', '8394.0']
+
+gold: The graph illustrates the production of rye in canada in the year 2017 . The production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 tonnes . Then the production decrease again for the remaining months of the year .
+gold_template: The graph illustrates the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] in the year templateTitleDate[0] . The templateTitle[0] is very low in the first third of the year , before it rises sharply until templateXValue[9] , reaching a maximum of 20000 templateYLabel[0] . Then the templateTitle[0] templateNegativeTrend again for the remaining months of the year .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Rye Canada in Tonnes Canada during 2017 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 54:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Supply of skim milk powder in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['39402.0', '38127.0', '38224.0', '38143.0', '36461.0', '37127.0', '37847.0', '35541.0', '35538.0', '35632.0', '34538.0', '35544.0']
+
+gold: This graph shows the supply of skim milk power in Canada in 2020 , each month , by tonnes . The graph is erratic , but has an overall downward trend . The graph was at its peak in Jan , while it was at its lowest in Nov .
+gold_template: This graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] power in templateTitleSubject[0] in templateTitleDate[0] , each templateXLabel[0] , by templateYLabel[0] . The graph is erratic , but has an overall downward trend . The graph was at its peak in Jan , while it was at its lowest in Nov .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Supply of skim milk in Tonnes Canada during 2020 .  The Supply values are in Jannuary .  From February till July the graph oscillate .
+
+Example 55:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Laptop computers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '468']: ['1001.0', '1010.0', '1005.0', '1009.0', '1010.0', '1006.0', '1004.0', '995.0', '996.0', '1005.0', '1005.0', '997.0']
+
+gold: In this graph , the price index of laptop computers can be seen . The data illustrated was collected in Canada in 2016 . The graph 's line shows many ups and downs , with an overall high in February and May ( index of 1010 ) and an overall low in August ( index of 997 ) .
+gold_template: In this graph , the templateTitle[0] templateTitle[1] of templateTitle[2] templateTitle[3] can be seen . The data illustrated was collected in templateTitleSubject[0] in templateTitleDate[0] . The graph 's line shows many ups and downs , with an overall high in templateXValue[1] and templateXValue[4] ( templateTitle[1] of templateYValue[max] ) and an overall low in templateXValue[7] ( templateTitle[1] of templateYValue[last] ) .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in templateTitleDate[0] . The graph offers a templatePositiveTrend trend with the templateXLabel[0] going from templateXValue[0] to templateXValue[last] . The graph templatePositiveTrend from Jan to Feb but experience a drop from Feb to Mar .
+generated: The graph shows the Price index Laptop computers Canada in 2016 .  The graph offers a growing trend with the Month going from January to December .  The graph increase from Jan to Feb but experience a drop from Feb to Mar .
+
+Example 56:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2016']}
+title: Total vehicles entering Canada in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2132795.0', '1985152.0', '2413193.0', '2481273.0', '2765665.0', '2881952.0', '3334402.0', '3399740.0', '2861710.0', '2638655.0', '2341600.0', '2285715.0']
+
+gold: As it 's shown in the graph , the number of vehicles entering Canada during 2016 has been much higher during the summer compared with the other months of the year . In particular , the maximum number of vehicles entering Canada in 2016 has been registered during August . At the same time , the minimum value during February .
+gold_template: As it 's shown in the graph , the templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] during templateTitleDate[0] has been much higher during the summer compared with the other months of the year . In particular , the maximum templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] in templateTitleDate[0] has been registered during templateXValue[7] . At the same time , the minimum value during templateXValue[1] .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 57:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Production of skim milk powder in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['10792.0', '8885.0', '8789.0', '9705.0', '7864.0', '6917.0', '8171.0', '6297.0', '6332.0', '8346.0', '6149.0', '8838.0']
+
+gold: The following line chart has shown the production of skim milk powder in Canada during 2019 . The production is measured in tones and starts with a sudden fall ever since January . Until August , we may see some increases halfway through the year but eventually , drop to the lowest in Autumn .
+gold_template: The following line chart has shown the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] is measured in tones and starts with a sudden fall ever since templateXValue[0] . Until templateXValue[7] , we templateXValue[4] see some increases halfway through the year but eventually , drop to the lowest in Autumn .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of skim milk in Tonnes Canada during 2019 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 58:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of new motor vehicles in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['4295419.0', '4728596.0', '6745037.0', '7570371.0', '7379863.0', '7258509.0', '6654406.0', '6691685.0', '6942118.0', '6121957.0', '6467708.0', '5268834.0']
+
+gold: The chart represents the production of new motor vehicles ( month vs. profit in dollars ) in 2016 in Canada . The profit goes up rapidly in the first four months , then oscillates tending downward during May-September and finally plummets during September-December .
+gold_template: The chart represents the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] ( templateXLabel[0] vs. profit in templateYLabel[0] ) in templateTitleDate[0] in templateTitleSubject[0] . The profit goes up rapidly in the first four months , then oscillates tending downward during May-September and finally plummets during September-December .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Production of shipment motor in Canada the Year 2016 .  We have a chart depicting dollar Production on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 59:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2019']}
+title: Total vehicles entering Canada in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2073129.0', '1943864.0', '2539024.0', '2617243.0', '2853380.0', '2950339.0', '3388415.0', '3534811.0', '2791764.0', '2645404.0', '2349224.0', '2380353.0']
+
+gold: A line chart showing the total number of vehicles entering Canada for each month in 2019 . The number of vehicles entering Canada starts at around 2 million in January and increases to just below 3.6 million in August . In the next month , the value plummets to 2.8 million and continues to decrease through to the end of the year .
+gold_template: A line chart showing the templateTitle[0] templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] for each templateXLabel[0] in templateTitleDate[0] . The templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] starts at around templateYValue[0] templateScale in templateXValue[0] and increases to just below 3.6 templateScale in templateXValue[7] . In the next templateXLabel[0] , the value plummets to templateYValue[8] templateScale and continues to templateNegativeTrend through to the end of the year .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 60:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2016']}
+title: Total vehicles entering Canada in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2132795.0', '1985152.0', '2413193.0', '2481273.0', '2765665.0', '2881952.0', '3334402.0', '3399740.0', '2861710.0', '2638655.0', '2341600.0', '2285715.0']
+
+gold: The line chart shows the total number of vehicles entering Canada during 2016 . It 's clearly possible to see how during the summer months the amount of car entering Canada is way higher than the rest of the year , reaching the maximum value during the month of August with around 3400000 cars .
+gold_template: The line chart shows the templateTitle[0] templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] during templateTitleDate[0] . It 's clearly possible to see how during the summer months the amount of car templateTitle[2] templateTitleSubject[0] is way higher than the rest of the year , reaching the maximum value during the templateXLabel[0] of templateXValue[7] with around 3400000 cars .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 61:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Production of Canola in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['1711508.0', '1692786.0', '1988587.0', '1580155.0', '1011647.0', '1412200.0', '757155.0', '457500.0', '2897763.0', '1717210.0', '1564509.0', '1259311.0']
+
+gold: The production of canola oil in Canada is displayed in the form of a connected line graph in this chart . The x axis features the months of the year 2021 and the y axis features tonnes from 0 through 3 . The month with the lowest production for the whole year was August , but ironically , the best month was September .
+gold_template: The templateTitle[0] of templateTitle[1] oil in templateTitleSubject[0] is displayed in the form of a connected line graph in this chart . The x axis features the months of the year templateTitleDate[0] and the y axis features templateYLabel[0] from 0 through 3 . The templateXLabel[0] with the lowest templateTitle[0] for the whole year was templateXValue[7] , but ironically , the best templateXLabel[0] was templateXValue[8] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Canola Canada in Tonnes Canada during 2021 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 62:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total livestock and animal products in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1384.0', '1398.0', '1382.0', '1338.0', '1367.0', '1394.0', '1413.0', '1347.0', '1337.0', '1393.0', '1370.0', '1343.0']
+
+gold: Total Canadian livestock and animal products in 2018 are shown in this graph . The unit given is the farm product price index ( FPPI ) . During January products lie at 1385 and the second highes value of the year can be observed in February at approximately 1395 .
+gold_template: templateTitle[0] Canadian templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleDate[0] are shown in this graph . The unit given is the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . During templateXValue[0] templateTitle[3] lie at 1385 and the second highes value of the year can be observed in templateXValue[1] at approximately 1395 .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Total of livestock animal in Canada during 2018 has been increased over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 63:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Eggs in shell in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1372.0', '1372.0', '1372.0', '1387.0', '1387.0', '1400.0', '1407.0', '1453.0', '1454.0', '1452.0', '1452.0', '1453.0']
+
+gold: This line chart reflects the production of eggs in a shell in Canada during 2018 . From January until March the production remains unaltered at approximately 1375 . From March until July a steady increase of up to 1405 can be observed .
+gold_template: This line chart reflects the templateTitle[0] of templateTitle[1] in a templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] . From templateXValue[0] until templateXValue[2] the templateTitle[0] remains unaltered at approximately 1375 . From templateXValue[2] until templateXValue[6] a steady templatePositiveTrend of up to 1405 can be observed .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Production of Eggs shell in Canada for the year 2018 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 64:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Import of skim milk powder in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['292.0', '179.0', '109.0', '155.0', '181.0', '181.0', '289.0', '201.0', '366.0', '193.0', '286.0', '244.0']
+
+gold: This graph shows the import of skim milk powder ( by Tonnes ) in Canada during 2020 each month . The graph fluctuates erratically throughout the year . However , there was sharp decline between January and March after which the graph rose again .
+gold_template: This graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] ( by templateYLabel[0] ) in templateTitleSubject[0] during templateTitleDate[0] each templateXLabel[0] . The graph fluctuates erratically throughout the year . However , there was sharp templateNegativeTrend between templateXValue[0] and templateXValue[2] after which the graph templatePositiveTrend again .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Import of skim milk in Tonnes Canada during 2020 .  The Import values are in Jannuary .  From February till July the graph oscillate .
+
+Example 65:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2020']}
+title: Total Canadian residents entering the country in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['4430895.0', '4289711.0', '3258227.0', '181085.0', '195637.0', '246682.0', '287015.0', '344846.0', '324815.0', '341256.0', '325853.0', '379325.0']
+
+gold: The graph shows total number in millions of people of Canadian residents entering the country over the course of twelve consecutive months in 2020 . In the beginning of the year , the number of people is relatively high and dips sharply in March and April to way below 1 million for the rest of the year .
+gold_template: The graph shows templateTitle[0] number in templateScale of people of templateTitleSubject[0] templateTitle[2] templateTitle[3] the templateTitle[4] over the course of twelve consecutive months in templateTitleDate[0] . In the beginning of the year , the number of people is relatively high and dips sharply in templateXValue[2] and templateXValue[3] to way below 1 templateScale for the rest of the year .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canadian over the year of 2020 .  The number of travelers starts at around 3258227.0 million in January , but then between February and April , the number plummets down to less than 3258227.0 % .  Then , until December , the number remains steady , only rising slightly past 3258227.0 million by the end of the year .
+
+Example 66:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2017']}
+title: Total Canadian vehicles returning to the country in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['1520514.0', '1374721.0', '1692134.0', '1787166.0', '1831843.0', '1855073.0', '2119074.0', '2329640.0', '1981937.0', '1900570.0', '1767828.0', '1690725.0']
+
+gold: The number of canadian vehicles returning to the country during 2017 registered the highest values during the summer months . In particular , the maximum number was recorded during August 2017 . At the same time , the lowest value of the year was during the month of February .
+gold_template: The templateYLabel[0] of templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] during templateTitleDate[0] registered the highest values during the summer months . In particular , the maximum templateYLabel[0] was recorded during templateXValue[7] templateTitleDate[0] . At the same time , the lowest value of the year was during the templateXLabel[0] of templateXValue[1] .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canadian vehicles returning to the country begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 67:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Total softwood and hardwood , production in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['55263.0', '53292.0', '60626.0', '56294.0', '59545.0', '56280.0', '51537.0', '54276.0', '55110.0', '58038.0', '57879.0', '48037.0']
+
+gold: The total softwood and hardwood production in Canada showed an oscillating trend over 2017 . In particular , couple of peaks have been registered , mainly during the months of March and May . At the same time , the production value showed its minimum values during the months of July and December .
+gold_template: The templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleSubject[0] showed an oscillating trend over templateTitleDate[0] . In particular , couple of peaks have been registered , mainly during the months of templateXValue[2] and templateXValue[4] . At the same time , the templateTitle[3] value showed its minimum values during the months of templateXValue[6] and templateXValue[last] .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: softwood hardwood was highest in March , producing approximately 5350000 m^3 continuing with high hardwood through April and May .  hardwood falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 68:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Average retail price for apples in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['4.33', '4.32', '4.41', '4.25', '4.31', '4.42', '4.58', '4.61', '4.58', '4.53', '4.47', '4.51']
+
+gold: The average price of apples were relatively low in the beginning of the year at less than 4.40 dollars/kilogram until June , when it suddenly increased . It stays at a relatively high price of around 4.55 dollars/kilogram until November where it became slightly cheaper but still pretty expensive .
+gold_template: The templateTitle[0] templateTitle[2] of templateTitle[4] were relatively low in the beginning of the year at less than templateYValue[2] templateYLabel[0] until templateXValue[5] , when it suddenly templatePositiveTrend . It stays at a relatively high templateTitle[2] of around 4.55 templateYLabel[0] until templateXValue[10] where it became slightly cheaper but still pretty expensive .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for apples Canada in Dollars/kilogram Canada during 2020 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 4.61 in October .
+
+Example 69:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Total international travellers entering the country in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['1047375.0', '875292.0', '1002245.0', '999014.0', '1027393.0', '1096313.0', '1339476.0', '2008418.0', '2026491.0', '2102016.0', '2296178.0', '2966051.0']
+
+gold: A line chart about the increase in total international travelers entering Canada in 2021 . The beginning of the year is fairly steady with about 1 million people entering the country . In July , there is a sharp increase in the total international travelers entering Canada .
+gold_template: A line chart about the templatePositiveTrend in templateTitle[0] templateTitle[1] travelers templateTitle[3] templateTitleSubject[0] in templateTitleDate[0] . The beginning of the year is fairly steady with about templateYValue[0] templateScale people templateTitle[3] the templateTitle[4] . In templateXValue[6] , there is a sharp templatePositiveTrend in the templateTitle[0] templateTitle[1] travelers templateTitle[3] templateTitleSubject[0] .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canada over the year of 2021 .  The number of travelers starts at around 1002245.0 percent in January , but then between February and April , the number plummets down to less than 1002245.0 % .  Then , until December , the number remains steady , only rising slightly past 1002245.0 million by the end of the year .
+
+Example 70:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total livestock and animal products in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1384.0', '1398.0', '1382.0', '1338.0', '1367.0', '1394.0', '1413.0', '1347.0', '1337.0', '1393.0', '1370.0', '1343.0']
+
+gold: The following line chart shows the farm product price index ( FPPI ) about the total livestock and animal products in Canada during 2018 . The values are significantly fluctuating over the year , showing several peaks and falls . The highest values of the indexes have been recorded during February , July and October .
+gold_template: The following line chart shows the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) about the templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleSubject[0] during templateTitleDate[0] . The values are significantly fluctuating over the year , showing several peaks and falls . The highest values of the indexes have been recorded during templateXValue[1] , templateXValue[6] and templateXValue[9] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Total of livestock animal in Canada during 2018 has been increased over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 71:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: International imports in all services in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Million', 'dollars']: ['10565.0', '10115.0', '10544.0', '10429.0', '10213.0', '10370.0', '10612.0', '11195.0', '11784.0', '11824.0', '12048.0', '12309.0']
+
+gold: International imports in all services in Canada considerably increased in 2021 . The growth began in May at less than 10500 million dollars and was above 12000 million dollars in December .
+gold_template: templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] in templateTitleSubject[0] considerably templatePositiveTrend in templateTitleDate[0] . The growth began in templateXValue[4] at less than 10500 templateScale templateYLabel[1] and was above 12000 templateScale templateYLabel[1] in templateXValue[last] .
+
+generated_template: The templateTitle[0] templateTitle[1] in templateTitle[2] templateTitle[3] in templateTitleSubject[0] of the year templateTitleDate[0] are shown in the line chart . The templateTitle[1] start from over 15000 templateScale templateYLabel[1] and rapidly templateNegativeTrend till templateXValue[4] . Then it maintains at the same level during rest of the year .
+generated: The International imports in all services in Canada of the year 2021 are shown in the line chart .  The imports start from over 15000 million dollars and rapidly decrease till May .  Then it maintains at the same level during rest of the year .
+
+Example 72:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Total non-resident travellers entering the country in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['120921.0', '101655.0', '123583.0', '130634.0', '140287.0', '162940.0', '258469.0', '600982.0', '671662.0', '649352.0', '560271.0', '761360.0']
+
+gold: A line graph showing the total non-resident travelers entering Canada in the year 2021 . Between the months of January and June , the number people remains steady . July marks the beginning of a dramatic surge in the non-resident travelers entering Canada , which accelerates in August before calming down in September .
+gold_template: A line graph showing the templateTitle[0] templateTitle[1] travelers templateTitle[3] templateTitleSubject[0] in the year templateTitleDate[0] . Between the months of templateXValue[0] and templateXValue[5] , the number people remains steady . templateXValue[6] marks the beginning of a dramatic surge in the templateTitle[1] travelers templateTitle[3] templateTitleSubject[0] , which accelerates in templateXValue[7] before calming down in templateXValue[8] .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canada over the year of 2021 .  The number of travelers starts at around 123583.0 million in January , but then between February and April , the number plummets down to less than 123583.0 % .  Then , until December , the number remains steady , only rising slightly past 123583.0 million by the end of the year .
+
+Example 73:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Price index : Laptop computers in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '480']: ['992.0', '994.0', '991.0', '986.0', '984.0', '976.0', '981.0', '976.0', '980.0', '983.0', '973.0', '970.0']
+
+gold: This is a line graph showing the 2017 price index of laptops in Canada . There is a declining trend throughout the year , with a slight spike in October . The graph 's peak is in February at 994 , and the graph 's trough is in December at 970 .
+gold_template: This is a line graph showing the templateTitleDate[0] templateTitle[0] templateTitle[1] of laptops in templateTitleSubject[0] . There is a declining trend throughout the year , with a slight spike in templateXValue[9] . The graph 's peak is in templateXValue[1] at templateYValue[max] , and the graph 's trough is in templateXValue[last] at templateYValue[min] .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Laptop computers Canada in the year 2017 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 74:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Import of skim milk powder in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['130.0', '396.0', '287.0', '320.0', '315.0', '335.0', '314.0', '209.0', '366.0', '375.0', '228.0', '117.0']
+
+gold: The chart illustrates the trend of the import weight of skim milk powder in Canada during 2019 . In February , the weight reached the highest point , while it reached the lowest point in December . From March to July , it remained stable .
+gold_template: The chart illustrates the trend of the templateTitle[0] weight of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] during templateTitleDate[0] . In templateXValue[1] , the weight reached the highest point , while it reached the lowest point in templateXValue[last] . From templateXValue[2] to templateXValue[6] , it remained stable .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Import of skim milk in Tonnes Canada during 2019 .  The Import values are in Jannuary .  From February till July the graph oscillate .
+
+Example 75:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of new motor vehicles in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['4295419.0', '4728596.0', '6745037.0', '7570371.0', '7379863.0', '7258509.0', '6654406.0', '6691685.0', '6942118.0', '6121957.0', '6467708.0', '5268834.0']
+
+gold: The diagram showes the Production of new motor vehicles in Dollar over the year 2016 in Canada . In januarry less than 4500000 vehicles were produced ( lowest ) . Till April the production increase steadyly and reach the highest value .
+gold_template: The diagram showes the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in Dollar over the year templateTitleDate[0] in templateTitleSubject[0] . In januarry less than 4500000 templateTitle[3] were produced ( lowest ) . Till templateXValue[3] the templateTitle[0] templatePositiveTrend steadyly and reach the highest value .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Production of shipment motor in Canada the Year 2016 .  We have a chart depicting dollar Production on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 76:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1180.0', '1173.0', '1176.0', '1193.0', '1217.0', '1232.0', '1255.0', '1267.0', '1244.0', '1244.0', '1236.0', '1237.0']
+
+gold: Poultry production cost for each month in Canada in 2018 . The cost index , at its lowest near the beginning of the year , steadily rose from less than 1180 in March to over 1260 August , then settled in September at roughly 1240 .
+gold_template: Poultry templateTitle[0] cost for each templateXLabel[0] in templateTitleSubject[0] in templateTitleDate[0] . The cost templateYLabel[3] , at its lowest near the beginning of the year , steadily templatePositiveTrend from less than templateYValue[0] in templateXValue[2] to over 1260 templateXValue[7] , then settled in templateXValue[8] at roughly 1240 .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2018 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 77:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Total livestock and animal products in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1449.0', '1456.0', '1471.0', '1432.0', '1459.0', '1462.0', '1428.0', '1385.0', '1321.0', '1267.0', '1272.0', '1348.0']
+
+gold: The total livestock and animal products in Canada has been quite steady during the first few months of the 2016 . After that , it rapidly declined from June until October . During last three months of the year it started to slightly increase again .
+gold_template: The templateTitle[0] templateTitle[1] and templateTitle[2] templateTitle[3] in templateTitleSubject[0] has been quite steady during the first few months of the templateTitleDate[0] . After that , it rapidly templateNegativeTrend from templateXValue[5] until templateXValue[9] . During last three months of the year it started to slightly templatePositiveTrend again .
+
+generated_template: The graph shows the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Total Farm animal index in Canada for the year 2016 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 78:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Rye in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['6184.0', '5550.0', '7324.0', '7477.0', '8312.0', '15186.0', '14454.0', '15607.0', '19767.0', '19996.0', '7227.0', '8394.0']
+
+gold: This figure represents the Canadian production of rye during 2017 . The given unit are tonnes . Production remains mostly stable throughout the months of January until May , around 6000 to 8000 tonnes .
+gold_template: This figure represents the Canadian templateTitle[0] of templateTitle[1] during templateTitleDate[0] . The given unit are templateYLabel[0] . templateTitle[0] remains mostly stable throughout the months of templateXValue[0] until templateXValue[4] , around 6000 to 8000 templateYLabel[0] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Rye Canada in Tonnes Canada during 2017 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 79:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Production of Oats in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['198701.0', '175757.0', '206322.0', '375629.0', '108484.0', '222923.0', '173147.0', '290864.0', '553796.0', '332483.0', '288980.0', '246116.0']
+
+gold: The production of oats in Canada oscillates in 2020 . The pattern is in an 'M ' shape , with two peaks in April and September . The production remains steady for the rest of the months .
+gold_template: The templateTitle[0] of templateTitle[1] in templateTitleSubject[0] oscillates in templateTitleDate[0] . The pattern is in an 'M ' shape , with two peaks in templateXValue[3] and templateXValue[8] . The templateTitle[0] remains steady for the rest of the months .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Oats Canada in Tonnes Canada during 2020 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 80:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Import of skim milk powder in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['130.0', '396.0', '287.0', '320.0', '315.0', '335.0', '314.0', '209.0', '366.0', '375.0', '228.0', '117.0']
+
+gold: The line chart depicts the import of skim milk powder in Canada in 2019 . The imports fluctuate a lot in the year . It grows sharply from January to February and reduces considerably from February to March .
+gold_template: The line chart depicts the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] in templateTitleDate[0] . The imports fluctuate a lot in the year . It grows sharply from templateXValue[0] to templateXValue[1] and reduces considerably from templateXValue[1] to templateXValue[2] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Import of skim milk in Tonnes Canada during 2019 .  The Import values are in Jannuary .  From February till July the graph oscillate .
+
+Example 81:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2019']}
+title: Production of creamery butter in Canada 2019
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['11576.0', '10112.0', '10117.0', '11034.0', '9461.0', '7818.0', '7985.0', '7016.0', '7912.0', '9850.0', '9251.0', '10242.0']
+
+gold: This connected line graph provides an overview of the amount of creamery butter produced in Canada in the year 2019 . Production for the product peaked in Jan 2020 and the lowest production month was Aug . There is a steep dip in the graph as summer approaches , but production picks up again from September .
+gold_template: This connected line graph provides an overview of the amount of templateTitle[1] templateTitle[2] produced in templateTitleSubject[0] in the year templateTitleDate[0] . templateTitle[0] for the product peaked in Jan 2020 and the lowest templateTitle[0] templateXLabel[0] was Aug . There is a steep templateNegativeTrend in the graph as summer approaches , but templateTitle[0] picks up again from templateXValue[8] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of creamery butter in Tonnes Canada during 2019 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 82:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Import of skim milk powder in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['217.0', '293.0', '223.0', '206.0', '162.0', '302.0', '358.0', '145.0', '272.0', '185.0', '263.0', '134.0']
+
+gold: A line chart about the import of skim milk powder in Canada in the year 2021 . The import of skim milk powder was volatile throughout the year 2021 , with hug swings in July , but a large decline come the end of the year , reaching the lows of below 150 tonnes imported .
+gold_template: A line chart about the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] in the year templateTitleDate[0] . The templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] was volatile throughout the year templateTitleDate[0] , with hug swings in templateXValue[6] , but a large templateNegativeTrend come the end of the year , reaching the lows of below 150 templateYLabel[0] imported .
+
+generated_template: The graph illustrates the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] in templateTitleDate[0] . The templateTitle[0] generally falls from templateXValue[0] to templateXValue[6] . It then climbs rapidly to the peak at over 400000 templateYLabel[0] in templateXValue[9] .
+generated: The graph illustrates the Import of skim in Canada 2021 .  The Import generally falls from January to July .  It then climbs rapidly to the peak at over 400000 Tonnes in October .
+
+Example 83:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2017']}
+title: Total vehicles entering Canada in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2151134.0', '1985971.0', '2376086.0', '2524673.0', '2661197.0', '2859996.0', '3302694.0', '3483738.0', '2890900.0', '2675920.0', '2428578.0', '2376122.0']
+
+gold: The graph showes the total vehicles entering canada in 2017 . The graph decreases in February . From february till August it starts to increase continously and reaches the maximum of over 3400000 .
+gold_template: The graph showes the templateTitle[0] templateTitle[1] templateTitle[2] templateTitleSubject[0] in templateTitleDate[0] . The graph decreases in templateXValue[1] . From templateXValue[1] till templateXValue[7] it starts to templatePositiveTrend continously and reaches the maximum of over 3400000 .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 84:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1194.0', '1189.0', '1194.0', '1207.0', '1215.0', '1207.0', '1201.0', '1205.0', '1205.0', '1205.0', '1206.0', '1197.0']
+
+gold: The graph shows the production of chickens , turkeys , chicks , and poults in Canada in the year of 2017 . There is one data entry for each month of the year . Production is measured by the farm product price index .
+gold_template: The graph shows the templateTitle[0] of templateTitle[1] , templateTitle[2] , templateTitle[3] , and templateTitle[4] in templateTitleSubject[0] in the year of templateTitleDate[0] . There is one data entry for each templateXLabel[0] of the year . templateTitle[0] is measured by the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2017 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 85:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Total softwood and hardwood , production in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['55263.0', '53292.0', '60626.0', '56294.0', '59545.0', '56280.0', '51537.0', '54276.0', '55110.0', '58038.0', '57879.0', '48037.0']
+
+gold: The graph depicts the fluctuation of softwood and hard wood production from January to November in 2017 . Production then sharply declined from November to December , reaching its lowest point .
+gold_template: The graph depicts the fluctuation of templateTitle[1] and hard wood templateTitle[3] from templateXValue[0] to templateXValue[10] in templateTitleDate[0] . templateTitle[3] then sharply templateNegativeTrend from templateXValue[10] to templateXValue[last] , reaching its lowest point .
+
+generated_template: templateTitle[1] templateTitle[2] was highest in templateXValue[2] , producing approximately 5350000 m^3 continuing with high templateTitle[2] through templateXValue[3] and templateXValue[4] . templateTitle[2] falls through the summer months and after an templatePositiveTrend in templateXValue[9] drops to its lowest value of approximately 3900000 m^3 in templateXValue[last] .
+generated: softwood hardwood was highest in March , producing approximately 5350000 m^3 continuing with high hardwood through April and May .  hardwood falls through the summer months and after an increase in October drops to its lowest value of approximately 3900000 m^3 in December .
+
+Example 86:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Import of skim milk powder in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['292.0', '179.0', '109.0', '155.0', '181.0', '181.0', '289.0', '201.0', '366.0', '193.0', '286.0', '244.0']
+
+gold: A line chart about the import of skim milk powder in Canada in the year 2020 . The year started off with a large plunge in imports , hitting an all time low in March . This slowly grew throughout the middle of the year , finally fluctuating to its all time high at above 350 tonnes and finishing off the year at 250 tonnes .
+gold_template: A line chart about the templateTitle[0] of templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] in the year templateTitleDate[0] . The year started off with a large templateNegativeTrend in imports , hitting an all time low in templateXValue[2] . This slowly templatePositiveTrend throughout the middle of the year , finally fluctuating to its all time high at above 350 templateYLabel[0] and finishing off the year at 250 templateYLabel[0] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Import of skim milk in Tonnes Canada during 2020 .  The Import values are in Jannuary .  From February till July the graph oscillate .
+
+Example 87:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Unprocessed milk in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1045.0', '1048.0', '1067.0', '1046.0', '1060.0', '1045.0', '1011.0', '1047.0', '1084.0', '1110.0', '1111.0', '1112.0']
+
+gold: This chart represents the production of unprocessed milk of Canada in 2016 . Whereas the production oscillates from January until June ranging from 1045 until 1065 a minimum value of below 1020 is observed during July . The following three months a sharp increase is taking place and reaching a value of approximately 1110 .
+gold_template: This chart represents the templateTitle[0] of templateTitle[1] templateTitle[2] of templateTitleSubject[0] in templateTitleDate[0] . Whereas the templateTitle[0] oscillates from templateXValue[0] until templateXValue[5] ranging from templateYValue[0] until 1065 a minimum value of below 1020 is observed during templateXValue[6] . The following three months a sharp templatePositiveTrend is taking place and reaching a value of approximately templateYValue[9] .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Unprocessed milk in Canada during 2016 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 88:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total farm production index in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1297.0', '1300.0', '1306.0', '1296.0', '1312.0', '1329.0', '1337.0', '1301.0', '1279.0', '1294.0', '1285.0', '1277.0']
+
+gold: The following line chart is decribing the trend of the total farm production index in Canada during 2018 . The values are described using the farm product price index ( FPPI ) . It can be seen from the graph that the values are frequently fluctuating over the year , showing several peaks and dips .
+gold_template: The following line chart is decribing the trend of the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] during templateTitleDate[0] . The values are described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . It can be seen from the graph that the values are frequently fluctuating over the year , showing several peaks and dips .
+
+generated_template: The shown data are about the templateTitle[0] templateYLabel[0] templateTitle[2] templateYLabel[3] in templateTitleSubject[0] during templateTitleDate[0] . The maximum value was recorded during the templateXLabel[0] of templateXValue[5] . After that , a big drop has been registered between templateXValue[5] and templateXValue[8] .
+generated: The shown data are about the Total Farm production index in Canada during 2018 .  The maximum value was recorded during the Month of June .  After that , a big drop has been registered between June and September .
+
+Example 89:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Average retail price for orange juice in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/litre']: ['4.4', '4.46', '4.41', '4.33', '4.34', '4.51', '4.28', '4.36', '4.47', '4.35', '4.57', '4.53']
+
+gold: The average retail price for orange juice in Canada for the year 2021 is shown in the line chart . The price fluctuates through the year . It experiences several times ' rises and drops , reaching its minimum in July at below 4.3 dollars/litre .
+gold_template: The templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateTitleSubject[0] templateTitle[3] the year templateTitleDate[0] is shown in the line chart . The templateTitle[2] fluctuates through the year . It experiences several times ' rises and drops , reaching its minimum in templateXValue[6] at below templateYValue[3] templateYLabel[0] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[2] oscilates from templateXValue[0] to templateXValue[7] with prices ranging between templateYValue[2] and 3.55 . The templateTitle[2] increases from templateXValue[7] to templateXValue[last] going from 3.55 to templateYValue[max] .
+generated: The graph shows the Average retail price for orange juice in Dollars/litre Canada during 2021 .  The price oscilates from January to August with prices ranging between 4.41 and 3.55 .  The price increases from August to December going from 3.55 to 4.57 .
+
+Example 90:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2020']}
+title: Total Canadian residents entering the country in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['4430895.0', '4289711.0', '3258227.0', '181085.0', '195637.0', '246682.0', '287015.0', '344846.0', '324815.0', '341256.0', '325853.0', '379325.0']
+
+gold: This chart shows the total Canadian residents entering the country of Canada in the year 2020 . We see a steep decline in the Beginning of the year bottoming out in April , with a an extremely low rate with a very tiny gradual increase from April to the end of the year . One can imagine this was due to covid travel bans .
+gold_template: This chart shows the templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] the templateTitle[4] of templateTitleSubject[1] in the year templateTitleDate[0] . We see a steep templateNegativeTrend in the Beginning of the year bottoming out in templateXValue[3] , with a an extremely low rate with a very tiny gradual templatePositiveTrend from templateXValue[3] to the end of the year . One can imagine this was due to covid travel bans .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canadian over the year of 2020 .  The number of travelers starts at around 3258227.0 million in January , but then between February and April , the number plummets down to less than 3258227.0 % .  Then , until December , the number remains steady , only rising slightly past 3258227.0 million by the end of the year .
+
+Example 91:
+titleEntities: {'Subject': ['United States', 'Canada'], 'Date': ['2016']}
+title: Total United States vehicles entering in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['635038.0', '640999.0', '718941.0', '739902.0', '873274.0', '1029089.0', '1241519.0', '1174697.0', '967768.0', '833325.0', '707568.0', '718358.0']
+
+gold: The graph illustrates the total number of vehicles from the United States entering Canada . Data for every month of 2016 is shown . The numbers vary for each month .
+gold_template: The graph illustrates the templateTitle[0] templateYLabel[0] of templateTitle[3] from the templateTitleSubject[0] entering templateTitleSubject[1] . Data for every templateXLabel[0] of templateTitleDate[0] is shown . The numbers vary for each templateXLabel[0] .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total United States States vehicles to the entering begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 92:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2021']}
+title: Total international travellers entering the country in Canada 2021
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Persons']: ['1047375.0', '875292.0', '1002245.0', '999014.0', '1027393.0', '1096313.0', '1339476.0', '2008418.0', '2026491.0', '2102016.0', '2296178.0', '2966051.0']
+
+gold: The graph shows the total international travallers entering the country for Canada in year 2021 . The whole main trend is increasing and specifically grow from Jun to Jul , in the other times , remain stable smoothly raise for the trend . Even though , for the Jan to Feb , people get a small lose but overall , most of the time are raise well in the data .
+gold_template: The graph shows the templateTitle[0] templateTitle[1] travallers templateTitle[3] the templateTitle[4] for templateTitleSubject[0] in year templateTitleDate[0] . The whole main trend is templatePositiveTrend and specifically grow from Jun to Jul , in the other times , remain stable smoothly templatePositiveTrend for the trend . Even though , for the Jan to Feb , people get a small templateNegativeTrend but overall , most of the time are templatePositiveTrend well in the data .
+
+generated_template: This line chart plots the templateTitle[0] number of foreign travelers templateTitle[3] templateTitleSubject[0] over the year of templateTitleDate[0] . The number of travelers starts at around templateYValue[2] templateScale in templateXValue[0] , but then between templateXValue[1] and templateXValue[3] , the number plummets down to less than templateYValue[2] templateScale . Then , until templateXValue[last] , the number remains steady , only templatePositiveTrend slightly past templateYValue[2] templateScale by the end of the year .
+generated: This line chart plots the Total number of foreign travelers entering Canada over the year of 2021 .  The number of travelers starts at around 1002245.0 percent in January , but then between February and April , the number plummets down to less than 1002245.0 % .  Then , until December , the number remains steady , only rising slightly past 1002245.0 million by the end of the year .
+
+Example 93:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Canola in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['770329.0', '931493.0', '1037937.0', '914127.0', '957908.0', '760314.0', '849781.0', '567226.0', '693997.0', '909620.0', '994617.0', '1129894.0']
+
+gold: This figure represents the production of Canola in Canada during 2016 . The unit given is tonnes . In January production lies at approximately 780000 tonnes .
+gold_template: This figure represents the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] during templateTitleDate[0] . The unit given is templateYLabel[0] . In templateXValue[0] templateTitle[0] lies at approximately 780000 templateYLabel[0] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Canola Canada in Tonnes Canada during 2016 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 94:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Average retail price for apples in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars/kilogram']: ['4.33', '4.32', '4.41', '4.25', '4.31', '4.42', '4.58', '4.61', '4.58', '4.53', '4.47', '4.51']
+
+gold: The average retail price of apples in Canada for the year 2020 , depicting Dollars per Kilo on a month over month basis . We see a bit of a fluctuation in the starting months with the bottom in April , Then a steep increase in the summer months with the yearly high in August . Then shows a gradual decline in the winter months with a small bump up in December to cap off the year .
+gold_template: The templateTitle[0] templateTitle[1] templateTitle[2] of templateTitle[4] in templateTitleSubject[0] templateTitle[3] the year templateTitleDate[0] , depicting Dollars per Kilo on a templateXLabel[0] over templateXLabel[0] basis . We see a bit of a fluctuation in the starting months with the bottom in templateXValue[3] , Then a steep templatePositiveTrend in the summer months with the yearly high in templateXValue[7] . Then shows a gradual templateNegativeTrend in the winter months with a small bump up in templateXValue[last] to cap off the year .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] templateTitle[5] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The trend shows the templateTitle[2] templatePositiveTrend over time with minor oscillations . The templateTitle[2] reached a low of 22.5 in templateXValue[1] and a high of templateYValue[max] in templateXValue[9] .
+generated: The graph shows the Average retail price for apples Canada in Dollars/kilogram Canada during 2020 .  The trend shows the price rising over time with minor oscillations .  The price reached a low of 22.5 in February and a high of 4.61 in October .
+
+Example 95:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Eggs in shell in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1372.0', '1372.0', '1372.0', '1387.0', '1387.0', '1400.0', '1407.0', '1453.0', '1454.0', '1452.0', '1452.0', '1453.0']
+
+gold: As it 's possible to see , the following graph is about the production of eggs in shell in Canada during 2018 . The values are reported using the farm product price index ( FPPI ) . The production slightly increase over the first half of the year , so from January until July .
+gold_template: As it 's possible to see , the following graph is about the templateTitle[0] of templateTitle[1] in templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] . The values are reported using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . The templateTitle[0] slightly templatePositiveTrend over the first half of the year , so from templateXValue[0] until templateXValue[6] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Production of Eggs shell in Canada for the year 2018 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 96:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Chickens , turkeys , chicks , poults in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1180.0', '1173.0', '1176.0', '1193.0', '1217.0', '1232.0', '1255.0', '1267.0', '1244.0', '1244.0', '1236.0', '1237.0']
+
+gold: A graph showing the FPPPI for the production of poultry in Canada over the course of the year 2018 . The FPPI has risen steadily until August and then dropped slowly .
+gold_template: A graph showing the FPPPI for the templateTitle[0] of poultry in templateTitleSubject[0] over the course of the year templateTitleDate[0] . The FPPI has risen steadily until templateXValue[7] and then templateNegativeTrend slowly .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Production of Chickens turkeys in Canada during 2018 has been increasing over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 97:
+titleEntities: {'Subject': ['United States', 'Canada'], 'Date': ['2016']}
+title: Total United States vehicles entering in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['635038.0', '640999.0', '718941.0', '739902.0', '873274.0', '1029089.0', '1241519.0', '1174697.0', '967768.0', '833325.0', '707568.0', '718358.0']
+
+gold: This graph shows the number of vehicles entering the United States in 2016 . The number of cars entering is about 700000 at the start and end of the year . It increases towards summer .
+gold_template: This graph shows the templateYLabel[0] of templateTitle[3] templateTitle[4] the templateTitleSubject[0] in templateTitleDate[0] . The templateYLabel[0] of cars templateTitle[4] is about 700000 at the start and end of the year . It increases towards summer .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total United States States vehicles to the entering begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 98:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Production of Canola in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['770329.0', '931493.0', '1037937.0', '914127.0', '957908.0', '760314.0', '849781.0', '567226.0', '693997.0', '909620.0', '994617.0', '1129894.0']
+
+gold: The production of canola in tonnes in Canada during 2016 is shown in this line chart . Production sharply increases from January until March . During the following months production fluctuates in an overall decreasing manner until it reaches its minimum in August .
+gold_template: The templateTitle[0] of templateTitle[1] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] is shown in this line chart . templateTitle[0] sharply increases from templateXValue[0] until templateXValue[2] . During the following months templateTitle[0] fluctuates in an overall templateNegativeTrend manner until it reaches its minimum in templateXValue[7] .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] during templateTitleDate[0] . The templateTitle[0] values are in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+generated: The graph shows the Production of Canola Canada in Tonnes Canada during 2016 .  The Production values are in Jannuary .  From February till July the graph oscillate .
+
+Example 99:
+titleEntities: {'Subject': ['Canada', 'Canada'], 'Date': ['2017']}
+title: Total vehicles entering Canada in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['2151134.0', '1985971.0', '2376086.0', '2524673.0', '2661197.0', '2859996.0', '3302694.0', '3483738.0', '2890900.0', '2675920.0', '2428578.0', '2376122.0']
+
+gold: It shows the number of total vehicles entering Canada during 2017 . It 's clearly possible to see how this value rapidly increase from January until the end of the summer , reaching its maximum value in August . After that , the number of vehicles entering Canada decrease during the last few months of the year .
+gold_template: It shows the templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] templateTitleSubject[0] during templateTitleDate[0] . It 's clearly possible to see how this value rapidly templatePositiveTrend from templateXValue[0] until the end of the summer , reaching its maximum value in templateXValue[7] . After that , the templateYLabel[0] of templateTitle[1] templateTitle[2] templateTitleSubject[0] templateNegativeTrend during the last few months of the year .
+
+generated_template: The templateYLabel[0] of templateTitle[0] templateTitleSubject[0] templateTitle[2] templateTitle[3] to the templateTitle[4] begins at a prominent high level , followed by a dramatical drop to reach the lowest point in templateXValue[3] , which reduces to a fifth of the beginning point . Then the templateYLabel[0] remains stable with a slight templatePositiveTrend to templateXValue[last] .
+generated: The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point .  Then the Number remains stable with a slight increase to December .
+
+Example 100:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Production of Eggs in shell in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1372.0', '1372.0', '1372.0', '1387.0', '1387.0', '1400.0', '1407.0', '1453.0', '1454.0', '1452.0', '1452.0', '1453.0']
+
+gold: Eggs production greatly increases during the second half of the year .
+gold_template: templateTitle[1] templateTitle[0] greatly increases during the second half of the year .
+
+generated_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] for the year templateTitleDate[0] . The graph reaches its highest point in templateXValue[5] and then steadily drops each templateXLabel[0] until reaching its lowest point in templateXValue[9] . Thereafter , it slowly recovers until templateXValue[last] .
+generated: The graph shows the Production of Eggs shell in Canada for the year 2018 .  The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October .  Thereafter , it slowly recovers until December .
+
+Example 101:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2018']}
+title: Total livestock and animal products in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Farm', 'product', 'price', 'index', '(FPPI)']: ['1384.0', '1398.0', '1382.0', '1338.0', '1367.0', '1394.0', '1413.0', '1347.0', '1337.0', '1393.0', '1370.0', '1343.0']
+
+gold: The graph shows the livestock and animal products value in Canada during 2018 . The values are described using the farm product price index ( FPPI ) . The products index shown several fluctuations .
+gold_template: The graph shows the templateTitle[1] and templateTitle[2] templateTitle[3] value in templateTitleSubject[0] during templateTitleDate[0] . The values are described using the templateYLabel[0] templateYLabel[1] templateYLabel[2] templateYLabel[3] ( FPPI ) . The templateTitle[3] templateYLabel[3] shown several fluctuations .
+
+generated_template: The templateTitle[0] of templateTitle[1] templateTitle[2] in templateTitleSubject[0] during templateTitleDate[0] has been templatePositiveTrend over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during templateXValue[10] and templateXValue[last] .
+generated: The Total of livestock animal in Canada during 2018 has been increased over the year .  Even that , several fluctuations have been recorded , in particular during the first months of the year .  The maximum values have been recorded during November and December .
+
+Example 102:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Value of shipments of lime in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Dollars']: ['13066750.0', '12378648.0', '12748345.0', '12895339.0', '13448918.0', '14117480.0', '13976996.0', '11209042.0', '11759401.0', '13119607.0', '13965691.0', '11576791.0']
+
+gold: Chart shows the Value of shipments of lime in Canada in the year 2020 . Depicting the dollar value on a month over month basis , where we see a gradual increase from the starting months to the peak in June then a steep drop in Dollar value in August but a rapid climb back up close to the yearly high in November with another steep decline in December .
+gold_template: Chart shows the templateTitle[0] of templateTitle[1] of templateTitle[2] in templateTitleSubject[0] in the year templateTitleDate[0] . Depicting the dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] basis , where we see a gradual templatePositiveTrend from the starting months to the peak in templateXValue[5] then a steep drop in Dollar templateTitle[0] in templateXValue[7] but a rapid templatePositiveTrend back up close to the yearly high in templateXValue[10] with another steep templateNegativeTrend in templateXValue[last] .
+
+generated_template: Chart shows the templateTitle[0] of shipment of templateTitle[2] in templateTitleSubject[0] in the Year templateTitleDate[0] . We have a chart depicting dollar templateTitle[0] on a templateXLabel[0] over templateXLabel[0] scale . With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a templateNegativeTrend but then a rocket highs for the end of the year .
+generated: Chart shows the Value of shipment lime in Canada the Year 2020 .  We have a chart depicting dollar Value on a Month over scale .  With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year .
+
+Example 103:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of new motor vehicles in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Units']: ['112996.0', '125284.0', '190744.0', '200291.0', '220436.0', '207008.0', '184809.0', '187208.0', '190640.0', '167892.0', '161903.0', '127734.0']
+
+gold: Plot graph describing how many motor bikes were produced in 2017 in Canada .
+gold_template: Plot graph describing how many templateTitle[2] bikes were produced in templateTitleDate[0] in templateTitleSubject[0] .
+
+generated_template: The graph shows the templateYLabel[0] of templateTitle[0] templateTitle[1] templateTitle[2] in templateTitleSubject[0] for each templateXLabel[0] in templateTitleDate[0] . The templateTitle[2] reach a peak in Feburary at about 100000 templateYLabel[0] , and then templateNegativeTrend to a minimum point of 40000 in templateXValue[3] , then continuously templatePositiveTrend from templateXValue[4] to templateXValue[8] . The templateTitle[2] reaches the maximum at templateXValue[8] at 140000 , and then templateNegativeTrend again until templateXValue[last] .
+generated: The graph shows the Units of Production new motor in Canada for each Month in 2017 .  The motor reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September .  The motor reaches the maximum at September 140000 , and then decreasing again until December .
+
+Example 104:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Servers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '684']: ['1063.0', '1041.0', '1030.0', '1038.0', '1037.0', '1054.0', '1046.0', '1049.0', '1050.0', '1050.0', '1033.0', '1033.0']
+
+gold: The graph shows the price index of serves in Canada during 2016 . At the beginning of the year , between January and March , the index considerably dropped down . After that , it has been oscillating over the rest of the year .
+gold_template: The graph shows the templateTitle[0] templateTitle[1] of serves in templateTitleSubject[0] during templateTitleDate[0] . At the beginning of the year , between templateXValue[0] and templateXValue[2] , the templateTitle[1] considerably templateNegativeTrend down . After that , it has been oscillating over the rest of the year .
+
+generated_template: A line chart about the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in the year templateTitleDate[0] . Values are analyzed in the different months of the year . With index values ranging from less than 45000 to more than 60000 .
+generated: A line chart about the Price index Servers Canada 2016 in Canada the year 2016 .  Values are analyzed in the different months of the year .  With index values ranging from less than 45000 to more than 60000 .
+
+Example 105:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2016']}
+title: Price index : Laptop computers in Canada 2016
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['ID', '468']: ['1001.0', '1010.0', '1005.0', '1009.0', '1010.0', '1006.0', '1004.0', '995.0', '996.0', '1005.0', '1005.0', '997.0']
+
+gold: The graph shows the price index of laptop computer in the year 2016 in Canada . The price index fluctuates hugely the first four monthes and reach the maximum in May . It falls in June and July and drop massivly in August .
+gold_template: The graph shows the templateTitle[0] templateTitle[1] of templateTitle[2] computer in the year templateTitleDate[0] in templateTitleSubject[0] . The templateTitle[0] templateTitle[1] fluctuates hugely the first four monthes and reach the maximum in templateXValue[4] . It falls in templateXValue[5] and templateXValue[6] and drop massivly in templateXValue[7] .
+
+generated_template: The graph shows the templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] templateTitle[4] in templateTitleSubject[0] in templateTitleDate[0] . The graph offers a templatePositiveTrend trend with the templateXLabel[0] going from templateXValue[0] to templateXValue[last] . The graph templatePositiveTrend from Jan to Feb but experience a drop from Feb to Mar .
+generated: The graph shows the Price index Laptop computers Canada in 2016 .  The graph offers a growing trend with the Month going from January to December .  The graph increase from Jan to Feb but experience a drop from Feb to Mar .
+

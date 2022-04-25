@@ -1,0 +1,1 @@
+The following line chart is about the production of grains in Canada during 2017. The values are reported using the FPPI (Farm product pridce index). It's clearly possible to see how the production of grains is quite low from January to May, but then it rapidly increase from June to December, reaching its maximum value during September 2017.

@@ -1,0 +1,72 @@
+{
+   "title": "Production of Oats in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Oats in Canada during 2016 showed several fluctuations during the year . ",
+      "The Production values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "135535.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "92096.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "157007.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "106285.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "77629.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "154242.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "84611.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "190842.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "207525.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "171121.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "157291.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "140213.0"
+      }
+   ],
+   "gold": "The graph shows the oats production over the year of 2016 . The graph stayed in the range of about 80000 and 200000 tonnes . It has a zig-zag waveform from January to August , before a last peak in September and then decreasing in the last quarter of the year .\n"
+}

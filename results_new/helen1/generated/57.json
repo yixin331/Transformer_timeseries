@@ -1,0 +1,73 @@
+{
+   "title": "Supply of creamery butter in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of creamery butter ( in Tonnes ) in Canada the year 2020 . ",
+      "Supply is very different over the year . ",
+      "While a significant decrease in Supply can be observed from January to February , Supply continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "40490.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "39599.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "41768.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "42598.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "39793.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "40849.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "39260.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "37830.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "39842.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "38021.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "36472.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "36019.0"
+      }
+   ],
+   "gold": "A line graph about the general decline trend in the supply of creamery butter in Canada of 2020 . There is a growth of supply but it fluctuates between every 2 to 3 months , and an overall of decline in supply by the end of the year .\n"
+}

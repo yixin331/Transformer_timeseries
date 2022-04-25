@@ -1,0 +1,1 @@
+This line graph shows the amount of sales , in thousands of dollars , of passenger cars in Canada in the year 2019 . There was a drastic spike in sales amount , peaking in the month of May , and then declining until the month of December .

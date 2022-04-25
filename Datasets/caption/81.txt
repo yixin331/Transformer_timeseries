@@ -1,0 +1,1 @@
+A line chart of the number of travellers entering Canada . It starts out high then plummets , and maintains the low level .

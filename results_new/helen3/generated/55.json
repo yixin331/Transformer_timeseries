@@ -1,0 +1,72 @@
+{
+   "title": "Price index : Laptop computers in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "ID 468",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Laptop computers Canada in 2016 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 468": "1001.0"
+      },
+      {
+         "Month": "February",
+         "ID 468": "1010.0"
+      },
+      {
+         "Month": "March",
+         "ID 468": "1005.0"
+      },
+      {
+         "Month": "April",
+         "ID 468": "1009.0"
+      },
+      {
+         "Month": "May",
+         "ID 468": "1010.0"
+      },
+      {
+         "Month": "June",
+         "ID 468": "1006.0"
+      },
+      {
+         "Month": "July",
+         "ID 468": "1004.0"
+      },
+      {
+         "Month": "August",
+         "ID 468": "995.0"
+      },
+      {
+         "Month": "September",
+         "ID 468": "996.0"
+      },
+      {
+         "Month": "October",
+         "ID 468": "1005.0"
+      },
+      {
+         "Month": "November",
+         "ID 468": "1005.0"
+      },
+      {
+         "Month": "December",
+         "ID 468": "997.0"
+      }
+   ],
+   "gold": "In this graph , the price index of laptop computers can be seen . The data illustrated was collected in Canada in 2016 . The graph 's line shows many ups and downs , with an overall high in February and May ( index of 1010 ) and an overall low in August ( index of 997 ) .\n"
+}

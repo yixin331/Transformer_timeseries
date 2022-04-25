@@ -1,0 +1,1 @@
+A graph plotting the average retail price per kilogram of sirloin steak in Canada for every month in 2019 . The price increases from January to March before dropping by May only to peak in June before dropping to a new low in July and remaining at a similar price level for the rest of the year .

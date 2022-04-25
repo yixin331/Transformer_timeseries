@@ -1,0 +1,75 @@
+{
+   "title": "Value of shipments of silver in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Value of shipments silver in Dollars Canada throughout 2020 . ",
+      "The Value drops sharply in March down to a low of 2.5 before recovering quickly back to 3.7 in April . ",
+      "The Value rises to 4.2 in June but slowly declines montly until October ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "19": "3"
+      },
+      {
+         "6": "5",
+         "12": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars": "13548733.0"
+      },
+      {
+         "Month": "February",
+         "Dollars": "10682075.0"
+      },
+      {
+         "Month": "March",
+         "Dollars": "14487780.0"
+      },
+      {
+         "Month": "April",
+         "Dollars": "10867121.0"
+      },
+      {
+         "Month": "May",
+         "Dollars": "11733085.0"
+      },
+      {
+         "Month": "June",
+         "Dollars": "8799846.0"
+      },
+      {
+         "Month": "July",
+         "Dollars": "7178127.0"
+      },
+      {
+         "Month": "August",
+         "Dollars": "19494153.0"
+      },
+      {
+         "Month": "September",
+         "Dollars": "24027365.0"
+      },
+      {
+         "Month": "October",
+         "Dollars": "16002615.0"
+      },
+      {
+         "Month": "November",
+         "Dollars": "19536382.0"
+      },
+      {
+         "Month": "December",
+         "Dollars": "20882986.0"
+      }
+   ],
+   "gold": "The graph is showing the value of shipments of silver in tens of millions of dollars in Canada for 12 consecutive months in 2020 . The pattern is divided into two parts , where before July , the value was more stable and decreasing , and after July peaking sharply and maintaining at high level after a moderate decline .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Total livestock and animal products in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The shown data values are about the Total of livestock in animal Canada during 2017 . ",
+      "They are described using the Farm product price index ( FPPI ) . ",
+      "The values slightly increase from January to February ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "5": "0",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1369.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1400.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1437.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1426.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1483.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1493.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1449.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1411.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1337.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1348.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1382.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1364.0"
+      }
+   ],
+   "gold": "This graph represents the total livestock and animal products of Canada in 2017 . The number of products experiences a sharp increase from January until reaching the maximum during June , whereas a small decline is observed in the month of April . From June until September the total livestock and animal products rapidly decline and reach a minimum of under 1340 in September .\n"
+}

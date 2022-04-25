@@ -1,0 +1,1 @@
+This graph represents the rate of new trucks sales in Canada during the 2019 year . It starts at 4 million dollars in January , and has a sharp increase to 6.5 million dollars in March . It continues to increase until it 's just under 7 million in May . Starting in August , it starts declining from just over 6.5 million until it reaches 4.5 million in December .

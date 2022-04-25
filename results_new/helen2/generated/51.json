@@ -1,0 +1,71 @@
+{
+   "title": "Production of Rye in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of Rye in Canada the year 2021 . ",
+      "The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Production decreased again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "11691.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "9391.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "12397.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "12320.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "5200.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "19412.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "15045.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "46236.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "32947.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "13254.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "10287.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "6908.0"
+      }
+   ],
+   "gold": "This chart reveals trends in the production of rye in Canada for the year 2021 . The y axis ranges from 0 tonnes to 50000 tonnes . Looking at how much rye was produced over the course of a year , we see that the lowest production occurred in May while the highest occurred in August .\n"
+}

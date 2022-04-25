@@ -1,0 +1,75 @@
+{
+   "title": "Supply of creamery butter in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of creamery butter Canada in Tonnes Canada during 2021 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Supply amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "37041.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "36182.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "35119.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "36322.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "35648.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "35486.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "36134.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "36264.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "39481.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "36272.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "36365.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "35728.0"
+      }
+   ],
+   "gold": "A line chart of Canada 's supply of creamery butter in 2021 . It stays around the same level except for a large spike in September .\n"
+}

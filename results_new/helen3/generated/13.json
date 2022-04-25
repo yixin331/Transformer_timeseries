@@ -1,0 +1,69 @@
+{
+   "title": "Value of shipments of lime in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "Chart shows the Value of shipment lime in Canada the Year 2020 . ",
+      "We have a chart depicting dollar Value on a Month over scale . ",
+      "With a lot of volatility int he starting months then a slight plateau in the summer months , approaching the winter months we have a dip but then a rocket highs for the end of the year ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars": "13066750.0"
+      },
+      {
+         "Month": "February",
+         "Dollars": "12378648.0"
+      },
+      {
+         "Month": "March",
+         "Dollars": "12748345.0"
+      },
+      {
+         "Month": "April",
+         "Dollars": "12895339.0"
+      },
+      {
+         "Month": "May",
+         "Dollars": "13448918.0"
+      },
+      {
+         "Month": "June",
+         "Dollars": "14117480.0"
+      },
+      {
+         "Month": "July",
+         "Dollars": "13976996.0"
+      },
+      {
+         "Month": "August",
+         "Dollars": "11209042.0"
+      },
+      {
+         "Month": "September",
+         "Dollars": "11759401.0"
+      },
+      {
+         "Month": "October",
+         "Dollars": "13119607.0"
+      },
+      {
+         "Month": "November",
+         "Dollars": "13965691.0"
+      },
+      {
+         "Month": "December",
+         "Dollars": "11576791.0"
+      }
+   ],
+   "gold": "This line chart shows the monthly value of lime shipments into Canada in tens of millions of dollars for the period from January 2020 to December 2020 . This value fluctuated throughout the year , following a pattern of gradual increases over several months and then a sharp decline . These declines happened between July and August and again between November and December .\n"
+}

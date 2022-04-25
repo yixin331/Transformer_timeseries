@@ -1,0 +1,1 @@
+The new passenger cars sales in Canada of the year 2019 are shown in the time-series line charts. The number rapidly grows from January to May and then drastically shrinks till the end of the year, reaching its minimum at around 25000 units.

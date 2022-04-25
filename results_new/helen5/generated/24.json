@@ -1,0 +1,71 @@
+{
+   "title": "International exports in all services in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International exports in all services in Canada of the year 2021 are shown in the line chart . ",
+      "The exports start from over 15000 million dollars and rapidly decrease till May . ",
+      "Then it maintains at the same level during rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "10740.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "10777.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "11175.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "10892.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "9557.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "9667.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "9653.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "9967.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "11765.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "11830.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "11864.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "12198.0"
+      }
+   ],
+   "gold": "The international exports in all severices graph demonstrates the export value trend in Canada for each month in 2021 . The y-axis unit are measured in millions dollar , and x-axis units are measured in month . The overall trend start rising slowly from Jan to Mar , and quickly declined from Mar to May , and finally the trend grows from May to Dec. .\n"
+}

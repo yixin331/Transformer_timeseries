@@ -1,0 +1,77 @@
+{
+   "title": "Average retail price for orange juice in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/litre",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the monthly Average retail price for orange in Dollars/litre Canada during 2020 . ",
+      "The price oscilates from January to August with prices ranging between 4.24 and 3.55 . ",
+      "The price increases from August to December going from 3.55 to 4.42 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "7",
+         "11": "2"
+      },
+      {
+         "4": "7",
+         "6": "11",
+         "11": "4"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/litre": "4.36"
+      },
+      {
+         "Month": "February",
+         "Dollars/litre": "4.39"
+      },
+      {
+         "Month": "March",
+         "Dollars/litre": "4.24"
+      },
+      {
+         "Month": "April",
+         "Dollars/litre": "4.28"
+      },
+      {
+         "Month": "May",
+         "Dollars/litre": "4.42"
+      },
+      {
+         "Month": "June",
+         "Dollars/litre": "4.33"
+      },
+      {
+         "Month": "July",
+         "Dollars/litre": "4.26"
+      },
+      {
+         "Month": "August",
+         "Dollars/litre": "4.3"
+      },
+      {
+         "Month": "September",
+         "Dollars/litre": "4.13"
+      },
+      {
+         "Month": "October",
+         "Dollars/litre": "4.06"
+      },
+      {
+         "Month": "November",
+         "Dollars/litre": "4.12"
+      },
+      {
+         "Month": "December",
+         "Dollars/litre": "4.23"
+      }
+   ],
+   "gold": "The average retail price for orange juice in Canada is very unstable throughout 2020 . It starts from around 4.35 dollars/litre in January and keeps increasing to almost 4.40 dollars/litre . It reaches the second-lowest point of lower than 4.25 dollars/litre in March and increases drastically to the peak of more than 4.40 dollars/litre in May .\n"
+}

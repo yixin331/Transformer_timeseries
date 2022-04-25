@@ -1,0 +1,71 @@
+{
+   "title": "Production of Wheat flour in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of Wheat in Canada the year 2018 . ",
+      "The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Production decreased again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "29941.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "20331.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "35386.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "42184.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "33939.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "35107.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "31635.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "22701.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "20519.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "24023.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "21200.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "17805.0"
+      }
+   ],
+   "gold": "The graph shows the values about the production of Wheat flour in Canada over 2018 . The values are described using tonnes as unit of measure . There is a drop from January to February .\n"
+}

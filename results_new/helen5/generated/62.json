@@ -1,0 +1,74 @@
+{
+   "title": "Average retail price for pork chops in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Average retail price of pork in Canada for the year 2020 , depicting Dollars per Kilo on a Month over basis . ",
+      "We see a bit of a fluctuation in the starting months with the bottom in April , Then a steep increase in the summer months with the yearly high in August . ",
+      "Then shows a gradual decrease in the winter months with a small bump up in December to cap off the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "3",
+         "30": "7"
+      },
+      {
+         "15": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "11.72"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "12.07"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "11.54"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "12.15"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "11.98"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "12.58"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "12.39"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "12.04"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "11.96"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "11.65"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "12.03"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "11.71"
+      }
+   ],
+   "gold": "This graph shows the average retail price ( Dollars/kilogram ) for pork chops in Canada during 2020 . The maximum average price occured in June , at about 12.6 . In general , the prices were higher during the spring and summer months .\n"
+}

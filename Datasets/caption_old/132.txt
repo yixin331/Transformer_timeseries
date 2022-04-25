@@ -1,0 +1,1 @@
+This line chart shows the total softwood production in Canada over the year 2019. In February, there is a dip in production, but it rebounds in March and stays steady until May. Then, from June to September, the production drops back down. In October, production increases again, but then rapidly reclines over November and December.

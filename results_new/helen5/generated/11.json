@@ -1,0 +1,76 @@
+{
+   "title": "Total hardwood , production in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "hardwood production is drastically higher in February than any other Month , with the exception of March , having almost 1.5 times more production than any other Month . ",
+      "production is lowest in the months of April , May June , July and November ."
+   ],
+   "trends": [
+      {
+         "6": "1",
+         "16": "2"
+      },
+      {
+         "7": "3",
+         "9": "4",
+         "11": "5",
+         "13": "6",
+         "16": "10"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "1364.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "1404.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "1573.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "1442.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "1442.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "1606.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "1147.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "1145.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "1082.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "1347.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "1427.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "1030.0"
+      }
+   ],
+   "gold": "The following line chart describes the production values of total hardwood in Canada during 2016 . The unit of measurement of the data is cubic metres . The production showed several peaks during the year , mainly during March , June and November .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Production of Canola in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Canola in Canada during 2017 showed several fluctuations during the year . ",
+      "The Production values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1239126.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "888478.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "969838.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1040935.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1032348.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "767570.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "782796.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "688893.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "861787.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "1296840.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "824699.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "1176100.0"
+      }
+   ],
+   "gold": "The production of Canola in Canada strongly oscillated over 2017 . It 's clearly possible to see how it reported several peaks and dips . The highest value was during October 2017 .\n"
+}

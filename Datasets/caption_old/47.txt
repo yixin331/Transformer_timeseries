@@ -1,0 +1,1 @@
+A line graph showing the total non-resident travelers entering Canada in the year 2021. Between the months of January and June, the number people remains steady. July marks the beginning of a dramatic surge in the non-resident travelers entering Canada, which accelerates in August before calming down in September. It then oscillates around the same value for the rest of the year.

@@ -1,0 +1,1 @@
+A line chart about the average retail price for ketchup restricted to Canada in 2019 . The price fluctuates month-to-month , but follow a general trend of starting high at the beginning of the year , dropping sharply until the middle of the year , then increasing at a similar rate to the end of the year .

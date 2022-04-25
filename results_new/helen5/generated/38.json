@@ -1,0 +1,76 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the trend of the Total Number of Canadian vehicles returning to Canada during the year 2021 . ",
+      "The Number drops between January and February shows the minimum value in February . ",
+      "From February on it increases and shows the maximum value in August ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "1",
+         "13": "1"
+      },
+      {
+         "1": "1",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "493166.0"
+      },
+      {
+         "Month": "February",
+         "Number": "477969.0"
+      },
+      {
+         "Month": "March",
+         "Number": "584452.0"
+      },
+      {
+         "Month": "April",
+         "Number": "560795.0"
+      },
+      {
+         "Month": "May",
+         "Number": "562502.0"
+      },
+      {
+         "Month": "June",
+         "Number": "591286.0"
+      },
+      {
+         "Month": "July",
+         "Number": "575963.0"
+      },
+      {
+         "Month": "August",
+         "Number": "598669.0"
+      },
+      {
+         "Month": "September",
+         "Number": "595574.0"
+      },
+      {
+         "Month": "October",
+         "Number": "612058.0"
+      },
+      {
+         "Month": "November",
+         "Number": "687235.0"
+      },
+      {
+         "Month": "December",
+         "Number": "837454.0"
+      }
+   ],
+   "gold": "This graph shows the total Canadian vehicles returning to the country in 2021 , each month . The graph has a general upward trend . It was at its lowest point in Feb and its highest point in Dec .\n"
+}

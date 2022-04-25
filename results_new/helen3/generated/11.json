@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for sirloin steak in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for sirloin steak in Dollars/kilogram sirloin steak during 2019 . ",
+      "The trend shows the price rising over time with minor oscillations . ",
+      "The price reached a low of 22.5 in February and a high of 23.38 in October ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "8": "1",
+         "13": "5",
+         "15": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "22.39"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "22.34"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "23.06"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "22.96"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "22.65"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "23.38"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "22.17"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "22.17"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "22.42"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "22.17"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "22.43"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "22.12"
+      }
+   ],
+   "gold": "The graph shows the Average retail price for sirloin steak in Canada during 2019 . Generally , the production recorded its highest values in June reaching a peak of around 23.4 dollars per kilogram . Then , it follows by a sudden drop after Jun and remains to fluctuate around the low point .\n"
+}

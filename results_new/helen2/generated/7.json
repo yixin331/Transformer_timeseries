@@ -1,0 +1,72 @@
+{
+   "title": "Average retail price for sirloin steak in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for sirloin steak in sirloin steak during 2021 . ",
+      "Generally , the production recorded its highest values in June reaching a peak of around 26.45 dollars per kilogram . ",
+      "Then , it follows by a sudden drop after Jun and remains to fluctuate around the low point ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "5",
+         "15": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "22.68"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "22.43"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "23.03"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "23.6"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "23.38"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "24.34"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "25.22"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "25.33"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "24.98"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "26.45"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "25.69"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "25.94"
+      }
+   ],
+   "gold": "The graph shows the average retail price for sirloin steak in dollars/kilogram in Canada during 2021 . The trend shows the price increasing over time with minor oscillations . The price reached a low of 22.5 in February and a high of 26.5 in October .\n"
+}

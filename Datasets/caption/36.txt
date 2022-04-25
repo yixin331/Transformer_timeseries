@@ -1,0 +1,1 @@
+This is a line chart that shows the trend of the total Canadian vehicles returning to the country in the year 2019 . The amount remains low during the winter months including January to March and October to December . There 's an increasing trend starting from March to August when it reaches the highest point . It then starts to drop till the end of the year .

@@ -1,0 +1,72 @@
+{
+   "title": "House and land price index in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Index 347",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The House land Index in Canada during 2018 presents a quite ambiguous trend . ",
+      "Firstly , during the first few months , it slowly decreased . ",
+      "But then , from May to July , it recorded a considerable growth ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "4": "4",
+         "6": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "February",
+         "Index 347": "1031.0"
+      },
+      {
+         "Month": "March",
+         "Index 347": "1031.0"
+      },
+      {
+         "Month": "April",
+         "Index 347": "1031.0"
+      },
+      {
+         "Month": "May",
+         "Index 347": "1031.0"
+      },
+      {
+         "Month": "June",
+         "Index 347": "1032.0"
+      },
+      {
+         "Month": "July",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "August",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "September",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "October",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "November",
+         "Index 347": "1033.0"
+      },
+      {
+         "Month": "December",
+         "Index 347": "1033.0"
+      }
+   ],
+   "gold": "The following chart provides information about the house and land price index in Canada during 2018 . It 's clearly possible to see how the index value significantly dropped down between January and February . Over the next few months the index value remained stable .\n"
+}

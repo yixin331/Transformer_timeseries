@@ -1,0 +1,71 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "2073129.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1943864.0"
+      },
+      {
+         "Month": "March",
+         "Number": "2539024.0"
+      },
+      {
+         "Month": "April",
+         "Number": "2617243.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2853380.0"
+      },
+      {
+         "Month": "June",
+         "Number": "2950339.0"
+      },
+      {
+         "Month": "July",
+         "Number": "3388415.0"
+      },
+      {
+         "Month": "August",
+         "Number": "3534811.0"
+      },
+      {
+         "Month": "September",
+         "Number": "2791764.0"
+      },
+      {
+         "Month": "October",
+         "Number": "2645404.0"
+      },
+      {
+         "Month": "November",
+         "Number": "2349224.0"
+      },
+      {
+         "Month": "December",
+         "Number": "2380353.0"
+      }
+   ],
+   "gold": "The line chart shows the number of vehicles entering Canada during 2019 . The chart indicates a major growth in the numbers from beginning of 2019 to August and a sharp drop afterwards . The highest and lowest numbers are about 3.55 millions in August and 1.95 millions in February respectively .\n"
+}

@@ -1,0 +1,1 @@
+This line chart plots the total number of foreign travelers entering Canada over the year of 2020. The number of travelers starts at around 1 million in January, but then between February and April, the number plummets down to less than 1 million. Then, until December, the number remains steady, only rising slightly past 1 million by the end of the year.

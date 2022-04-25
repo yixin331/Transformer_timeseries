@@ -1,0 +1,1 @@
+A line chart showing the total number of vehicles entering Canada for each month in 2019 . The number of vehicles entering Canada starts at around 2 million in January and increases to just below 3.6 million in August . In the next month , the value plummets to 2.8 million and continues to decrease through to the end of the year .

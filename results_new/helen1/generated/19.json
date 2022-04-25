@@ -1,0 +1,76 @@
+{
+   "title": "Total softwood production in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line graph shows the Total softwood production in cubic metres of Canada in 2021 . ",
+      "production starts at approximately 1370 cubic metres during January , after which a moderate increase can be observed until reaching about 1580 in March . ",
+      "production remains steady at 1450 during April and May , after which the maximum production is achieved in June with 1600 cubic metres ."
+   ],
+   "trends": [
+      {},
+      {
+         "8": "0",
+         "23": "2"
+      },
+      {
+         "6": "3",
+         "8": "4",
+         "18": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "4727.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "4578.3"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "5546.8"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "5086.7"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "4858.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "4850.6"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "4149.3"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "4375.1"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "4565.7"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "4587.4"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "4787.5"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "3838.3"
+      }
+   ],
+   "gold": "Total softwood production in Canada for the year 2021 is displayed in this line chart . The value of interest is cubic metres by the thousands sold per month . While March faired the best with the most softwood sold , December faired the worst with close to none being sold .\n"
+}

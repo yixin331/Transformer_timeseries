@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for pork chops in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A graph plotting the Average retail price per kilogram of pork chops in Canada for every Month in 2019 . ",
+      "The price increases from January to March before falling by May only to peak in June before dropping to a new low in July and remaining at a similar price level for the rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "2",
+         "10": "4",
+         "15": "5",
+         "23": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "12.33"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "12.05"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "11.72"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "11.92"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "12.2"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "12.26"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "12.02"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "11.72"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "12.07"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "11.8"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "11.58"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "12.02"
+      }
+   ],
+   "gold": "We can note the average retail price for pork chops in Canada in 2019 from the line chart shown . The price fluctuates throughout the whole year . It starts at the highest value in January at above 12.3 Dollars/kilograms and declines to March .\n"
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Production of Eggs in shell in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Eggs shell in Canada for the year 2018 . ",
+      "The graph reaches its highest point in June and then steadily drops each Month until reaching its lowest point in October . ",
+      "Thereafter , it slowly recovers until December ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "5",
+         "20": "9"
+      },
+      {
+         "6": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1372.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1372.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1372.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1387.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1387.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1400.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1407.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1453.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1454.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1452.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1452.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1453.0"
+      }
+   ],
+   "gold": "Eggs production greatly increases during the second half of the year .\n"
+}

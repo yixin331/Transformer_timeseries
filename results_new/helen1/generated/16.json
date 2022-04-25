@@ -1,0 +1,72 @@
+{
+   "title": "Commercial software prince index in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "ID 185",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Commercial software prince index Canada 2016 in Canada 2016 . ",
+      "The lowest Commercial is in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 185": "1218.0"
+      },
+      {
+         "Month": "February",
+         "ID 185": "1209.0"
+      },
+      {
+         "Month": "March",
+         "ID 185": "1190.0"
+      },
+      {
+         "Month": "April",
+         "ID 185": "1182.0"
+      },
+      {
+         "Month": "May",
+         "ID 185": "1185.0"
+      },
+      {
+         "Month": "June",
+         "ID 185": "1175.0"
+      },
+      {
+         "Month": "July",
+         "ID 185": "1182.0"
+      },
+      {
+         "Month": "August",
+         "ID 185": "1181.0"
+      },
+      {
+         "Month": "September",
+         "ID 185": "1179.0"
+      },
+      {
+         "Month": "October",
+         "ID 185": "1185.0"
+      },
+      {
+         "Month": "November",
+         "ID 185": "1189.0"
+      },
+      {
+         "Month": "December",
+         "ID 185": "1177.0"
+      }
+   ],
+   "gold": "The commercial software price index in Canada decreased over 2016 . It 's clearly possible to see how it rapidly drop from January to April . After that , the price index values have been fluctuating for most of the year .\n"
+}

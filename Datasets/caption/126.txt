@@ -1,0 +1,1 @@
+This depicts the supply of creamery butter in Canada in the year 2019 . Plotting Tonnes of butter , month over month . We See a consistent increase at the start of the year peaking in the summer months , reaching highs specifically in June . Then a steep decline in the resulting Winter months .

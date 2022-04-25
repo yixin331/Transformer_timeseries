@@ -1,0 +1,74 @@
+{
+   "title": "Total farm production index in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The shown data are about the Total Farm production index in Canada during 2018 . ",
+      "The maximum value was recorded during the Month of June . ",
+      "After that , a big drop has been registered between June and September ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "5"
+      },
+      {
+         "10": "5",
+         "12": "8"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1297.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1300.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1306.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1296.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1312.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1329.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1337.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1301.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1279.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1294.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1285.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1277.0"
+      }
+   ],
+   "gold": "This chart shows how the Canadian total farm production index varies by month throughout 2018 . We see a distinctive season pattern . Production starts at a middling level in the first three months of the year , before a rapid increase from April to July , where it reaches a peak .\n"
+}

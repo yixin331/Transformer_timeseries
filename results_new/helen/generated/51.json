@@ -1,0 +1,72 @@
+{
+   "title": "Production of Malt in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Malt in Tonnes Canada during 2018 . ",
+      "There are several peaks and dips throughout the year . ",
+      "The maximum value of Production has been recorded for September , and the minimum value has been recorded for August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "8",
+         "19": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "46882.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "46673.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "54960.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "47358.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "50716.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "52513.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "53212.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "44007.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "42559.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "44398.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "45305.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "42553.0"
+      }
+   ],
+   "gold": "The production of malt in Canada reported some strong oscillations of the value during 2018 . As it 's possible to see from the graph , several peaks and dips have been registered . The most significant peaks were during March and July .\n"
+}

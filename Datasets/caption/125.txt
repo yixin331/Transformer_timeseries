@@ -1,0 +1,1 @@
+This shows the upward trend of retail prices for sirloin steak in Canada for the year 2021 . Plotting Dollars per Kilo on a month over month basis . We see a consistent upward trend from the start of the year to the end . A concerning sight for those who like steak .

@@ -1,0 +1,69 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Number of returning country the Canadian in 2019 . ",
+      "The Number of cars country is about 700000 at the start and end of the year . ",
+      "It increases towards summer ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "1503004.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1393305.0"
+      },
+      {
+         "Month": "March",
+         "Number": "1861394.0"
+      },
+      {
+         "Month": "April",
+         "Number": "1915529.0"
+      },
+      {
+         "Month": "May",
+         "Number": "1986159.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1912298.0"
+      },
+      {
+         "Month": "July",
+         "Number": "2177581.0"
+      },
+      {
+         "Month": "August",
+         "Number": "2294012.0"
+      },
+      {
+         "Month": "September",
+         "Number": "1917319.0"
+      },
+      {
+         "Month": "October",
+         "Number": "1857440.0"
+      },
+      {
+         "Month": "November",
+         "Number": "1662608.0"
+      },
+      {
+         "Month": "December",
+         "Number": "1658244.0"
+      }
+   ],
+   "gold": "This graph shows the Total Canadian vehicles returning to the country in 2019 . The number of cars entering is about 1510198.09 at the start of the year . It increases towards fall There is a peak at 2339189.19 in August .\n"
+}

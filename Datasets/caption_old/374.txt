@@ -1,0 +1,1 @@
+A line chart about the Production of Malt in tonnes in Canada in the year 2016. Values   are analyzed in the different months of the year. With index values   ranging from less than 45000 to more than 60000. The maximum value is reached in June.

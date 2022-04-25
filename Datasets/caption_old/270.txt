@@ -1,0 +1,1 @@
+The graph depicts a price index of servers in Canada. Data was taken from 2018. One can observe a decline in the price index within the first months of the year, reaching a low of 997 in April. Throughout the following three months, the index increased to 1013 in July. Values decreased steadily until October (1006) and stayed the same for November and December (1008).

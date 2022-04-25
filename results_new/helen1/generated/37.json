@@ -1,0 +1,74 @@
+{
+   "title": "Total United States vehicles entering in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total Number of United States vehicles entering Canada in each of the months during 2017 . ",
+      "The maximum Number of vehicles entering in a Month has been recorded for August . ",
+      "From February to August , this Number has been continuing to grow ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {
+         "1": "1",
+         "3": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "630620.0"
+      },
+      {
+         "Month": "February",
+         "Number": "611250.0"
+      },
+      {
+         "Month": "March",
+         "Number": "683952.0"
+      },
+      {
+         "Month": "April",
+         "Number": "737507.0"
+      },
+      {
+         "Month": "May",
+         "Number": "829354.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1004923.0"
+      },
+      {
+         "Month": "July",
+         "Number": "1183620.0"
+      },
+      {
+         "Month": "August",
+         "Number": "1154098.0"
+      },
+      {
+         "Month": "September",
+         "Number": "908963.0"
+      },
+      {
+         "Month": "October",
+         "Number": "775350.0"
+      },
+      {
+         "Month": "November",
+         "Number": "660750.0"
+      },
+      {
+         "Month": "December",
+         "Number": "685397.0"
+      }
+   ],
+   "gold": "As it can be seen from the graph , the total number of Unitated States vehicles entering in Canada during 2017 presented the highest values during the summer period . In particular , the maximum value has been reached during July . The month with less United States vehicles entering Canada over the year has been February 2017 .\n"
+}

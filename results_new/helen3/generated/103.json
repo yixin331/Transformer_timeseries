@@ -1,0 +1,76 @@
+{
+   "title": "Production of new motor vehicles in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Units of Production new motor in Canada for each Month in 2017 . ",
+      "The motor reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September . ",
+      "The motor reaches the maximum at September 140000 , and then decreasing again until December ."
+   ],
+   "trends": [
+      {},
+      {
+         "22": "3",
+         "28": "4",
+         "30": "8"
+      },
+      {
+         "6": "8",
+         "15": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "112996.0"
+      },
+      {
+         "Month": "February",
+         "Units": "125284.0"
+      },
+      {
+         "Month": "March",
+         "Units": "190744.0"
+      },
+      {
+         "Month": "April",
+         "Units": "200291.0"
+      },
+      {
+         "Month": "May",
+         "Units": "220436.0"
+      },
+      {
+         "Month": "June",
+         "Units": "207008.0"
+      },
+      {
+         "Month": "July",
+         "Units": "184809.0"
+      },
+      {
+         "Month": "August",
+         "Units": "187208.0"
+      },
+      {
+         "Month": "September",
+         "Units": "190640.0"
+      },
+      {
+         "Month": "October",
+         "Units": "167892.0"
+      },
+      {
+         "Month": "November",
+         "Units": "161903.0"
+      },
+      {
+         "Month": "December",
+         "Units": "127734.0"
+      }
+   ],
+   "gold": "Plot graph describing how many motor bikes were produced in 2017 in Canada .\n"
+}

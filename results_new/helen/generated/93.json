@@ -1,0 +1,72 @@
+{
+   "title": "Supply of skim milk powder in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of skim in Tonnes Canada during 2021 . ",
+      "There are several peaks and dips throughout the year . ",
+      "The maximum value of Supply has been recorded for September , and the minimum value has been recorded for August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "8",
+         "19": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "35065.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "35235.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "34977.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "36801.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "35680.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "36182.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "35844.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "34023.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "34386.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "34837.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "34120.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "35654.0"
+      }
+   ],
+   "gold": "A line chart about skim milk powder supply in Canada in 2021 . The supply remains stable between January and March , then increases dramatically in April . Then , the supply decreases slightly in May and remains steady until July .\n"
+}

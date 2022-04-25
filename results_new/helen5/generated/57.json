@@ -1,0 +1,69 @@
+{
+   "title": "New passenger cars sales in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New of passenger cars vehicle in Canada 2019 climbed from 120000 to 220000 from Jan to May . ",
+      "Then it fell until Jul , was stable until Sep. with a final further falling to 130000 at the end of the year ."
+   ],
+   "trends": [
+      {
+         "18": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "27024.0"
+      },
+      {
+         "Month": "February",
+         "Units": "30309.0"
+      },
+      {
+         "Month": "March",
+         "Units": "49509.0"
+      },
+      {
+         "Month": "April",
+         "Units": "50264.0"
+      },
+      {
+         "Month": "May",
+         "Units": "58714.0"
+      },
+      {
+         "Month": "June",
+         "Units": "52795.0"
+      },
+      {
+         "Month": "July",
+         "Units": "46497.0"
+      },
+      {
+         "Month": "August",
+         "Units": "44800.0"
+      },
+      {
+         "Month": "September",
+         "Units": "42003.0"
+      },
+      {
+         "Month": "October",
+         "Units": "37896.0"
+      },
+      {
+         "Month": "November",
+         "Units": "32162.0"
+      },
+      {
+         "Month": "December",
+         "Units": "24878.0"
+      }
+   ],
+   "gold": "This line graph shows the units of passenger cars sold in Canada in 2019 . The number of units sold jumps from 27000 to 59000 between January and May . Then the number of units uniformly declines to 25000 after May .\n"
+}

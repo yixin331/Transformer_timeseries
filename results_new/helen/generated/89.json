@@ -1,0 +1,75 @@
+{
+   "title": "Total livestock and animal products in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The following graph shows the Total Farm animal index value in Canada during 2018 , and the values are described using the Farm product price index ( FPPI ) as UOM . ",
+      "It 's possible to see how the animal value considerably increase from January until July . ",
+      "After that , it fell between July and September ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "0",
+         "14": "6"
+      },
+      {
+         "6": "6",
+         "8": "8"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1384.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1398.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1382.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1338.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1367.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1394.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1413.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1347.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1337.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1393.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1370.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1343.0"
+      }
+   ],
+   "gold": "Total Canadian livestock and animal products in 2018 are shown in this graph . The unit given is the farm product price index ( FPPI ) . During January products lie at 1385 and the second highes value of the year can be observed in February at approximately 1395 .\n"
+}

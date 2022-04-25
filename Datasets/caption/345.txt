@@ -1,0 +1,1 @@
+This line graph displays the production of fresh vegetables in Canada for 2018 using the farm product price index . A small decrease from January to February is followed by a steady increase until October , where the value again decreases for November and December .

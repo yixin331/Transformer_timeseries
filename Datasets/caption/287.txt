@@ -1,0 +1,1 @@
+A line chart displaying Canadian vehicles returning to Canada each month in 2018 . It indicates that travel was lowest during the winter months , reaching a minimum in February , and highest in the summer months , peaking in August ( but with a slight dip in June ) . The median number of returning vehicles is between 1900000 and 2000000 .

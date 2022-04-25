@@ -1,0 +1,1 @@
+This graph represents the house and land price index of Canada in 2017 . Overall a content increase can be observed throughout the year , starting at approximately 1001 in January and increasing of uptimes to 1033 in November where it plateaus like that until December .

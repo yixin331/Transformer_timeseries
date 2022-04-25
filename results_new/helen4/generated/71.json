@@ -1,0 +1,75 @@
+{
+   "title": "Production of creamery butter in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of creamery butter Canada in Tonnes Canada during 2017 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Production amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "11309.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "9977.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "10060.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "10103.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "8953.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "7741.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "8480.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "7566.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "7725.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "8680.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "8080.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "10100.0"
+      }
+   ],
+   "gold": "Production of creamery decreased sharply in Canada in the period January-June from 11500 to about 8000 . Then it was kind of stable , slightly fluctuating until November , with a rapid growth in December , reaching 10000 by the end of the year .\n"
+}

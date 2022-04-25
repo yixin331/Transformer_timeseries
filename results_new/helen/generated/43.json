@@ -1,0 +1,72 @@
+{
+   "title": "Supply of creamery butter in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of creamery in Tonnes Canada during 2018 . ",
+      "There are several peaks and dips throughout the year . ",
+      "The maximum value of Supply has been recorded for September , and the minimum value has been recorded for August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "8",
+         "19": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "35090.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "40655.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "42979.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "49028.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "50314.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "54592.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "53443.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "49253.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "42680.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "46197.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "46541.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "43477.0"
+      }
+   ],
+   "gold": "It shows the supply of creamery butter in Canada during 2018 . The values are described using Tonnes as UOM . It rapidly increase from January for the first half of the year .\n"
+}

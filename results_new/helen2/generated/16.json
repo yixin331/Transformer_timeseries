@@ -1,0 +1,71 @@
+{
+   "title": "Production of Unprocessed milk in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Unprocessed milk in Canada clearly showed an ascendant trend during 2018 . ",
+      "The values have been oscillating up and down several times over the year , even if the trend kept growing up . ",
+      "The Production reached its maximum value during the Month of December , and its minimum values during the first months of the year ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1051.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1029.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1021.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1012.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1012.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1003.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1011.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1036.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1082.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1109.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1140.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1113.0"
+      }
+   ],
+   "gold": "The production of unprocessed milk in Canada has been substantially growing over 2018 . In particular , during the first few months of the year the values have been slightly decreasing . But then from June over it rapidly increased , reaching it peaks on November 2018 .\n"
+}

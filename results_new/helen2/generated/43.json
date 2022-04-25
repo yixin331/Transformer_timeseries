@@ -1,0 +1,71 @@
+{
+   "title": "International exports in all services in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International exports in all services in Canada of the year 2019 are shown in the line chart . ",
+      "The exports start from over 15000 million dollars and rapidly decrease till May . ",
+      "Then it maintains at the same level during rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "11384.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "11762.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "12282.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "12437.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "11788.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "12659.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "13287.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "13025.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "13628.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "12816.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "11941.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "12615.0"
+      }
+   ],
+   "gold": "The graph shows the international exports in all services in Canada in 2019 . The exports start from below 11500 million dollars and generally increase till September except for two slight shrinks in May and August . After September , the international exports decline till November and raise back in Decemeber .\n"
+}

@@ -1,0 +1,72 @@
+{
+   "title": "Commercial software prince index in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 209",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Commercial software prince index Canada in 2018 . ",
+      "The graph offers from January to July . ",
+      "It 's clearly possible to see several fluctuations over the year , mainly during the summer months ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "6"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 209": "1129.0"
+      },
+      {
+         "Month": "February",
+         "ID 209": "1130.0"
+      },
+      {
+         "Month": "March",
+         "ID 209": "1142.0"
+      },
+      {
+         "Month": "April",
+         "ID 209": "1133.0"
+      },
+      {
+         "Month": "May",
+         "ID 209": "1140.0"
+      },
+      {
+         "Month": "June",
+         "ID 209": "1155.0"
+      },
+      {
+         "Month": "July",
+         "ID 209": "1156.0"
+      },
+      {
+         "Month": "August",
+         "ID 209": "1150.0"
+      },
+      {
+         "Month": "September",
+         "ID 209": "1150.0"
+      },
+      {
+         "Month": "October",
+         "ID 209": "1152.0"
+      },
+      {
+         "Month": "November",
+         "ID 209": "1158.0"
+      },
+      {
+         "Month": "December",
+         "ID 209": "1167.0"
+      }
+   ],
+   "gold": "This graph shows a general upward trend in the price index of commercial software in Canada in 2018 . While there were drops in the price index in April and August from their respective previous months , the graph obeyed an increasing trend .\n"
+}

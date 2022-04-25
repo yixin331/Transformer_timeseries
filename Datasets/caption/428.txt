@@ -1,0 +1,1 @@
+The line chart is displaying the recorded data about production of wheat flour in Canada during 2017 . The minimum value of production have been recorded during the months of January , August and November . From January to February has been recorded a significant growth . The maximum value of production over the year was recorded during December .

@@ -1,0 +1,70 @@
+{
+   "title": "New trucks sales in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Thousand dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line graph shows the amount of Canada , in thousands of dollars , of trucks sales in Canada the year 2020 . ",
+      "There was a drastic spike in Canada amount , peaking in the Month of May , and then declining until the Month of December ."
+   ],
+   "trends": [
+      {},
+      {
+         "14": "4",
+         "23": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand dollars": "4280559.0"
+      },
+      {
+         "Month": "February",
+         "Thousand dollars": "4779641.0"
+      },
+      {
+         "Month": "March",
+         "Thousand dollars": "3741871.0"
+      },
+      {
+         "Month": "April",
+         "Thousand dollars": "1980113.0"
+      },
+      {
+         "Month": "May",
+         "Thousand dollars": "4320513.0"
+      },
+      {
+         "Month": "June",
+         "Thousand dollars": "6014451.0"
+      },
+      {
+         "Month": "July",
+         "Thousand dollars": "6157428.0"
+      },
+      {
+         "Month": "August",
+         "Thousand dollars": "6366315.0"
+      },
+      {
+         "Month": "September",
+         "Thousand dollars": "6548840.0"
+      },
+      {
+         "Month": "October",
+         "Thousand dollars": "6103107.0"
+      },
+      {
+         "Month": "November",
+         "Thousand dollars": "5212653.0"
+      },
+      {
+         "Month": "December",
+         "Thousand dollars": "4562136.0"
+      }
+   ],
+   "gold": "The new trucks sales begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April . Then it raises steeply to 6 from April to June . During June to September , it continues the increase but with a steady speed .\n"
+}

@@ -1,0 +1,1 @@
+The image reports a line chart about the total softwood and hardwood production ( in cubic metres ) in Canda during 2018 . The values are fluctuating over the months , reaching a peak during May 2018 . At the same time it 's clearly possible to see that December 2018 has been the month with less production .

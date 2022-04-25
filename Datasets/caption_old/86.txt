@@ -1,0 +1,1 @@
+This graph shows the international imports in all services in Millions dollars in the year of 2019 in Canada. In general the import ranges from 13500 to 14500 for most months. It reaches the peak of over 15500 in March, and then steadily decreases until June, where it reached the minimum of 13000.

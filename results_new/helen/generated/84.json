@@ -1,0 +1,67 @@
+{
+   "title": "Total international travellers entering the country in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A line chart of the number of travellers entering Canada . ",
+      "It starts out high then plummets , and maintains the low level ."
+   ],
+   "trends": [
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "6460003.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "6066966.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "7916982.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "7701035.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "8288864.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "8918874.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "10652180.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "11281509.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "8423601.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "7427144.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "6530956.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "7141914.0"
+      }
+   ],
+   "gold": "The graph is displaying the number of total international travellers entering the country in Canada over 12 months of the year 2019 . The vertical axis represent number of persons entering in millions of people , while the horizontal axis corresponds to consecutive months . It is clear that the highest peak was recorded over the summer months , peaking in August .\n"
+}

@@ -1,0 +1,77 @@
+{
+   "title": "Price index : Tablet computers in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "ID 588",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Price index Tablet computers Canada 2017 grows exponentially from January to June and reaches the peak in June . ",
+      "Then decreases rapidly in August . ",
+      "Then it remains steady until December ."
+   ],
+   "trends": [
+      {
+         "10": "0",
+         "12": "5",
+         "18": "5"
+      },
+      {
+         "4": "7"
+      },
+      {
+         "5": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 588": "888.0"
+      },
+      {
+         "Month": "February",
+         "ID 588": "886.0"
+      },
+      {
+         "Month": "March",
+         "ID 588": "891.0"
+      },
+      {
+         "Month": "April",
+         "ID 588": "864.0"
+      },
+      {
+         "Month": "May",
+         "ID 588": "858.0"
+      },
+      {
+         "Month": "June",
+         "ID 588": "869.0"
+      },
+      {
+         "Month": "July",
+         "ID 588": "869.0"
+      },
+      {
+         "Month": "August",
+         "ID 588": "853.0"
+      },
+      {
+         "Month": "September",
+         "ID 588": "841.0"
+      },
+      {
+         "Month": "October",
+         "ID 588": "840.0"
+      },
+      {
+         "Month": "November",
+         "ID 588": "836.0"
+      },
+      {
+         "Month": "December",
+         "ID 588": "829.0"
+      }
+   ],
+   "gold": "As it 's possible to see from the graph , the tablet computers price index in Canada rapidly decreased over 2017 . Few fluctuations have been reported over the year . The maximum value has been recorded during March and the minimum during December 2017 .\n"
+}

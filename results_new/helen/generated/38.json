@@ -1,0 +1,77 @@
+{
+   "title": "Production of Wheat flour in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Thousand metric tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Wheat flour in Canada fluctuated throughout 2020 . ",
+      "There was a sharp increase from February to May , but also a steep decrease from November to December . ",
+      "The Production also remained constant from June to August ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "8": "4",
+         "16": "10",
+         "18": "11"
+      },
+      {
+         "6": "5",
+         "8": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand metric tonnes": "206.0"
+      },
+      {
+         "Month": "February",
+         "Thousand metric tonnes": "183.0"
+      },
+      {
+         "Month": "March",
+         "Thousand metric tonnes": "216.0"
+      },
+      {
+         "Month": "April",
+         "Thousand metric tonnes": "195.0"
+      },
+      {
+         "Month": "May",
+         "Thousand metric tonnes": "198.0"
+      },
+      {
+         "Month": "June",
+         "Thousand metric tonnes": "207.0"
+      },
+      {
+         "Month": "July",
+         "Thousand metric tonnes": "208.0"
+      },
+      {
+         "Month": "August",
+         "Thousand metric tonnes": "218.0"
+      },
+      {
+         "Month": "September",
+         "Thousand metric tonnes": "217.0"
+      },
+      {
+         "Month": "October",
+         "Thousand metric tonnes": "222.0"
+      },
+      {
+         "Month": "November",
+         "Thousand metric tonnes": "218.0"
+      },
+      {
+         "Month": "December",
+         "Thousand metric tonnes": "200.0"
+      }
+   ],
+   "gold": "A significant fluctuation can be found from January to April , in which the production ranges from 180 to 215 thousands metric tones . Then the production grows from 195 to 225 with some oscillation during April to October and reaches the peak in October . Then it declines rapidly and falls to 200 in December .\n"
+}

@@ -1,0 +1,76 @@
+{
+   "title": "Total United States vehicles entering in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the trend of the Total Number of United States States vehicles to Canada during the year 2019 . ",
+      "The Number drops between January and February shows the minimum value in February . ",
+      "From February on it increases and shows the maximum value in August ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "1",
+         "13": "1"
+      },
+      {
+         "1": "1",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "570125.0"
+      },
+      {
+         "Month": "February",
+         "Number": "550559.0"
+      },
+      {
+         "Month": "March",
+         "Number": "677630.0"
+      },
+      {
+         "Month": "April",
+         "Number": "701714.0"
+      },
+      {
+         "Month": "May",
+         "Number": "867221.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1038041.0"
+      },
+      {
+         "Month": "July",
+         "Number": "1210834.0"
+      },
+      {
+         "Month": "August",
+         "Number": "1240799.0"
+      },
+      {
+         "Month": "September",
+         "Number": "874445.0"
+      },
+      {
+         "Month": "October",
+         "Number": "787964.0"
+      },
+      {
+         "Month": "November",
+         "Number": "686616.0"
+      },
+      {
+         "Month": "December",
+         "Number": "722109.0"
+      }
+   ],
+   "gold": "The graph shows the total number of United States vehicles entering Canada in each of the months during 2019 . The maximum number of vehicles entering in a month has been recorded for August . From February to August , this number has been continuing to grow .\n"
+}

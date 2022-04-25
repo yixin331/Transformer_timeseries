@@ -1,0 +1,74 @@
+{
+   "title": "Production of Fresh potatoes in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Fresh potatoes in Canada for the year fo 2018 . ",
+      "The graph shows Production steadily rising till October and then declines in the months after . ",
+      "It is important to note that Production at the end of the year in December is much higher than it was beginning the year in January ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "9"
+      },
+      {
+         "14": "11",
+         "25": "0"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1445.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1448.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1487.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1497.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1498.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1528.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1642.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1883.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1624.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1469.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1502.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1523.0"
+      }
+   ],
+   "gold": "It 's clearly possible to see from the graph that the production of fresh potatoes in Canada during 2018 reached its maximum values during the summer months . In particular , the most significant peak of the values was registered during August 2018 . Despite of that , during the rest of the year the production value remained quite stable with few and not significant fluctuations .\n"
+}

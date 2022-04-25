@@ -1,0 +1,72 @@
+{
+   "title": "Production of Chickens , turkeys , chicks , poults in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Chickens turkeys in Canada during 2018 has been increasing over the year . ",
+      "Even that , several fluctuations have been recorded , in particular during the first months of the year . ",
+      "The maximum values have been recorded during November and December ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "7": "10",
+         "9": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1180.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1173.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1176.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1193.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1217.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1232.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1255.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1267.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1244.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1244.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1236.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1237.0"
+      }
+   ],
+   "gold": "A graph showing the FPPPI for the production of poultry in Canada over the course of the year 2018 . The FPPI has risen steadily until August and then dropped slowly .\n"
+}

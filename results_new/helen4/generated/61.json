@@ -1,0 +1,72 @@
+{
+   "title": "Total softwood , production in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the production of softwood in Canada over the year of 2016 . ",
+      "The data is presented in cubic meters . ",
+      "According to the graph production of softwood is the highest in March and the lowest in December ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "12": "2",
+         "17": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "52966.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "53812.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "56805.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "56313.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "55831.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "54984.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "49979.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "54738.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "56228.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "55730.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "56770.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "46158.0"
+      }
+   ],
+   "gold": "This line graph displays total softwood production in cubic metres in Canada for 2016 . The amount fluctuates with an increase from January to March , followed by a slow decrease from March to June . A steep reduction follows in July , matched by an equally steep increase in August .\n"
+}

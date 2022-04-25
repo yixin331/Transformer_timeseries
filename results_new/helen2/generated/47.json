@@ -1,0 +1,71 @@
+{
+   "title": "Production of Oats in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of Oats in Canada the year 2019 . ",
+      "The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Production decreased again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "242063.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "176442.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "187676.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "183743.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "188972.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "131634.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "128123.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "226629.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "381557.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "407159.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "225872.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "315454.0"
+      }
+   ],
+   "gold": "The graph depicts the production of oats in Canada in 2019 . The production generally falls from January to July . It then climbs rapidly to the peak at over 400000 tonnes in October .\n"
+}

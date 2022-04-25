@@ -1,0 +1,71 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total Canada entering to the Canada begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "2132795.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1985152.0"
+      },
+      {
+         "Month": "March",
+         "Number": "2413193.0"
+      },
+      {
+         "Month": "April",
+         "Number": "2481273.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2765665.0"
+      },
+      {
+         "Month": "June",
+         "Number": "2881952.0"
+      },
+      {
+         "Month": "July",
+         "Number": "3334402.0"
+      },
+      {
+         "Month": "August",
+         "Number": "3399740.0"
+      },
+      {
+         "Month": "September",
+         "Number": "2861710.0"
+      },
+      {
+         "Month": "October",
+         "Number": "2638655.0"
+      },
+      {
+         "Month": "November",
+         "Number": "2341600.0"
+      },
+      {
+         "Month": "December",
+         "Number": "2285715.0"
+      }
+   ],
+   "gold": "The line chart shows the total number of vehicles entering Canada during 2016 . It 's clearly possible to see how during the summer months the amount of car entering Canada is way higher than the rest of the year , reaching the maximum value during the month of August with around 3400000 cars .\n"
+}

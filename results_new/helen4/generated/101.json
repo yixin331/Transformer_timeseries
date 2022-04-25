@@ -1,0 +1,72 @@
+{
+   "title": "Average retail price for eggs in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/dozen",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for eggs in Canada 2021 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/dozen": "3.64"
+      },
+      {
+         "Month": "February",
+         "Dollars/dozen": "3.62"
+      },
+      {
+         "Month": "March",
+         "Dollars/dozen": "3.77"
+      },
+      {
+         "Month": "April",
+         "Dollars/dozen": "3.8"
+      },
+      {
+         "Month": "May",
+         "Dollars/dozen": "3.74"
+      },
+      {
+         "Month": "June",
+         "Dollars/dozen": "3.75"
+      },
+      {
+         "Month": "July",
+         "Dollars/dozen": "3.74"
+      },
+      {
+         "Month": "August",
+         "Dollars/dozen": "3.91"
+      },
+      {
+         "Month": "September",
+         "Dollars/dozen": "3.82"
+      },
+      {
+         "Month": "October",
+         "Dollars/dozen": "3.87"
+      },
+      {
+         "Month": "November",
+         "Dollars/dozen": "3.87"
+      },
+      {
+         "Month": "December",
+         "Dollars/dozen": "3.82"
+      }
+   ],
+   "gold": "A graph plotting the average retail price of a dozen eggs in Canada in 2021 by month . There is a general upward trend here . With a low in February around 3.60 and a high in August at around 3.90 before declining slightly to 3.82 by the end of the year .\n"
+}

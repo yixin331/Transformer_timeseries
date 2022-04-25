@@ -1,0 +1,77 @@
+{
+   "title": "Average retail price for orange juice in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Dollars/litre",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for orange juice in Dollars/litre Canada during 2021 . ",
+      "The price oscilates from January to August with prices ranging between 4.41 and 3.55 . ",
+      "The price increases from August to December going from 3.55 to 4.57 ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "7",
+         "11": "2"
+      },
+      {
+         "4": "7",
+         "6": "11",
+         "11": "10"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/litre": "4.4"
+      },
+      {
+         "Month": "February",
+         "Dollars/litre": "4.46"
+      },
+      {
+         "Month": "March",
+         "Dollars/litre": "4.41"
+      },
+      {
+         "Month": "April",
+         "Dollars/litre": "4.33"
+      },
+      {
+         "Month": "May",
+         "Dollars/litre": "4.34"
+      },
+      {
+         "Month": "June",
+         "Dollars/litre": "4.51"
+      },
+      {
+         "Month": "July",
+         "Dollars/litre": "4.28"
+      },
+      {
+         "Month": "August",
+         "Dollars/litre": "4.36"
+      },
+      {
+         "Month": "September",
+         "Dollars/litre": "4.47"
+      },
+      {
+         "Month": "October",
+         "Dollars/litre": "4.35"
+      },
+      {
+         "Month": "November",
+         "Dollars/litre": "4.57"
+      },
+      {
+         "Month": "December",
+         "Dollars/litre": "4.53"
+      }
+   ],
+   "gold": "This graph illustrates the monthly average retail price for orange juice in Dollars per litre . Based on the graph , the retail price fluctuated a lot throughout the year , with it being the highest in June and November , and the lowest in July . .\n"
+}

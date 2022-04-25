@@ -1,0 +1,1 @@
+This graph represents the total non-resident travellers entering Canada in 2019. The graph starts out in January, where the number of Persons is 1.5e6. It reaches a peak of 4.5e6 in July. It then drops to about 1.8e6 in November, where it starts to rise again.

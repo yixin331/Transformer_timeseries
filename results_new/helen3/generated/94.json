@@ -1,0 +1,73 @@
+{
+   "title": "Average retail price for apples in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/kilogram",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Average retail price for apples Canada in Dollars/kilogram Canada during 2020 . ",
+      "The trend shows the price rising over time with minor oscillations . ",
+      "The price reached a low of 22.5 in February and a high of 4.61 in October ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "8": "1",
+         "13": "7",
+         "15": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/kilogram": "4.33"
+      },
+      {
+         "Month": "February",
+         "Dollars/kilogram": "4.32"
+      },
+      {
+         "Month": "March",
+         "Dollars/kilogram": "4.41"
+      },
+      {
+         "Month": "April",
+         "Dollars/kilogram": "4.25"
+      },
+      {
+         "Month": "May",
+         "Dollars/kilogram": "4.31"
+      },
+      {
+         "Month": "June",
+         "Dollars/kilogram": "4.42"
+      },
+      {
+         "Month": "July",
+         "Dollars/kilogram": "4.58"
+      },
+      {
+         "Month": "August",
+         "Dollars/kilogram": "4.61"
+      },
+      {
+         "Month": "September",
+         "Dollars/kilogram": "4.58"
+      },
+      {
+         "Month": "October",
+         "Dollars/kilogram": "4.53"
+      },
+      {
+         "Month": "November",
+         "Dollars/kilogram": "4.47"
+      },
+      {
+         "Month": "December",
+         "Dollars/kilogram": "4.51"
+      }
+   ],
+   "gold": "The average retail price of apples in Canada for the year 2020 , depicting Dollars per Kilo on a month over month basis . We see a bit of a fluctuation in the starting months with the bottom in April , Then a steep increase in the summer months with the yearly high in August . Then shows a gradual decline in the winter months with a small bump up in December to cap off the year .\n"
+}

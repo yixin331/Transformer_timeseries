@@ -1,0 +1,75 @@
+{
+   "title": "Total Canadian residents entering the country in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The line chart shows the number of Canadian residents entering Canadian in each Month of 2019 . ",
+      "The number of residents peaked in the summer , with around 5885884.0 million residents entering in July . ",
+      "Although the winter months conversely exhibited the least number of residents , there was a slight increase in December where around 4376787.0 million Canadian residents entered Canadian ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "7",
+         "16": "6"
+      },
+      {
+         "18": "11",
+         "21": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "4356374.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "4001703.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "5450366.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "4983182.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "4714952.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "4271769.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "5179202.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "5885884.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "4512688.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "4294765.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "4129734.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "4376787.0"
+      }
+   ],
+   "gold": "This graph shows the number of Canadian residents entering Canada in 2019 . The number of Canadians entering Canada fluctuates from season to season , with two the two peaks being March and August . The number seems to be the lowest during the months Februrary , June , and November .\n"
+}

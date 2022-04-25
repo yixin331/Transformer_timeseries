@@ -1,0 +1,69 @@
+{
+   "title": "Total United States vehicles entering in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Number of vehicles entering the United States in 2018 . ",
+      "The Number of cars entering is about 700000 at the start and end of the year . ",
+      "It increases towards summer ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "572090.0"
+      },
+      {
+         "Month": "February",
+         "Number": "573762.0"
+      },
+      {
+         "Month": "March",
+         "Number": "689492.0"
+      },
+      {
+         "Month": "April",
+         "Number": "663490.0"
+      },
+      {
+         "Month": "May",
+         "Number": "836273.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1041015.0"
+      },
+      {
+         "Month": "July",
+         "Number": "1186277.0"
+      },
+      {
+         "Month": "August",
+         "Number": "1193966.0"
+      },
+      {
+         "Month": "September",
+         "Number": "893928.0"
+      },
+      {
+         "Month": "October",
+         "Number": "782609.0"
+      },
+      {
+         "Month": "November",
+         "Number": "665440.0"
+      },
+      {
+         "Month": "December",
+         "Number": "713163.0"
+      }
+   ],
+   "gold": "The displayed chart shows the total number of vehicles entering Canada during 2018 . It 's possible to see how the highest values have been recorded during the spring and summer months . In particular , the maximum number of cars entering Canada has been reached July and a August .\n"
+}

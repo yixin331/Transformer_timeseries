@@ -1,0 +1,72 @@
+{
+   "title": "Import of skim milk powder in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Import of skim milk in Tonnes Canada during 2019 . ",
+      "The Import values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "130.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "396.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "287.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "320.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "315.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "335.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "314.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "209.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "366.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "375.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "228.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "117.0"
+      }
+   ],
+   "gold": "A graph showing the amount of skim milk powder imported in Canada in the year 2019 by every month , weighed in tonnes . Starting at less than 150 tonnes , the amount soars to 400 by February and plummets again before staying constant until July , diving in August , increasing again by September only to plunge by November and reach a new low by December .\n"
+}

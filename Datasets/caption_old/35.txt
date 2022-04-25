@@ -1,0 +1,1 @@
+This is a line chart about the production of canolas in Canada for the year 2019. Starting from Jan with 1.8 tones production, it remained lower than 1.8 tones until September, when the production increases hugely to around 2.75 tones. It then quickly drops to 1.5 tones in November and slightly increases to around 2 tones in Dec.

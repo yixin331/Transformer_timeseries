@@ -1,0 +1,71 @@
+{
+   "title": "Total hardwood , production in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Thousand cubic metres",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line graph shows the cubic meters of hardwood produced monthly in Canada 2017 . ",
+      "The production of hardwood generally stays between 4300 thousand cubic meters and 5100 thousand cubic meters . ",
+      "However , there was a significant drop in production April with a value of 3500 thousand cubic meters ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand cubic metres": "1070.0"
+      },
+      {
+         "Month": "February",
+         "Thousand cubic metres": "1206.0"
+      },
+      {
+         "Month": "March",
+         "Thousand cubic metres": "1506.0"
+      },
+      {
+         "Month": "April",
+         "Thousand cubic metres": "1143.0"
+      },
+      {
+         "Month": "May",
+         "Thousand cubic metres": "1404.0"
+      },
+      {
+         "Month": "June",
+         "Thousand cubic metres": "1292.0"
+      },
+      {
+         "Month": "July",
+         "Thousand cubic metres": "1051.0"
+      },
+      {
+         "Month": "August",
+         "Thousand cubic metres": "1074.0"
+      },
+      {
+         "Month": "September",
+         "Thousand cubic metres": "1310.0"
+      },
+      {
+         "Month": "October",
+         "Thousand cubic metres": "1240.0"
+      },
+      {
+         "Month": "November",
+         "Thousand cubic metres": "1440.0"
+      },
+      {
+         "Month": "December",
+         "Thousand cubic metres": "1152.0"
+      }
+   ],
+   "gold": "The graph is showing the production 's trend of total hardwood in Canada during 2017 . The values are in cubic metres . It 's clearly possible to see how the values are strongly fluctuating over the year .\n"
+}

@@ -1,0 +1,1 @@
+This is a line graph showing the 2017 price index of laptops in Canada . There is a declining trend throughout the year , with a slight spike in October . The graph 's peak is in February at 994 , and the graph 's trough is in December at 970 .

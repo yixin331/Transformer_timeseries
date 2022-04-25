@@ -1,0 +1,76 @@
+{
+   "title": "Production of Grains in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of Grains in Canada 2017 . ",
+      "The first few monthes till May the Production fluctuate at around 1022.0",
+      "In June it starts to decline a little bit and in July and August there is a massive drop ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "4",
+         "11": "0"
+      },
+      {
+         "1": "5",
+         "11": "6",
+         "13": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1022.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1007.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1024.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1009.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1027.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1048.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1088.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1078.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1091.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1083.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1080.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1081.0"
+      }
+   ],
+   "gold": "The following line chart is about the production of grains in Canada during 2017 . The values are reported using the FPPI ( Farm product pridce index ) . It 's clearly possible to see how the production of grains is quite low from January to May , but then it rapidly increase from June to December , reaching its maximum value during September 2017 .\n"
+}

@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total solar electricity generation in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Megawatt', 'hours']: ['69561.0', '121613.0', '215143.0', '243975.0', '288839.0', '334591.0', '344554.0', '296726.0', '269621.0', '171538.0', '139945.0', '88504.0']
+
+gold: Chart showing solar electricity generation in Canada in the year 2020 . Axis show megawatt hours per month . With a gradual increase to the summer months peaking at July , then a corresponding decline to in the winter months .
+gold_template: Chart showing templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] in the year templateTitleDate[0] . Axis show templateYLabel[0] templateYLabel[1] per templateXLabel[0] . With a gradual templatePositiveTrend to the summer months peaking at templateXValue[6] , then a corresponding templateNegativeTrend to in the winter months .
+
+generated_template: This graph is showing the templateTitle[1] templateTitle[2] generated in templateTitleSubject[0] for each templateXLabel[0] of the year templateTitleDate[0] . The unit of templateTitle[1] templateTitle[2] generated is in megawatt-hours , and the templateXLabel[0] templateXValue[6] generated the most templateTitle[1] templateTitle[2] .
+generated: This graph is showing the solar electricity generated in Canada for each Month of the year 2020 .  The unit of solar electricity generated is in megawatt-hours , and the Month July generated the most solar electricity .
+
+Example 49:
+titleEntities: {'Subject': ['Canadian', 'Canada'], 'Date': ['2018']}
+title: Total Canadian vehicles returning to the country in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Number']: ['1609692.0', '1513851.0', '1963638.0', '1969013.0', '2113119.0', '2017457.0', '2172661.0', '2289548.0', '1927463.0', '1913202.0', '1685834.0', '1661527.0']
+
+gold: A line chart displaying Canadian vehicles returning to Canada each month in 2018 . It indicates that travel was lowest during the winter months , reaching a minimum in February , and highest in the summer months , peaking in August ( but with a slight dip in June ) . The median number of returning vehicles is between 1900000 and 2000000 .
+gold_template: A line chart displaying templateTitleSubject[0] templateTitle[2] templateTitle[3] to templateTitleSubject[1] each templateXLabel[0] in templateTitleDate[0] . It indicates that travel was lowest during the winter months , reaching a minimum in templateXValue[1] , and highest in the summer months , peaking in templateXValue[7] ( but with a slight templateNegativeTrend in templateXValue[5] ) . The median templateYLabel[0] of templateTitle[3] templateTitle[2] is between 1900000 and 2000000 .
+
+generated_template: The graph shows the trend of the templateTitle[0] templateYLabel[0] of templateTitleSubject[0] templateTitle[2] templateTitle[3] to templateTitleSubject[1] during the year templateTitleDate[0] . The templateYLabel[0] drops between templateXValue[0] and templateXValue[1] and shows the minimum value in templateXValue[1] . From templateXValue[1] on it increases and shows the maximum value in templateXValue[7] .
+generated: The graph shows the trend of the Total Number of Canadian vehicles returning to Canada during the year 2018 .  The Number drops between January and February shows the minimum value in February .  From February on it increases and shows the maximum value in August .
+
+Example 52:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total solar electricity generation in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Megawatt', 'hours']: ['69561.0', '121613.0', '215143.0', '243975.0', '288839.0', '334591.0', '344554.0', '296726.0', '269621.0', '171538.0', '139945.0', '88504.0']
+
+gold: This line chart shows monthly total solar electricity generation in Canada in 2020 . The chart shows a steady increase in electricity generated from January to July , when it reached a peak at 350000 megawatt hours , and then an equally steady decline until December .
+gold_template: This line chart shows monthly templateTitle[0] templateTitle[1] templateTitle[2] templateTitle[3] in templateTitleSubject[0] in templateTitleDate[0] . The chart shows a steady templatePositiveTrend in templateTitle[2] generated from templateXValue[0] to templateXValue[6] , when it reached a peak at 350000 templateYLabel[0] templateYLabel[1] , and then an equally steady templateNegativeTrend until templateXValue[last] .
+
+generated_template: This graph is showing the templateTitle[1] templateTitle[2] generated in templateTitleSubject[0] for each templateXLabel[0] of the year templateTitleDate[0] . The unit of templateTitle[1] templateTitle[2] generated is in megawatt-hours , and the templateXLabel[0] templateXValue[6] generated the most templateTitle[1] templateTitle[2] .
+generated: This graph is showing the solar electricity generated in Canada for each Month of the year 2020 .  The unit of solar electricity generated is in megawatt-hours , and the Month July generated the most solar electricity .
+

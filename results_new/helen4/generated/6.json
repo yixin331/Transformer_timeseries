@@ -1,0 +1,69 @@
+{
+   "title": "Production of Fresh fruit in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph depicts the Production of Fresh fruit in Canada during 2017 . ",
+      "The given unit is the Farm product price index ( FPPI ) . ",
+      "The graph represents a parable throughout the year ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1060.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1051.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1067.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1052.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1062.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1106.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1136.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1099.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1101.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1108.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1190.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1198.0"
+      }
+   ],
+   "gold": "The production of fresh fruit in Canada during 2017 has been increasing over the year . Even that , several fluctuations have been recorded , in particular during the first months of the year . The maximum values have been recorded during November and December .\n"
+}

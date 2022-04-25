@@ -1,0 +1,1 @@
+The average retail price for sirloin steak grows exponentially from January to June and reaches the peak in June. Then decreases rapidly in August. Then it remains steady until December. .

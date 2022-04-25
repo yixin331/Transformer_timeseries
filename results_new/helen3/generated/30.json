@@ -1,0 +1,71 @@
+{
+   "title": "Production of Grains in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "It 's clearly possible to see from the graph that the Production of Grains Canada in during 2018 reached its maximum values during the summer months . ",
+      "In particular , the most significant peak of the values was registered during August 2018 . ",
+      "Despite of that , during the rest of the year Production value remained quite stable with few and not significant fluctuations ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1080.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1072.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1093.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1096.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1100.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1107.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1092.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1135.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1112.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1097.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1094.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1105.0"
+      }
+   ],
+   "gold": "The line chart is describing the values about production of grains in Canada during 2018 . The production amout is described using the farm product price index ( FPPI ) . The minimum recorded value is during February .\n"
+}

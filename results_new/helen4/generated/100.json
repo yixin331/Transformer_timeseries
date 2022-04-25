@@ -1,0 +1,71 @@
+{
+   "title": "Average retail price for ketchup in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars/litre",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph illustrates the monthly Average retail price for ketchup Canada in Dollars per litre . ",
+      "Based on the graph , the retail price fluctuated a lot throughout the year , with it being the highest in June and November , and the lowest in July ."
+   ],
+   "trends": [
+      {},
+      {
+         "21": "5",
+         "23": "10",
+         "29": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars/litre": "3.67"
+      },
+      {
+         "Month": "February",
+         "Dollars/litre": "3.8"
+      },
+      {
+         "Month": "March",
+         "Dollars/litre": "3.83"
+      },
+      {
+         "Month": "April",
+         "Dollars/litre": "3.89"
+      },
+      {
+         "Month": "May",
+         "Dollars/litre": "3.45"
+      },
+      {
+         "Month": "June",
+         "Dollars/litre": "3.6"
+      },
+      {
+         "Month": "July",
+         "Dollars/litre": "3.63"
+      },
+      {
+         "Month": "August",
+         "Dollars/litre": "3.68"
+      },
+      {
+         "Month": "September",
+         "Dollars/litre": "3.73"
+      },
+      {
+         "Month": "October",
+         "Dollars/litre": "3.72"
+      },
+      {
+         "Month": "November",
+         "Dollars/litre": "3.97"
+      },
+      {
+         "Month": "December",
+         "Dollars/litre": "3.95"
+      }
+   ],
+   "gold": "The above graph describes the average retails prices for ketchup in Canada in 2020 . The price was rising from January to April , before a big drop in May . Then , it is constantly rising to November and remains stable in December .\n"
+}

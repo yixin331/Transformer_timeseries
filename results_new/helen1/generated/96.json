@@ -1,0 +1,73 @@
+{
+   "title": "Supply of skim milk powder in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Supply of skim milk ( in Tonnes ) in Canada the year 2019 . ",
+      "Supply is very different over the year . ",
+      "While a significant decrease in Supply can be observed from January to February , Supply continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "39828.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "39379.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "39605.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "41687.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "40576.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "39679.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "39965.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "38382.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "37681.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "39826.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "36446.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "37948.0"
+      }
+   ],
+   "gold": "The graph illustrates the supply of skim milk powder in Canada in 2019 . The supply maintains at the same level in the first three months . It then boosts to its peak of the year in April .\n"
+}

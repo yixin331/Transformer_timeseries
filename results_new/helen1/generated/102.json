@@ -1,0 +1,73 @@
+{
+   "title": "Production of Rye in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Rye Canada ( in Tonnes ) in Canada the year 2020 . ",
+      "Production is very different over the year . ",
+      "While a significant decline in Production can be observed from January to February , Production continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "9685.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "13125.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "16314.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "15630.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "13020.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "11424.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "9800.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "51182.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "33421.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "15188.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "12128.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "14058.0"
+      }
+   ],
+   "gold": "The graph shows the production of rye in tonnes in Canada throughout 2020 . The production remains mostly stable from January to July with production ranging between 10000 and 16666 . The production sharply increases in August and reaches 50000 before rapidly falling throughout September and October back down to 15000 .\n"
+}

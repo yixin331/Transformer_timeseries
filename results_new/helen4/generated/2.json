@@ -1,0 +1,75 @@
+{
+   "title": "Production of Rye in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Rye Canada 2018 in Tonnes Canada during 2018 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Production amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "14230.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "12103.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "12991.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "20177.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "23480.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "18457.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "19621.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "41807.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "28097.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "17065.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "10302.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "7399.0"
+      }
+   ],
+   "gold": "chart with line about canada .\n"
+}

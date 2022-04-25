@@ -1,0 +1,1 @@
+The new truck sales chart illustrate the amount of sales in Canada which were sold in every month in 2019 . X-axis unit are measured in month , and y-axis is measured in thousand dollars . The overall trend of sales increases from Jan to May and decreases from May to Dec. .

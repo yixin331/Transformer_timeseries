@@ -1,0 +1,77 @@
+{
+   "title": "Price index : Servers in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "ID 696",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Price of index Servers in Canada fluctuated throughout 2017 . ",
+      "There was a sharp increase from February to May , but also a steep decline from November to December . ",
+      "The Price also remained constant from June to August ."
+   ],
+   "trends": [
+      {},
+      {
+         "6": "1",
+         "8": "4",
+         "16": "10",
+         "18": "11"
+      },
+      {
+         "6": "5",
+         "8": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 696": "1033.0"
+      },
+      {
+         "Month": "February",
+         "ID 696": "1027.0"
+      },
+      {
+         "Month": "March",
+         "ID 696": "1027.0"
+      },
+      {
+         "Month": "April",
+         "ID 696": "1017.0"
+      },
+      {
+         "Month": "May",
+         "ID 696": "1027.0"
+      },
+      {
+         "Month": "June",
+         "ID 696": "1033.0"
+      },
+      {
+         "Month": "July",
+         "ID 696": "1028.0"
+      },
+      {
+         "Month": "August",
+         "ID 696": "1028.0"
+      },
+      {
+         "Month": "September",
+         "ID 696": "1019.0"
+      },
+      {
+         "Month": "October",
+         "ID 696": "1023.0"
+      },
+      {
+         "Month": "November",
+         "ID 696": "1007.0"
+      },
+      {
+         "Month": "December",
+         "ID 696": "1010.0"
+      }
+   ],
+   "gold": "The line chart describes the Servers price index trend in Canada during 2017 . It considerably oscillated over the year , with several peaks and dips . The highest values have been recorded during January and June .\n"
+}

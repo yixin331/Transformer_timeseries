@@ -1,0 +1,71 @@
+{
+   "title": "International imports in all services in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Million dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The International imports in all services in Canada of the year 2021 are shown in the line chart . ",
+      "The imports start from over 15000 million dollars and rapidly decrease till May . ",
+      "Then it maintains at the same level during rest of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "4"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Million dollars": "10565.0"
+      },
+      {
+         "Month": "February",
+         "Million dollars": "10115.0"
+      },
+      {
+         "Month": "March",
+         "Million dollars": "10544.0"
+      },
+      {
+         "Month": "April",
+         "Million dollars": "10429.0"
+      },
+      {
+         "Month": "May",
+         "Million dollars": "10213.0"
+      },
+      {
+         "Month": "June",
+         "Million dollars": "10370.0"
+      },
+      {
+         "Month": "July",
+         "Million dollars": "10612.0"
+      },
+      {
+         "Month": "August",
+         "Million dollars": "11195.0"
+      },
+      {
+         "Month": "September",
+         "Million dollars": "11784.0"
+      },
+      {
+         "Month": "October",
+         "Million dollars": "11824.0"
+      },
+      {
+         "Month": "November",
+         "Million dollars": "12048.0"
+      },
+      {
+         "Month": "December",
+         "Million dollars": "12309.0"
+      }
+   ],
+   "gold": "This graph shows international imports in all services ( millions of dollars ) to Canada during 2021 , each month . There is a general upward trend . The graph was at its lowest in Feb and highest in Dec .\n"
+}

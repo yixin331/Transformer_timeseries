@@ -1,0 +1,72 @@
+{
+   "title": "Production of creamery butter in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of creamery in Tonnes Canada during 2017 . ",
+      "There are several peaks and dips throughout the year . ",
+      "The maximum value of Production has been recorded for September , and the minimum value has been recorded for August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "9": "8",
+         "19": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "11309.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "9977.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "10060.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "10103.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "8953.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "7741.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "8480.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "7566.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "7725.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "8680.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "8080.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "10100.0"
+      }
+   ],
+   "gold": "Production of creamery butter varies a lot throughout the year . Being mostly stable from February until April with approximately 10000 tonnes of creamery butter , a drop is observed from April until June . The production starts oscillating between June and November , whereas production varies between 8000 to 8500 tonnes .\n"
+}

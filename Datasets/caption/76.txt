@@ -1,0 +1,1 @@
+The graph shows the value of shipments of salt in dollars in Canada throughout 2020 . The value drops sharply in March down to a low of 2.5 before recovering quickly back to 3.7 in April . The value rises to 4.2 in June but slowly declines montly until October . The value then quickly rises over the next two months and reaches a peak of 4.6 in December .

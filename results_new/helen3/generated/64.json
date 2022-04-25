@@ -1,0 +1,72 @@
+{
+   "title": "Import of skim milk powder in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Import of skim milk in Tonnes Canada during 2020 . ",
+      "The Import values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "292.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "179.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "109.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "155.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "181.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "181.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "289.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "201.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "366.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "193.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "286.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "244.0"
+      }
+   ],
+   "gold": "This graph shows the import of skim milk powder ( by Tonnes ) in Canada during 2020 each month . The graph fluctuates erratically throughout the year . However , there was sharp decline between January and March after which the graph rose again .\n"
+}

@@ -1,0 +1,1 @@
+The line chart shows the average retail price for pork chops in dollars per kilogram in Canada during 2020 . The price oscillates between 11.5 and 12.2 dollars per kilogram from January to May . The values peak in June at almost 12.6 dollars , then substantially declines until October at about 11.6 dollars per kilogram .

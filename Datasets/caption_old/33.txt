@@ -1,0 +1,1 @@
+A line chart about international imports in all services in Canada in 2020. The imports drop slightly from 15000 million dollars to 14000 million dollars from January to March. Then the imports fall dramatically to 10000 million dollars in April, then maintain the same level for the rest of the year.

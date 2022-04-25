@@ -1,0 +1,69 @@
+{
+   "title": "Price index : Servers in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 708",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A line chart about the Price index Servers Canada in the year 2018 . ",
+      "Values are analyzed in the different months of the year . ",
+      "With Canada values ranging from less than 1180 to more than 1220 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 708": "1010.0"
+      },
+      {
+         "Month": "February",
+         "ID 708": "1003.0"
+      },
+      {
+         "Month": "March",
+         "ID 708": "1001.0"
+      },
+      {
+         "Month": "April",
+         "ID 708": "997.0"
+      },
+      {
+         "Month": "May",
+         "ID 708": "998.0"
+      },
+      {
+         "Month": "June",
+         "ID 708": "1010.0"
+      },
+      {
+         "Month": "July",
+         "ID 708": "1013.0"
+      },
+      {
+         "Month": "August",
+         "ID 708": "1011.0"
+      },
+      {
+         "Month": "September",
+         "ID 708": "1008.0"
+      },
+      {
+         "Month": "October",
+         "ID 708": "1006.0"
+      },
+      {
+         "Month": "November",
+         "ID 708": "1008.0"
+      },
+      {
+         "Month": "December",
+         "ID 708": "1008.0"
+      }
+   ],
+   "gold": "This figure represents the Canadian price index of servers in 2018 . The price index starts off at 1010 during January , and keeps decreasing throughout the following months , until it reaches its minimum value of below 998 in April . From then on there is a sharp increase , peaking in July at above 1012 .\n"
+}

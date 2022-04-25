@@ -1,0 +1,69 @@
+{
+   "title": "Production of Fresh potatoes in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Fresh potatoes over the course of a year . ",
+      "It follow a `` U '' shape with a local rising in the Month of June ."
+   ],
+   "trends": [
+      {},
+      {
+         "15": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1362.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1349.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1395.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1416.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1421.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1446.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1550.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1687.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1509.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1345.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1383.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1417.0"
+      }
+   ],
+   "gold": "This graph illustrates the production of fresh potatoes in Canada in 2016 . Production mainly starts in March , with a slow increase throughout until June . Production sharply increases from June onwards , reaching a maximum of nearly 1700 during August .\n"
+}

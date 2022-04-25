@@ -1,0 +1,69 @@
+{
+   "title": "Total Canadian residents entering the country in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Total Canadian travelers entering Canadian during the year 2021 , each Month . ",
+      "The graph was mostly stable from Jan to Apr , after which there is a general upward trend . ",
+      "Although , there was a declining trend from Aug to Nov ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "425521.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "295857.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "305700.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "338383.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "363228.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "372046.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "535100.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "847856.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "788341.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "858223.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "1152740.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "1622506.0"
+      }
+   ],
+   "gold": "The chart shows the total number of Canadian residents entering the country in each month in 2021 . The data range from around 0.3  10^6 to 1.6  10^6 . In general the trend was upwards with most significant increase from October to December .\n"
+}

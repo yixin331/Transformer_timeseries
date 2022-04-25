@@ -1,0 +1,1 @@
+This graph displays the price fluctuation of ketchup over the course of a year. The data is specific to the Canadian market and is only for the year 2020. The price is calculated in dollars per litre. The average is not shown, but ketchup was the cheapest in May 2020 and the most expensive in November 2020.

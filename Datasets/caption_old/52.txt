@@ -1,0 +1,1 @@
+A graph plotting the average retail price of a dozen eggs in Canada in 2021 by month. There is a general upward trend here. With a low in February around 3.60 and a high in August at around 3.90 before declining slightly to 3.82 by the end of the year.

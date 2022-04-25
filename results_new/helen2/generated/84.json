@@ -1,0 +1,75 @@
+{
+   "title": "Value of shipments of copper in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Value of shipments copper in Dollars Canada throughout 2020 . ",
+      "The Value drops sharply in March down to a low of 2.5 before recovering quickly back to 3.7 in April . ",
+      "The Value rises to 4.2 in June but slowly declines montly until October ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "2",
+         "19": "3"
+      },
+      {
+         "6": "5",
+         "12": "9"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars": "497874996.0"
+      },
+      {
+         "Month": "February",
+         "Dollars": "293709573.0"
+      },
+      {
+         "Month": "March",
+         "Dollars": "354324215.0"
+      },
+      {
+         "Month": "April",
+         "Dollars": "207725863.0"
+      },
+      {
+         "Month": "May",
+         "Dollars": "262291000.0"
+      },
+      {
+         "Month": "June",
+         "Dollars": "371838783.0"
+      },
+      {
+         "Month": "July",
+         "Dollars": "223561557.0"
+      },
+      {
+         "Month": "August",
+         "Dollars": "319630243.0"
+      },
+      {
+         "Month": "September",
+         "Dollars": "455523636.0"
+      },
+      {
+         "Month": "October",
+         "Dollars": "374197837.0"
+      },
+      {
+         "Month": "November",
+         "Dollars": "543658718.0"
+      },
+      {
+         "Month": "December",
+         "Dollars": "519522432.0"
+      }
+   ],
+   "gold": "The value of shipments of copper in Canada is fluctuating all the time in 2020 . Overall , it drops for nearly a half in the first month , and oscillated till July . Then , it rises to a bit higher than the value in January till November and December .\n"
+}

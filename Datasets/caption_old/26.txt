@@ -1,0 +1,1 @@
+Note that on the graph for average retail price for regular gasoline that it was initially very expensive, at 115 cents/litre. But from February to April, it began to decrease rapidly, from ~110 cents/litre to less than 80 cents/litre. But then it recovered to a steady level at around 102 cents/litre.

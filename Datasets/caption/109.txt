@@ -1,0 +1,1 @@
+A line graph about the average retail price for regular gasoline at self-service stations . The price gradually rises from the beginning of the year to May . Then we see a drop of cost in June and a rise again in July . However , the price decreases in the later half of the year .

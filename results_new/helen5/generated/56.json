@@ -1,0 +1,76 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the trend of the Total Number of Canadian vehicles returning to Canada during the year 2018 . ",
+      "The Number drops between January and February shows the minimum value in February . ",
+      "From February on it increases and shows the maximum value in August ."
+   ],
+   "trends": [
+      {},
+      {
+         "4": "0",
+         "6": "1",
+         "13": "1"
+      },
+      {
+         "1": "1",
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "1609692.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1513851.0"
+      },
+      {
+         "Month": "March",
+         "Number": "1963638.0"
+      },
+      {
+         "Month": "April",
+         "Number": "1969013.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2113119.0"
+      },
+      {
+         "Month": "June",
+         "Number": "2017457.0"
+      },
+      {
+         "Month": "July",
+         "Number": "2172661.0"
+      },
+      {
+         "Month": "August",
+         "Number": "2289548.0"
+      },
+      {
+         "Month": "September",
+         "Number": "1927463.0"
+      },
+      {
+         "Month": "October",
+         "Number": "1913202.0"
+      },
+      {
+         "Month": "November",
+         "Number": "1685834.0"
+      },
+      {
+         "Month": "December",
+         "Number": "1661527.0"
+      }
+   ],
+   "gold": "The maximum value of total canadian vehicles returning to the country during 2018 has been reached during the month of August . In particular , the value started to grow in March reaching its peak in August . After that , it slowly decreased .\n"
+}

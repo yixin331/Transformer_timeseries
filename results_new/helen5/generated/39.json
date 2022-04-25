@@ -1,0 +1,72 @@
+{
+   "title": "Production of creamery butter in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of creamery in Canada during 2021 showed several fluctuations during the year . ",
+      "The Production values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "12686.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "10479.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "9247.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "10969.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "9848.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "8626.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "8466.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "8516.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "8352.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "9659.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "9773.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "10785.0"
+      }
+   ],
+   "gold": "The chart shows the production of creamery butter in Canada throughout the year 2021 . Production was minimal throughout the summer months , staying at around 8400 to 8600 tonnes from June through September . The remaining months exhibited much more fluctuation than in summer while all yielding greater production numbers than the summer months .\n"
+}

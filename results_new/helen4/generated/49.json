@@ -1,0 +1,77 @@
+{
+   "title": "New trucks sales in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Thousand dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The New trucks sales begin at around 4 thousands dollars , followed by a rapid decline to reach the lowest point in April . ",
+      "Then it raises steeply to 6 from April to June . ",
+      "During June to September , it continues the climb but with a steady speed ."
+   ],
+   "trends": [
+      {
+         "22": "3"
+      },
+      {
+         "7": "3",
+         "9": "5"
+      },
+      {
+         "1": "5",
+         "3": "8"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Thousand dollars": "3969749.0"
+      },
+      {
+         "Month": "February",
+         "Thousand dollars": "4358523.0"
+      },
+      {
+         "Month": "March",
+         "Thousand dollars": "6533171.0"
+      },
+      {
+         "Month": "April",
+         "Thousand dollars": "6399367.0"
+      },
+      {
+         "Month": "May",
+         "Thousand dollars": "6940637.0"
+      },
+      {
+         "Month": "June",
+         "Thousand dollars": "6558038.0"
+      },
+      {
+         "Month": "July",
+         "Thousand dollars": "6044981.0"
+      },
+      {
+         "Month": "August",
+         "Thousand dollars": "6577816.0"
+      },
+      {
+         "Month": "September",
+         "Thousand dollars": "6199103.0"
+      },
+      {
+         "Month": "October",
+         "Thousand dollars": "5834554.0"
+      },
+      {
+         "Month": "November",
+         "Thousand dollars": "5416768.0"
+      },
+      {
+         "Month": "December",
+         "Thousand dollars": "4520254.0"
+      }
+   ],
+   "gold": "This graph represents the rate of new trucks sales in Canada during the 2019 year . It starts at 4 million dollars in January , and has a sharp increase to 6.5 million dollars in March . It continues to increase until it 's just under 7 million in May .\n"
+}

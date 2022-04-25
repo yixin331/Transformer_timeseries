@@ -1,0 +1,1 @@
+A line chart about new passenger cars sales in Canada in 2021 . The sales increase dramatically during January and March , then oscillate between March and July . Between July and September , the sales remain stable . After September , the sales start to drop sharply .

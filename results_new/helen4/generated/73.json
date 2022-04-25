@@ -1,0 +1,71 @@
+{
+   "title": "Total Canadian vehicles returning to the country in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph illustrates the Total Canadian vehicles returning to the country in 2020 . ",
+      "The Number of cars entering is about 1510198.09 at the start of the year . ",
+      "It increases towards fall There is a peak at 2339189.19 in August ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "1517232.0"
+      },
+      {
+         "Month": "February",
+         "Number": "1513761.0"
+      },
+      {
+         "Month": "March",
+         "Number": "1194778.0"
+      },
+      {
+         "Month": "April",
+         "Number": "360247.0"
+      },
+      {
+         "Month": "May",
+         "Number": "397205.0"
+      },
+      {
+         "Month": "June",
+         "Number": "487231.0"
+      },
+      {
+         "Month": "July",
+         "Number": "510738.0"
+      },
+      {
+         "Month": "August",
+         "Number": "517169.0"
+      },
+      {
+         "Month": "September",
+         "Number": "538000.0"
+      },
+      {
+         "Month": "October",
+         "Number": "562619.0"
+      },
+      {
+         "Month": "November",
+         "Number": "507103.0"
+      },
+      {
+         "Month": "December",
+         "Number": "507305.0"
+      }
+   ],
+   "gold": "The number of total Canadian vehicles returning to the country begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . Then the number remains stable with a slight increase to December .\n"
+}

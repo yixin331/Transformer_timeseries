@@ -1,0 +1,1 @@
+The graph shows the production of rye in tonnes in Canada throughout 2020. The production remains mostly stable from January to July with production ranging between 10000 and 16666. The production sharply increases in August and reaches 50000 before rapidly falling throughout September and October back down to 15000.

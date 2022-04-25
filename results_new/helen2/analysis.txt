@@ -1,0 +1,36 @@
+Example 13:
+titleEntities: {'Subject': ['House', 'Canada'], 'Date': ['2018']}
+title: House and land price index in Canada 2018
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Index', '347']: ['1033.0', '1031.0', '1031.0', '1031.0', '1031.0', '1032.0', '1033.0', '1033.0', '1033.0', '1033.0', '1033.0', '1033.0']
+
+gold: The given graph shows the house and land price index development in Canada in the year 2018 , devided by month . The index started out at 1033 january and then decreased to 1031 in february and staying constant until may , giving way to a rise back to 1033 between may and july , again staying at 1033 dollars till the end of the year .
+gold_template: The given graph shows the templateTitleSubject[0] and templateTitle[1] templateTitle[2] templateYLabel[0] development in templateTitleSubject[1] in the year templateTitleDate[0] , devided by templateXLabel[0] . The templateYLabel[0] started out at templateYValue[max] templateXValue[0] and then templateNegativeTrend to templateYValue[min] in templateXValue[1] and staying constant until templateXValue[4] , giving way to a rise back to templateYValue[max] between templateXValue[4] and templateXValue[6] , again staying at templateYValue[max] dollars till the end of the year .
+
+generated_template: The templateTitleSubject[0] templateTitle[1] templateYLabel[0] in templateTitleSubject[1] during templateTitleDate[0] presents a quite ambiguous trend . Firstly , during the first few months , it slowly templateNegativeTrend . But then , from templateXValue[4] to templateXValue[6] , it recorded a considerable growth .
+generated: The House land Index in Canada during 2018 presents a quite ambiguous trend .  Firstly , during the first few months , it slowly decreased .  But then , from May to July , it recorded a considerable growth .
+
+Example 49:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2020']}
+title: Total softwood production in Canada 2020
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Thousand', 'cubic', 'metres']: ['4307.9', '4596.8', '4844.1', '3483.2', '4313.5', '4806.8', '4442.7', '4604.2', '5079.9', '5000.3', '4809.5', '4429.4']
+
+gold: This line graph shows the cubic meters of softwood produced monthly in Canada in 2020 . The production of softwood generally stays between 4300 thousand cubic meters and 5100 thousand cubic meters . However , there was a significant drop in production in April with a value of 3500 thousand cubic meters .
+gold_template: This line graph shows the templateYLabel[1] meters of templateTitle[1] produced monthly in templateTitleSubject[0] in templateTitleDate[0] . The templateTitle[2] of templateTitle[1] generally stays between 4300 thousand templateYLabel[1] meters and 5100 thousand templateYLabel[1] meters . However , there was a significant drop in templateTitle[2] in templateXValue[3] with a value of 3500 thousand templateYLabel[1] meters .
+
+generated_template: The graph depicts the fluctuation of templateTitle[1] and hard wood templateTitle[3] from templateXValue[0] to templateXValue[10] in templateTitleDate[0] . templateTitle[3] then sharply templateNegativeTrend from templateXValue[10] to templateXValue[last] , reaching its lowest point .
+generated: The graph depicts the fluctuation of softwood and hard wood Canada from January to November in 2020 .  Canada then sharply fell from November to December , reaching its lowest point .
+
+Example 52:
+titleEntities: {'Subject': ['Canada'], 'Date': ['2017']}
+title: Production of Wheat flour in Canada 2017
+X_Axis['Month']: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+Y_Axis['Tonnes']: ['21311.0', '31181.0', '28957.0', '31420.0', '32205.0', '33434.0', '31584.0', '24618.0', '30447.0', '30498.0', '24791.0', '39724.0']
+
+gold: The graph shows the production of wheat flour in tonnes in Canada in 2017 . The lowest production is in Jannuary . From February till July the graph oscillate .
+gold_template: The graph shows the templateTitle[0] of templateTitle[1] templateTitle[2] in templateYLabel[0] in templateTitleSubject[0] in templateTitleDate[0] . The lowest templateTitle[0] is in Jannuary . From templateXValue[1] till templateXValue[6] the graph oscillate .
+
+generated_template: The graph illustrates the templateTitle[0] of templateTitle[1] in templateTitleSubject[0] in the year templateTitleDate[0] . The templateTitle[0] is very low in the first third of the year , before it rises sharply until templateXValue[9] , reaching a maximum of 20000 templateYLabel[0] . Then the templateTitle[0] templateNegativeTrend again for the remaining months of the year .
+generated: The graph illustrates the Production of Wheat in Canada the year 2017 .  The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes .  Then the Production decreased again for the remaining months of the year .
+

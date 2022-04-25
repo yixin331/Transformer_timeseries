@@ -1,0 +1,75 @@
+{
+   "title": "Value of shipments of salt in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Value of shipments salt in Canada is fluctuating all the time in 2020 . ",
+      "Overall , it drops for nearly a half in the first Month , and oscillated till July . ",
+      "Then , it rises to a bit higher than the Value in January till November and December ."
+   ],
+   "trends": [
+      {},
+      {
+         "16": "6"
+      },
+      {
+         "12": "0",
+         "14": "10",
+         "16": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Dollars": "32616893.0"
+      },
+      {
+         "Month": "February",
+         "Dollars": "37489428.0"
+      },
+      {
+         "Month": "March",
+         "Dollars": "25304400.0"
+      },
+      {
+         "Month": "April",
+         "Dollars": "37119002.0"
+      },
+      {
+         "Month": "May",
+         "Dollars": "36836794.0"
+      },
+      {
+         "Month": "June",
+         "Dollars": "42130977.0"
+      },
+      {
+         "Month": "July",
+         "Dollars": "40804273.0"
+      },
+      {
+         "Month": "August",
+         "Dollars": "38559421.0"
+      },
+      {
+         "Month": "September",
+         "Dollars": "36660148.0"
+      },
+      {
+         "Month": "October",
+         "Dollars": "30112546.0"
+      },
+      {
+         "Month": "November",
+         "Dollars": "36023721.0"
+      },
+      {
+         "Month": "December",
+         "Dollars": "46649389.0"
+      }
+   ],
+   "gold": "The graph shows the value of shipments of salt in dollars in Canada throughout 2020 . The value drops sharply in March down to a low of 2.5 before recovering quickly back to 3.7 in April . The value rises to 4.2 in June but slowly declines montly until October .\n"
+}

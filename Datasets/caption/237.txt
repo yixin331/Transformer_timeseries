@@ -1,0 +1,1 @@
+It shows the number of total vehicles entering Canada during 2017 . It 's clearly possible to see how this value rapidly increase from January until the end of the summer , reaching its maximum value in August . After that , the number of vehicles entering Canada decrease during the last few months of the year . The minimum value has been recorded during February .

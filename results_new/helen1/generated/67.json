@@ -1,0 +1,71 @@
+{
+   "title": "Production of Fresh vegetables in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Farm product price index (FPPI)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Fresh fruits in Canada over the year of 2018 . ",
+      "In the first half of the year Production was nearly constant , until it fall dramatically in the mounth of August . ",
+      "Afterwards the Fresh vegetables Production rises again over the index of 1100 ."
+   ],
+   "trends": [
+      {},
+      {
+         "21": "7"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Farm product price index (FPPI)": "1407.0"
+      },
+      {
+         "Month": "February",
+         "Farm product price index (FPPI)": "1405.0"
+      },
+      {
+         "Month": "March",
+         "Farm product price index (FPPI)": "1411.0"
+      },
+      {
+         "Month": "April",
+         "Farm product price index (FPPI)": "1418.0"
+      },
+      {
+         "Month": "May",
+         "Farm product price index (FPPI)": "1419.0"
+      },
+      {
+         "Month": "June",
+         "Farm product price index (FPPI)": "1423.0"
+      },
+      {
+         "Month": "July",
+         "Farm product price index (FPPI)": "1429.0"
+      },
+      {
+         "Month": "August",
+         "Farm product price index (FPPI)": "1435.0"
+      },
+      {
+         "Month": "September",
+         "Farm product price index (FPPI)": "1442.0"
+      },
+      {
+         "Month": "October",
+         "Farm product price index (FPPI)": "1452.0"
+      },
+      {
+         "Month": "November",
+         "Farm product price index (FPPI)": "1445.0"
+      },
+      {
+         "Month": "December",
+         "Farm product price index (FPPI)": "1439.0"
+      }
+   ],
+   "gold": "The production of fresh vegetables in Canada increased constantly in 2018 ( from 1410 to 1450 FPPI ) , with the exception of the October-December period when it decreased to 1440 .\n"
+}

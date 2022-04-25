@@ -1,0 +1,1 @@
+This chart shows the monthly total US vehicles entering Canada in 2019. The data range from around 0.6 * 10^6 to 1.2 *10^6. The trend generally increased from January to August and decreased thereafter, with from April to July having almost linear increase. The drop was the greatest from August to September.

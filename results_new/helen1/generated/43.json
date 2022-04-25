@@ -1,0 +1,75 @@
+{
+   "title": "Price index : Desktop and similar computers in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "ID 360",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Price index Desktop similar in Canada considerably increased over 2016 . ",
+      "The minimum value was in January around 1029.0",
+      "The maximum value was in December around 1029.0 ."
+   ],
+   "trends": [
+      {},
+      {
+         "5": "0",
+         "7": "1"
+      },
+      {
+         "5": "11",
+         "7": "1"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 360": "1013.0"
+      },
+      {
+         "Month": "February",
+         "ID 360": "1029.0"
+      },
+      {
+         "Month": "March",
+         "ID 360": "1024.0"
+      },
+      {
+         "Month": "April",
+         "ID 360": "1025.0"
+      },
+      {
+         "Month": "May",
+         "ID 360": "1020.0"
+      },
+      {
+         "Month": "June",
+         "ID 360": "1016.0"
+      },
+      {
+         "Month": "July",
+         "ID 360": "1014.0"
+      },
+      {
+         "Month": "August",
+         "ID 360": "998.0"
+      },
+      {
+         "Month": "September",
+         "ID 360": "994.0"
+      },
+      {
+         "Month": "October",
+         "ID 360": "999.0"
+      },
+      {
+         "Month": "November",
+         "ID 360": "1009.0"
+      },
+      {
+         "Month": "December",
+         "ID 360": "1008.0"
+      }
+   ],
+   "gold": "Graphic of the market prices trend of Computers in Canada 2016 . This graphic shows the trend of the computers prices in 2016 for the canadian market . It immediatly affect you how the prices raise from january to february and then slowly decrease until July .\n"
+}

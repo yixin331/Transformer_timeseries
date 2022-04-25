@@ -1,0 +1,72 @@
+{
+   "title": "Import of creamery butter in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph shows the Import of creamery butter Canada ( by Tonnes ) in Canada during 2019 each Month . ",
+      "The graph fluctuates erratically throughout the year . ",
+      "However , there was sharp decline between January and March after which the graph rose again ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "7": "0",
+         "9": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1356.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1752.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1779.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1309.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1495.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1526.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "1443.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "1611.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "1527.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "2515.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "1578.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "1762.0"
+      }
+   ],
+   "gold": "This line chart shows the number of tonnes of creamery butter imported into Canada in 2019 . Imports stayed relatively steady between January and September , fluctuating between just under 1400 tonnes and 1800 tonnes . However , imports rose sharply in October , reaching a peak of over 2400 tonnes , and then declined just as sharply in November .\n"
+}

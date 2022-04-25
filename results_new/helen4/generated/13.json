@@ -1,0 +1,72 @@
+{
+   "title": "Price index : Tablet computers in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "ID 576",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Price index Tablet computers Canada in Tablet 2016 . ",
+      "The graph offers a growing trend with the Month going from January to December . ",
+      "The graph increase from Jan to Feb but experience a drop from Feb to Mar ."
+   ],
+   "trends": [
+      {},
+      {
+         "11": "0",
+         "13": "11"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 576": "943.0"
+      },
+      {
+         "Month": "February",
+         "ID 576": "939.0"
+      },
+      {
+         "Month": "March",
+         "ID 576": "897.0"
+      },
+      {
+         "Month": "April",
+         "ID 576": "924.0"
+      },
+      {
+         "Month": "May",
+         "ID 576": "927.0"
+      },
+      {
+         "Month": "June",
+         "ID 576": "914.0"
+      },
+      {
+         "Month": "July",
+         "ID 576": "916.0"
+      },
+      {
+         "Month": "August",
+         "ID 576": "913.0"
+      },
+      {
+         "Month": "September",
+         "ID 576": "896.0"
+      },
+      {
+         "Month": "October",
+         "ID 576": "904.0"
+      },
+      {
+         "Month": "November",
+         "ID 576": "902.0"
+      },
+      {
+         "Month": "December",
+         "ID 576": "877.0"
+      }
+   ],
+   "gold": "Tablet computer price index in Canada for 2016 . The price index slowly trended downwards throughout the year but experienced three significant drops : in March , in September ( possibly coinciding with back-to-school sales ) , and in December ( possibly due to Boxing Day and Boxing Week sales ) .\n"
+}

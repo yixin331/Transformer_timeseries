@@ -1,0 +1,75 @@
+{
+   "title": "Production of Canola in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Canola Canada 2020 in Tonnes Canada during 2020 . ",
+      "The values are steady for the first three months and peak in April . ",
+      "The Production amount generally declines after April except for a significant surge in October and a slight increase in December ."
+   ],
+   "trends": [
+      {},
+      {
+         "12": "3"
+      },
+      {
+         "6": "3",
+         "13": "9",
+         "19": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1618199.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1450511.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1673481.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1873978.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1308285.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1831321.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "2128025.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "1134583.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "3108247.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "1810519.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "1852889.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "2170415.0"
+      }
+   ],
+   "gold": "A line chart about the production of Canola in Canada in the year 2020 . Canola production did not prove to be very fruitful for the early half of the year . However we were able to see a huge surge in Canola production in September , jumping up to over 3 tonnes in the month .\n"
+}

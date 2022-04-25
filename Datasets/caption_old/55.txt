@@ -1,0 +1,1 @@
+A graph of the total number of United States vehicles entering Canada every month in 2021. The amount increases slightly until July, when it soars by August before easing the rest of the year.

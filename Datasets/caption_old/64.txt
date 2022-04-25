@@ -1,0 +1,1 @@
+A line chart about the total softwood production in Canada in the year 2020. The total softwood production plummeted in April of 2020, hitting an all time low of less than 3600 thousands cubic metres of softwood produced. However recovery was instant, and the production continued to climb and reach a fairly constant rate - even hitting 5000 in September.

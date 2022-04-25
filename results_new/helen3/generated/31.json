@@ -1,0 +1,71 @@
+{
+   "title": "Total United States vehicles entering in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Number of Total United States States vehicles to the entering begins at a prominent high level , followed by a dramatical drop to reach the lowest point in April , which reduces to a fifth of the beginning point . ",
+      "Then the Number remains stable with a slight increase to December ."
+   ],
+   "trends": [
+      {
+         "28": "3"
+      },
+      {
+         "10": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "635038.0"
+      },
+      {
+         "Month": "February",
+         "Number": "640999.0"
+      },
+      {
+         "Month": "March",
+         "Number": "718941.0"
+      },
+      {
+         "Month": "April",
+         "Number": "739902.0"
+      },
+      {
+         "Month": "May",
+         "Number": "873274.0"
+      },
+      {
+         "Month": "June",
+         "Number": "1029089.0"
+      },
+      {
+         "Month": "July",
+         "Number": "1241519.0"
+      },
+      {
+         "Month": "August",
+         "Number": "1174697.0"
+      },
+      {
+         "Month": "September",
+         "Number": "967768.0"
+      },
+      {
+         "Month": "October",
+         "Number": "833325.0"
+      },
+      {
+         "Month": "November",
+         "Number": "707568.0"
+      },
+      {
+         "Month": "December",
+         "Number": "718358.0"
+      }
+   ],
+   "gold": "This graph depicts the total number of United States vehicles entering in Canada during 2016 . The lowest number of vehicles is observed in January , at approximately 640000 . During the following months numbers of entering vehicles steadily increase until reaching the maximum number the year 2016 in July with approximately 1250000 .\n"
+}

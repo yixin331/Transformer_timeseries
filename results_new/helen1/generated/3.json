@@ -1,0 +1,69 @@
+{
+   "title": "House price index in Canada 2017",
+   "xAxis": "Month",
+   "yAxis": "Index 347",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The following line chart is about the House and price index in Canada during 2017 . ",
+      "From the graph it 's clearly possible to see how the Index values have been steadily increasing during 2017 . ",
+      "Few light fluctuations have been reported during the summer months ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Index 347": "999.0"
+      },
+      {
+         "Month": "February",
+         "Index 347": "1002.0"
+      },
+      {
+         "Month": "March",
+         "Index 347": "1004.0"
+      },
+      {
+         "Month": "April",
+         "Index 347": "1012.0"
+      },
+      {
+         "Month": "May",
+         "Index 347": "1017.0"
+      },
+      {
+         "Month": "June",
+         "Index 347": "1021.0"
+      },
+      {
+         "Month": "July",
+         "Index 347": "1027.0"
+      },
+      {
+         "Month": "August",
+         "Index 347": "1028.0"
+      },
+      {
+         "Month": "September",
+         "Index 347": "1029.0"
+      },
+      {
+         "Month": "October",
+         "Index 347": "1031.0"
+      },
+      {
+         "Month": "November",
+         "Index 347": "1032.0"
+      },
+      {
+         "Month": "December",
+         "Index 347": "1032.0"
+      }
+   ],
+   "gold": "Increase of house price index during 2017 months per months .\n"
+}

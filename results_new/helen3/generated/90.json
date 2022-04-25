@@ -1,0 +1,78 @@
+{
+   "title": "Total Canadian residents entering the country in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Persons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This line chart plots the Total number of foreign travelers entering Canadian over the year of 2020 . ",
+      "The number of travelers starts at around 3258227.0 million in January , but then between February and April , the number plummets down to less than 3258227.0 % . ",
+      "Then , until December , the number remains steady , only rising slightly past 3258227.0 million by the end of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "7": "2",
+         "10": "0",
+         "15": "1",
+         "17": "3",
+         "26": "2"
+      },
+      {
+         "3": "11",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Persons": "4430895.0"
+      },
+      {
+         "Month": "February",
+         "Persons": "4289711.0"
+      },
+      {
+         "Month": "March",
+         "Persons": "3258227.0"
+      },
+      {
+         "Month": "April",
+         "Persons": "181085.0"
+      },
+      {
+         "Month": "May",
+         "Persons": "195637.0"
+      },
+      {
+         "Month": "June",
+         "Persons": "246682.0"
+      },
+      {
+         "Month": "July",
+         "Persons": "287015.0"
+      },
+      {
+         "Month": "August",
+         "Persons": "344846.0"
+      },
+      {
+         "Month": "September",
+         "Persons": "324815.0"
+      },
+      {
+         "Month": "October",
+         "Persons": "341256.0"
+      },
+      {
+         "Month": "November",
+         "Persons": "325853.0"
+      },
+      {
+         "Month": "December",
+         "Persons": "379325.0"
+      }
+   ],
+   "gold": "This chart shows the total Canadian residents entering the country of Canada in the year 2020 . We see a steep decline in the Beginning of the year bottoming out in April , with a an extremely low rate with a very tiny gradual increase from April to the end of the year . One can imagine this was due to covid travel bans .\n"
+}

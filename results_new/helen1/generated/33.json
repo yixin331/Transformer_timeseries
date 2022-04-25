@@ -1,0 +1,73 @@
+{
+   "title": "Production of Canola in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Canola Canada ( in Tonnes ) in Canada the year 2019 . ",
+      "Production is very different over the year . ",
+      "While a significant decline in Production can be observed from January to February , Production continues to rise until April , reaching its annual maximum of more than 42000 Tonnes ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "10": "0",
+         "12": "1",
+         "19": "3"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "1737194.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "1270277.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "1226282.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "1346225.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "1589912.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "1506630.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "1650905.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "1281508.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "1294537.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "2702870.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "1490430.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "2046567.0"
+      }
+   ],
+   "gold": "The production of canola in Canada in 2019 is depicted in the line chart . The production maintains at the same level from January to September . It jumps dramatically to over 2600000 tonnes in October , reaching its maximum value .\n"
+}

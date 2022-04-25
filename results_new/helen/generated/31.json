@@ -1,0 +1,69 @@
+{
+   "title": "Total solar electricity generation in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Megawatt hours",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "A line chart about the Total solar electricity generation in Canada the year 2019 . ",
+      "Values are analyzed in the different months of the year . ",
+      "With generation values ranging from less than 1180 to more than 1220 ."
+   ],
+   "trends": [
+      {},
+      {},
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Megawatt hours": "85798.0"
+      },
+      {
+         "Month": "February",
+         "Megawatt hours": "101555.0"
+      },
+      {
+         "Month": "March",
+         "Megawatt hours": "213984.0"
+      },
+      {
+         "Month": "April",
+         "Megawatt hours": "237307.0"
+      },
+      {
+         "Month": "May",
+         "Megawatt hours": "282489.0"
+      },
+      {
+         "Month": "June",
+         "Megawatt hours": "315800.0"
+      },
+      {
+         "Month": "July",
+         "Megawatt hours": "338693.0"
+      },
+      {
+         "Month": "August",
+         "Megawatt hours": "313145.0"
+      },
+      {
+         "Month": "September",
+         "Megawatt hours": "241739.0"
+      },
+      {
+         "Month": "October",
+         "Megawatt hours": "153422.0"
+      },
+      {
+         "Month": "November",
+         "Megawatt hours": "95965.0"
+      },
+      {
+         "Month": "December",
+         "Megawatt hours": "69963.0"
+      }
+   ],
+   "gold": "This graph is showing the solar electricity generated in Canada for each month of the year 2019 . The unit of solar electricity generated is in megawatt-hours , and the month July generated the most solar electricity . .\n"
+}

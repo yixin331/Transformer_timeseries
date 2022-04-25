@@ -1,0 +1,1 @@
+Poultry production cost for each month in Canada in 2018.  The cost index, at its lowest near the beginning of the year, steadily rose from less than 1180 in March to over 1260 August, then settled in September at roughly 1240.

@@ -1,0 +1,74 @@
+{
+   "title": "Total vehicles entering Canada in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "Number",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Total Number of Canada vehicles in each of the months during 2018 . ",
+      "The maximum Number of Canada in a Month has been recorded for August . ",
+      "From February to August , this Number has been continuing to grow ."
+   ],
+   "trends": [
+      {},
+      {
+         "13": "7"
+      },
+      {
+         "1": "1",
+         "3": "7"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Number": "2181782.0"
+      },
+      {
+         "Month": "February",
+         "Number": "2087613.0"
+      },
+      {
+         "Month": "March",
+         "Number": "2653130.0"
+      },
+      {
+         "Month": "April",
+         "Number": "2632503.0"
+      },
+      {
+         "Month": "May",
+         "Number": "2949392.0"
+      },
+      {
+         "Month": "June",
+         "Number": "3058472.0"
+      },
+      {
+         "Month": "July",
+         "Number": "3358938.0"
+      },
+      {
+         "Month": "August",
+         "Number": "3483514.0"
+      },
+      {
+         "Month": "September",
+         "Number": "2821391.0"
+      },
+      {
+         "Month": "October",
+         "Number": "2695811.0"
+      },
+      {
+         "Month": "November",
+         "Number": "2351274.0"
+      },
+      {
+         "Month": "December",
+         "Number": "2374690.0"
+      }
+   ],
+   "gold": "The line chart describes the number of total vehicles entering Canada during 2018 . It 's clearly possible to observe that this value rapidly growed from January to August , showing the highest values during the summer months . During the last few months of the year the number of total vehicles entering Canada rapidly decreased .\n"
+}

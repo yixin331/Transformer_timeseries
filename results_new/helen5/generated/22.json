@@ -1,0 +1,72 @@
+{
+   "title": "Production of Rye in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The Production of Rye in Canada during 2019 showed several fluctuations during the year . ",
+      "The Production values have been displayed using Tonnes as unit of measurement . ",
+      "The most relevant peaks have been recorded during the months of February and June ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "11": "1",
+         "13": "5"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "24728.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "13700.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "3500.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "6700.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "4100.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "3676.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "2860.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "71980.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "27077.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "13022.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "9089.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "13260.0"
+      }
+   ],
+   "gold": "The graph shows the production of rye in Canada in 2019 . The production drops from January to March and remains steady till July . After July , it steeply jumps to its peak at over 70000 tonnes and rapidly shrinks in September .\n"
+}

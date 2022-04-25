@@ -1,0 +1,1 @@
+This is a connected scatterplot of hardwood production in Canada for the year 2021. It shows the amount of hardwood sold in cubic metres per month for the whole year. July had the lowest sales while March had the highest sales.

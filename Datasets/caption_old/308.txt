@@ -1,0 +1,1 @@
+Line chart showing the increase of the House and land price index in 2016 in Canada.

@@ -1,0 +1,72 @@
+{
+   "title": "Production of skim milk powder in Canada 2019",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of skim milk in Tonnes Canada during 2019 . ",
+      "The Production values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "10792.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "8885.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "8789.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "9705.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "7864.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "6917.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "8171.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "6297.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "6332.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "8346.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "6149.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "8838.0"
+      }
+   ],
+   "gold": "The graph shows the production of skim milk powder in tonnes in Canada during 2019 . The highest value recorded is about 10800 tonnes in January . The production shows an overall decline with a few surges from January to August .\n"
+}

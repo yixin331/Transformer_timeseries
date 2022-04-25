@@ -1,0 +1,76 @@
+{
+   "title": "New passenger cars sales in Canada 2021",
+   "xAxis": "Month",
+   "yAxis": "Units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Units of New passenger cars in Canada for each Month in 2021 . ",
+      "The cars reach a peak in Feburary at about 100000 Units , and then decrease to a minimum point of 40000 in April , then continuously increase from May to September . ",
+      "The cars reaches the maximum at September 140000 , and then decreasing again until December ."
+   ],
+   "trends": [
+      {},
+      {
+         "22": "3",
+         "28": "4",
+         "30": "8"
+      },
+      {
+         "6": "8",
+         "15": "11"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Units": "17329.0"
+      },
+      {
+         "Month": "February",
+         "Units": "21157.0"
+      },
+      {
+         "Month": "March",
+         "Units": "34828.0"
+      },
+      {
+         "Month": "April",
+         "Units": "32960.0"
+      },
+      {
+         "Month": "May",
+         "Units": "30793.0"
+      },
+      {
+         "Month": "June",
+         "Units": "40841.0"
+      },
+      {
+         "Month": "July",
+         "Units": "33775.0"
+      },
+      {
+         "Month": "August",
+         "Units": "33487.0"
+      },
+      {
+         "Month": "September",
+         "Units": "35463.0"
+      },
+      {
+         "Month": "October",
+         "Units": "26984.0"
+      },
+      {
+         "Month": "November",
+         "Units": "21792.0"
+      },
+      {
+         "Month": "December",
+         "Units": "18091.0"
+      }
+   ],
+   "gold": "A graph plotting the price of new passenger car sales in Canada for every month of the year 2021 . Starting from aaround 16000 units in January , sales increase and peak in June at over 41000 before dropping to below 20000 by December .\n"
+}

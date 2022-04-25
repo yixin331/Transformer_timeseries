@@ -1,0 +1,1 @@
+A graph plotting the price of new passenger car sales in Canada for every month of the year 2021. Starting from aaround 16000 units in January, sales increase and peak in June at over 41000 before dropping to below 20000 by December.

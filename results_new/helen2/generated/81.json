@@ -1,0 +1,71 @@
+{
+   "title": "Production of Wheat flour in Canada 2016",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph illustrates the Production of Wheat in Canada the year 2016 . ",
+      "The Production is very low in the first third of the year , before it rises sharply until October , reaching a maximum of 20000 Tonnes . ",
+      "Then the Production decreased again for the remaining months of the year ."
+   ],
+   "trends": [
+      {},
+      {
+         "18": "9"
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "19492.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "25937.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "22022.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "30536.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "20956.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "24287.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "19772.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "22488.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "21996.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "29921.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "30336.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "25239.0"
+      }
+   ],
+   "gold": "This figure shows the Canadian production of wheat flour of 2016 . Production is measured in tonnes . Production is the lowest during the month of January at approximately 19500 .\n"
+}

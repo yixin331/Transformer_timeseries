@@ -1,0 +1,72 @@
+{
+   "title": "Production of Oats in Canada 2020",
+   "xAxis": "Month",
+   "yAxis": "Tonnes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "The graph shows the Production of Oats Canada in Tonnes Canada during 2020 . ",
+      "The Production values are in Jannuary . ",
+      "From February till July the graph oscillate ."
+   ],
+   "trends": [
+      {},
+      {},
+      {
+         "1": "1",
+         "3": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "Tonnes": "198701.0"
+      },
+      {
+         "Month": "February",
+         "Tonnes": "175757.0"
+      },
+      {
+         "Month": "March",
+         "Tonnes": "206322.0"
+      },
+      {
+         "Month": "April",
+         "Tonnes": "375629.0"
+      },
+      {
+         "Month": "May",
+         "Tonnes": "108484.0"
+      },
+      {
+         "Month": "June",
+         "Tonnes": "222923.0"
+      },
+      {
+         "Month": "July",
+         "Tonnes": "173147.0"
+      },
+      {
+         "Month": "August",
+         "Tonnes": "290864.0"
+      },
+      {
+         "Month": "September",
+         "Tonnes": "553796.0"
+      },
+      {
+         "Month": "October",
+         "Tonnes": "332483.0"
+      },
+      {
+         "Month": "November",
+         "Tonnes": "288980.0"
+      },
+      {
+         "Month": "December",
+         "Tonnes": "246116.0"
+      }
+   ],
+   "gold": "The production of oats in Canada oscillates in 2020 . The pattern is in an 'M ' shape , with two peaks in April and September . The production remains steady for the rest of the months .\n"
+}

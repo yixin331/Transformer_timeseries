@@ -1,0 +1,77 @@
+{
+   "title": "Price index : Laptop computers in Canada 2018",
+   "xAxis": "Month",
+   "yAxis": "ID 492",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "nlp",
+   "summary": [
+      "This graph represents the Price index of Laptop computers in Canada 2018 . ",
+      "The number of computers experiences a sharp increase from January until reaching the maximum during June , whereas a small decline is observed in the Month of April . ",
+      "From June and September the Price index and Laptop computers in July ."
+   ],
+   "trends": [
+      {},
+      {
+         "9": "0",
+         "15": "5",
+         "27": "3"
+      },
+      {
+         "1": "5",
+         "3": "8",
+         "11": "6"
+      }
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "ID 492": "966.0"
+      },
+      {
+         "Month": "February",
+         "ID 492": "959.0"
+      },
+      {
+         "Month": "March",
+         "ID 492": "961.0"
+      },
+      {
+         "Month": "April",
+         "ID 492": "960.0"
+      },
+      {
+         "Month": "May",
+         "ID 492": "963.0"
+      },
+      {
+         "Month": "June",
+         "ID 492": "952.0"
+      },
+      {
+         "Month": "July",
+         "ID 492": "961.0"
+      },
+      {
+         "Month": "August",
+         "ID 492": "960.0"
+      },
+      {
+         "Month": "September",
+         "ID 492": "955.0"
+      },
+      {
+         "Month": "October",
+         "ID 492": "958.0"
+      },
+      {
+         "Month": "November",
+         "ID 492": "957.0"
+      },
+      {
+         "Month": "December",
+         "ID 492": "958.0"
+      }
+   ],
+   "gold": "In June 2018 laptop price has hugely decrease .\n"
+}

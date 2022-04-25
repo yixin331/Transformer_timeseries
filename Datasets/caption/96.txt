@@ -1,0 +1,1 @@
+This line chart shows monthly total solar electricity generation in Canada in 2020 . The chart shows a steady increase in electricity generated from January to July , when it reached a peak at 350000 megawatt hours , and then an equally steady decline until December .
