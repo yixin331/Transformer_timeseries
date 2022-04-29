@@ -21,8 +21,6 @@ generatedScores = []
 with open(labelPath, 'r', encoding='utf-8') as labelFile, open(summaryPath, 'r', encoding='utf-8') as summaryFile, \
         open(goldPath, 'r', encoding='utf-8') as goldFile, open(IDPath, 'r', encoding='utf-8') as IDFile:
     for lbls, summary, gold in zip(labelFile.readlines(), summaryFile.readlines(), goldFile.readlines()):
-        if count in [2, 12, 77]:
-            print(count)
         labelArr = lbls.split()
         summArr = summary.split()
         goldArr = gold.split()
